@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E033EA-23DD-48F9-8B2B-0F0CD3464A16}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\librarymanagementsystem\\librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E033EA-23DD-48F9-8B2B-0F0CD3464A16}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E033EA-23DD-48F9-8B2B-0F0CD3464A16}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E033EA-23DD-48F9-8B2B-0F0CD3464A16}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E033EA-23DD-48F9-8B2B-0F0CD3464A16}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\librarymanagementsystem\\librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E033EA-23DD-48F9-8B2B-0F0CD3464A16}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\LibraryManagementSystem\\LibraryManagementSystem\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Library.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\LibraryManagementSystem\\LibraryManagementSystem\\Library.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:24:18.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Book.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Book.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAArwFMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:24:10.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:22:06.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\SalesProject\SalesProject\bin\Debug\net8.0\SalesProject.exe
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\SalesProject\SalesProject\bin\Debug\net8.0\SalesProject.deps.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\SalesProject\SalesProject\bin\Debug\net8.0\SalesProject.runtimeconfig.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\SalesProject\SalesProject\bin\Debug\net8.0\SalesProject.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\SalesProject\SalesProject\bin\Debug\net8.0\SalesProject.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\SalesProject\SalesProject\obj\Debug\net8.0\SalesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\SalesProject\SalesProject\obj\Debug\net8.0\SalesProject.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\SalesProject\SalesProject\obj\Debug\net8.0\SalesProject.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\SalesProject\SalesProject\obj\Debug\net8.0\SalesProject.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\SalesProject\SalesProject\obj\Debug\net8.0\SalesProject.sourcelink.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\SalesProject\SalesProject\obj\Debug\net8.0\SalesProject.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\SalesProject\SalesProject\obj\Debug\net8.0\refint\SalesProject.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\SalesProject\SalesProject\obj\Debug\net8.0\SalesProject.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\SalesProject\SalesProject\obj\Debug\net8.0\SalesProject.genruntimeconfig.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\SalesProject\SalesProject\obj\Debug\net8.0\ref\SalesProject.dll
