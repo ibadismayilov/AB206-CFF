@@ -1,0 +1,15 @@
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Task\Task\bin\Debug\net8.0\ClassActivationAndInheritance.exe
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Task\Task\bin\Debug\net8.0\ClassActivationAndInheritance.deps.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Task\Task\bin\Debug\net8.0\ClassActivationAndInheritance.runtimeconfig.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Task\Task\bin\Debug\net8.0\ClassActivationAndInheritance.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Task\Task\bin\Debug\net8.0\ClassActivationAndInheritance.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Task\Task\obj\Debug\net8.0\ClassActivationAndInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Task\Task\obj\Debug\net8.0\ClassActivationAndInheritance.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Task\Task\obj\Debug\net8.0\ClassActivationAndInheritance.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Task\Task\obj\Debug\net8.0\ClassActivationAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Task\Task\obj\Debug\net8.0\ClassActivationAndInheritance.sourcelink.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Task\Task\obj\Debug\net8.0\ClassActivationAndInheritance.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Task\Task\obj\Debug\net8.0\refint\ClassActivationAndInheritance.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Task\Task\obj\Debug\net8.0\ClassActivationAndInheritance.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Task\Task\obj\Debug\net8.0\ClassActivationAndInheritance.genruntimeconfig.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Task\Task\obj\Debug\net8.0\ref\ClassActivationAndInheritance.dll
