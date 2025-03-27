@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\RefAndOut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3825D0B6-97B9-47FA-BFA8-1D865D4A60B3}|RefAndOut\\RefAndOut.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\code-attempts\\refandout\\refandout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3825D0B6-97B9-47FA-BFA8-1D865D4A60B3}|RefAndOut\\RefAndOut.csproj|solutionrelative:refandout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3825D0B6-97B9-47FA-BFA8-1D865D4A60B3}|RefAndOut\\RefAndOut.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\code-attempts\\refandout\\refandout\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3825D0B6-97B9-47FA-BFA8-1D865D4A60B3}|RefAndOut\\RefAndOut.csproj|solutionrelative:refandout\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\RefAndOut\\RefAndOut\\Methods.cs",
+              "RelativeDocumentMoniker": "RefAndOut\\Methods.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\RefAndOut\\RefAndOut\\Methods.cs",
+              "RelativeToolTip": "RefAndOut\\Methods.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:45:34.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\RefAndOut\\RefAndOut\\Program.cs",
+              "RelativeDocumentMoniker": "RefAndOut\\Program.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\RefAndOut\\RefAndOut\\Program.cs",
+              "RelativeToolTip": "RefAndOut\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:37:03.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZeroToHeroTasksPart1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd2d0453996e3b010c77fe7ed10e2a346890469e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73acd9d5dbd139cbae2054892fa6306f3112769b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZeroToHeroTasksPart1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZeroToHeroTasksPart1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
