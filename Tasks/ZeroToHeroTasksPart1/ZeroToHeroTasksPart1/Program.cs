@@ -626,6 +626,94 @@ namespace ZeroToHeroTasksPart1
             //}
 
             //Console.WriteLine(secondMaxNumber);
+
+            //            Tapşırıq 29:
+            //Console.WriteLine("Please enter a number");
+            //int number = Convert.ToInt32(Console.ReadLine());
+
+            //int sum = 0;
+            //while (number > 0)
+            //{
+            //    sum += number % 10;
+            //    number /= 10;
+            //}
+
+            //Console.WriteLine(sum);
+
+            //            Tapşırıq 30:
+            //Console.WriteLine("Please enter a number");
+            //int number = Convert.ToInt32(Console.ReadLine());
+
+            //int sum = 0;
+            //int count = 0;
+
+            //while (number > 0)
+            //{
+            //    sum += number % 10;
+            //    number /= 10;
+            //    count++;
+            //}
+
+            //Console.WriteLine($"Sum: {sum}\nCount: {count}");
+
+            //            Tapşırıq 31:
+            //Console.WriteLine("Please enter a number");
+            //int number = Convert.ToInt32(Console.ReadLine());
+
+            //bool check = false;
+
+            //for (int i = 2; i < number; i++)
+            //{
+            //    if (number % i == 0)
+            //    {
+            //        check = true;
+            //        break;
+            //    }
+            //}
+
+            //if (check)
+            //{
+            //    Console.WriteLine("M");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("S");
+            //}
+
+            //            Tapşırıq 32:
+            //Console.WriteLine("Please enter a number");
+            //int number = Convert.ToInt32(Console.ReadLine());
+
+            //int last__number = number % 10 ;
+
+            //int first__number = 0;
+
+            //while (number > 0)
+            //{
+            //    first__number = number % 10;
+            //    number /= 10;
+            //}
+
+            //if (first__number == last__number)
+            //{
+            //    Console.WriteLine("Number is Palindrome");
+            //} else
+            //{
+            //    Console.WriteLine("Number is not Palindrome");
+            //}
+
+            //            Tapşırıq 32:
+            //int fib1 = 0;
+            //int fib2 = 1;
+            //int i = 0;
+
+            //for (int j = 0; j < 10; j++)
+            //{
+            //    i = fib1 + fib2;
+            //    fib1 = fib2;
+            //    fib2 = i;
+            //    Console.WriteLine(i);
+            //}
         }
     }
 }
