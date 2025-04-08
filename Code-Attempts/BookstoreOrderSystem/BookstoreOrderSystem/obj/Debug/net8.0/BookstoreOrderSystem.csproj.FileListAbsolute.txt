@@ -1,0 +1,15 @@
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\BookstoreOrderSystem\BookstoreOrderSystem\bin\Debug\net8.0\BookstoreOrderSystem.exe
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\BookstoreOrderSystem\BookstoreOrderSystem\bin\Debug\net8.0\BookstoreOrderSystem.deps.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\BookstoreOrderSystem\BookstoreOrderSystem\bin\Debug\net8.0\BookstoreOrderSystem.runtimeconfig.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\BookstoreOrderSystem\BookstoreOrderSystem\bin\Debug\net8.0\BookstoreOrderSystem.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\BookstoreOrderSystem\BookstoreOrderSystem\bin\Debug\net8.0\BookstoreOrderSystem.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\BookstoreOrderSystem\BookstoreOrderSystem\obj\Debug\net8.0\BookstoreOrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\BookstoreOrderSystem\BookstoreOrderSystem\obj\Debug\net8.0\BookstoreOrderSystem.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\BookstoreOrderSystem\BookstoreOrderSystem\obj\Debug\net8.0\BookstoreOrderSystem.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\BookstoreOrderSystem\BookstoreOrderSystem\obj\Debug\net8.0\BookstoreOrderSystem.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\BookstoreOrderSystem\BookstoreOrderSystem\obj\Debug\net8.0\BookstoreOrderSystem.sourcelink.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\BookstoreOrderSystem\BookstoreOrderSystem\obj\Debug\net8.0\BookstoreOrderSystem.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\BookstoreOrderSystem\BookstoreOrderSystem\obj\Debug\net8.0\refint\BookstoreOrderSystem.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\BookstoreOrderSystem\BookstoreOrderSystem\obj\Debug\net8.0\BookstoreOrderSystem.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\BookstoreOrderSystem\BookstoreOrderSystem\obj\Debug\net8.0\BookstoreOrderSystem.genruntimeconfig.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\BookstoreOrderSystem\BookstoreOrderSystem\obj\Debug\net8.0\ref\BookstoreOrderSystem.dll

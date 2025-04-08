@@ -1,0 +1,28 @@
+C:\Users\II Novbe\Desktop\AB206-CFF\BankSystemConsoleApp\BankSystemConsoleApp\bin\Debug\net8.0\BankSystemConsoleApp.exe
+C:\Users\II Novbe\Desktop\AB206-CFF\BankSystemConsoleApp\BankSystemConsoleApp\bin\Debug\net8.0\BankSystemConsoleApp.deps.json
+C:\Users\II Novbe\Desktop\AB206-CFF\BankSystemConsoleApp\BankSystemConsoleApp\bin\Debug\net8.0\BankSystemConsoleApp.runtimeconfig.json
+C:\Users\II Novbe\Desktop\AB206-CFF\BankSystemConsoleApp\BankSystemConsoleApp\bin\Debug\net8.0\BankSystemConsoleApp.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\BankSystemConsoleApp\BankSystemConsoleApp\bin\Debug\net8.0\BankSystemConsoleApp.pdb
+C:\Users\II Novbe\Desktop\AB206-CFF\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\BankSystemConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\AB206-CFF\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\BankSystemConsoleApp.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\BankSystemConsoleApp.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\AB206-CFF\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\BankSystemConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\BankSystemConsoleApp.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\refint\BankSystemConsoleApp.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\BankSystemConsoleApp.pdb
+C:\Users\II Novbe\Desktop\AB206-CFF\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\BankSystemConsoleApp.genruntimeconfig.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\ref\BankSystemConsoleApp.dll
+C:\Users\ibadi\OneDrive\Desktop\BankSystemConsoleApp\BankSystemConsoleApp\bin\Debug\net8.0\BankSystemConsoleApp.exe
+C:\Users\ibadi\OneDrive\Desktop\BankSystemConsoleApp\BankSystemConsoleApp\bin\Debug\net8.0\BankSystemConsoleApp.deps.json
+C:\Users\ibadi\OneDrive\Desktop\BankSystemConsoleApp\BankSystemConsoleApp\bin\Debug\net8.0\BankSystemConsoleApp.runtimeconfig.json
+C:\Users\ibadi\OneDrive\Desktop\BankSystemConsoleApp\BankSystemConsoleApp\bin\Debug\net8.0\BankSystemConsoleApp.dll
+C:\Users\ibadi\OneDrive\Desktop\BankSystemConsoleApp\BankSystemConsoleApp\bin\Debug\net8.0\BankSystemConsoleApp.pdb
+C:\Users\ibadi\OneDrive\Desktop\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\BankSystemConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\BankSystemConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\BankSystemConsoleApp.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\BankSystemConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\BankSystemConsoleApp.dll
+C:\Users\ibadi\OneDrive\Desktop\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\refint\BankSystemConsoleApp.dll
+C:\Users\ibadi\OneDrive\Desktop\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\BankSystemConsoleApp.pdb
+C:\Users\ibadi\OneDrive\Desktop\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\BankSystemConsoleApp.genruntimeconfig.cache
+C:\Users\ibadi\OneDrive\Desktop\BankSystemConsoleApp\BankSystemConsoleApp\obj\Debug\net8.0\ref\BankSystemConsoleApp.dll
