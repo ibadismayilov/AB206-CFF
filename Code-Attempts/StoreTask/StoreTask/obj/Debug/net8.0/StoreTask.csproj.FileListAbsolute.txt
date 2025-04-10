@@ -1,0 +1,14 @@
+C:\Users\ibadi\OneDrive\Desktop\StoreTask\StoreTask\bin\Debug\net8.0\StoreTask.exe
+C:\Users\ibadi\OneDrive\Desktop\StoreTask\StoreTask\bin\Debug\net8.0\StoreTask.deps.json
+C:\Users\ibadi\OneDrive\Desktop\StoreTask\StoreTask\bin\Debug\net8.0\StoreTask.runtimeconfig.json
+C:\Users\ibadi\OneDrive\Desktop\StoreTask\StoreTask\bin\Debug\net8.0\StoreTask.dll
+C:\Users\ibadi\OneDrive\Desktop\StoreTask\StoreTask\bin\Debug\net8.0\StoreTask.pdb
+C:\Users\ibadi\OneDrive\Desktop\StoreTask\StoreTask\obj\Debug\net8.0\StoreTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\StoreTask\StoreTask\obj\Debug\net8.0\StoreTask.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\StoreTask\StoreTask\obj\Debug\net8.0\StoreTask.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\StoreTask\StoreTask\obj\Debug\net8.0\StoreTask.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\StoreTask\StoreTask\obj\Debug\net8.0\StoreTask.dll
+C:\Users\ibadi\OneDrive\Desktop\StoreTask\StoreTask\obj\Debug\net8.0\refint\StoreTask.dll
+C:\Users\ibadi\OneDrive\Desktop\StoreTask\StoreTask\obj\Debug\net8.0\StoreTask.pdb
+C:\Users\ibadi\OneDrive\Desktop\StoreTask\StoreTask\obj\Debug\net8.0\StoreTask.genruntimeconfig.cache
+C:\Users\ibadi\OneDrive\Desktop\StoreTask\StoreTask\obj\Debug\net8.0\ref\StoreTask.dll
