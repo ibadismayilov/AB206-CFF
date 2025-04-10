@@ -1,0 +1,14 @@
+C:\Users\ibadi\OneDrive\Desktop\HotelTask\HotelTask\bin\Debug\net8.0\HotelTask.exe
+C:\Users\ibadi\OneDrive\Desktop\HotelTask\HotelTask\bin\Debug\net8.0\HotelTask.deps.json
+C:\Users\ibadi\OneDrive\Desktop\HotelTask\HotelTask\bin\Debug\net8.0\HotelTask.runtimeconfig.json
+C:\Users\ibadi\OneDrive\Desktop\HotelTask\HotelTask\bin\Debug\net8.0\HotelTask.dll
+C:\Users\ibadi\OneDrive\Desktop\HotelTask\HotelTask\bin\Debug\net8.0\HotelTask.pdb
+C:\Users\ibadi\OneDrive\Desktop\HotelTask\HotelTask\obj\Debug\net8.0\HotelTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\HotelTask\HotelTask\obj\Debug\net8.0\HotelTask.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\HotelTask\HotelTask\obj\Debug\net8.0\HotelTask.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\HotelTask\HotelTask\obj\Debug\net8.0\HotelTask.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\HotelTask\HotelTask\obj\Debug\net8.0\HotelTask.dll
+C:\Users\ibadi\OneDrive\Desktop\HotelTask\HotelTask\obj\Debug\net8.0\refint\HotelTask.dll
+C:\Users\ibadi\OneDrive\Desktop\HotelTask\HotelTask\obj\Debug\net8.0\HotelTask.pdb
+C:\Users\ibadi\OneDrive\Desktop\HotelTask\HotelTask\obj\Debug\net8.0\HotelTask.genruntimeconfig.cache
+C:\Users\ibadi\OneDrive\Desktop\HotelTask\HotelTask\obj\Debug\net8.0\ref\HotelTask.dll
