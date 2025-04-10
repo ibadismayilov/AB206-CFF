@@ -58,7 +58,6 @@
                             //    Console.WriteLine("Çıxış edildi");
                             //}
 
-                            bool roomCheck = int.TryParse(Console.ReadLine(), out result);
 
                             do
                             {
@@ -67,6 +66,8 @@
                                 Console.WriteLine("3. Rezervasya et");
                                 Console.WriteLine("4. Evvelki menuya qayit.");
                                 Console.WriteLine("0. Çıxış");
+
+                                bool roomCheck = int.TryParse(Console.ReadLine(), out result);
 
                                 if (roomCheck)
                                 {
@@ -88,7 +89,6 @@
                                             break;
 
                                         case 2:
-                                            hotel.FindAllRoom();
                                             break;
 
                                         case 3:
