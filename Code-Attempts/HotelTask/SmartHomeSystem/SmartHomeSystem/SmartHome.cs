@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace SmartHomeSystem;
 
-public interface ICamera
+public class SmartHome
 {
-    void StartRecording();
-    void StopRecording();
+    SmartHome[] smartHome = new SmartHome[0];
+
+
 }

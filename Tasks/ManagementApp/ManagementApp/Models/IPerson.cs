@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SmartHomeSystem;
+namespace ManagementApp.Models;
 
-public interface ICamera
+interface IPerson
 {
-    void StartRecording();
-    void StopRecording();
+    string GetFullName();
+    void DisplayInfo();
 }

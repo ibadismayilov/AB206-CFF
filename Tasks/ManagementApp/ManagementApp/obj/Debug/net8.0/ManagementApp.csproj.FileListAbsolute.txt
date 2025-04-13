@@ -1,0 +1,21 @@
+C:\Users\II Novbe\Desktop\AB206-CFF\ManagementApp\ManagementApp\bin\Debug\net8.0\ManagementApp.exe
+C:\Users\II Novbe\Desktop\AB206-CFF\ManagementApp\ManagementApp\bin\Debug\net8.0\ManagementApp.deps.json
+C:\Users\II Novbe\Desktop\AB206-CFF\ManagementApp\ManagementApp\bin\Debug\net8.0\ManagementApp.runtimeconfig.json
+C:\Users\II Novbe\Desktop\AB206-CFF\ManagementApp\ManagementApp\bin\Debug\net8.0\ManagementApp.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\ManagementApp\ManagementApp\bin\Debug\net8.0\ManagementApp.pdb
+C:\Users\II Novbe\Desktop\AB206-CFF\ManagementApp\ManagementApp\obj\Debug\net8.0\ManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\AB206-CFF\ManagementApp\ManagementApp\obj\Debug\net8.0\ManagementApp.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\ManagementApp\ManagementApp\obj\Debug\net8.0\ManagementApp.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\AB206-CFF\ManagementApp\ManagementApp\obj\Debug\net8.0\ManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\ManagementApp\ManagementApp\obj\Debug\net8.0\ManagementApp.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\ManagementApp\ManagementApp\obj\Debug\net8.0\refint\ManagementApp.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\ManagementApp\ManagementApp\obj\Debug\net8.0\ManagementApp.pdb
+C:\Users\II Novbe\Desktop\AB206-CFF\ManagementApp\ManagementApp\obj\Debug\net8.0\ManagementApp.genruntimeconfig.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\ManagementApp\ManagementApp\obj\Debug\net8.0\ref\ManagementApp.dll
+C:\Users\ibadi\OneDrive\Desktop\ManagementApp\ManagementApp\obj\Debug\net8.0\ManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\ManagementApp\ManagementApp\obj\Debug\net8.0\ManagementApp.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\ManagementApp\ManagementApp\obj\Debug\net8.0\ManagementApp.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\ManagementApp\ManagementApp\obj\Debug\net8.0\ManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\ManagementApp\ManagementApp\obj\Debug\net8.0\ManagementApp.dll
+C:\Users\ibadi\OneDrive\Desktop\ManagementApp\ManagementApp\obj\Debug\net8.0\refint\ManagementApp.dll
+C:\Users\ibadi\OneDrive\Desktop\ManagementApp\ManagementApp\obj\Debug\net8.0\ManagementApp.pdb
