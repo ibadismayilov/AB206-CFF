@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\ListForEmpoyee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A6DA28-60D4-44F7-9555-483D76DCF6F4}|ListForEmpoyee\\ListForEmpoyee.csproj|c:\\users\\ibadi\\onedrive\\desktop\\listforempoyee\\listforempoyee\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A6DA28-60D4-44F7-9555-483D76DCF6F4}|ListForEmpoyee\\ListForEmpoyee.csproj|solutionrelative:listforempoyee\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A6DA28-60D4-44F7-9555-483D76DCF6F4}|ListForEmpoyee\\ListForEmpoyee.csproj|c:\\users\\ibadi\\onedrive\\desktop\\listforempoyee\\listforempoyee\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A6DA28-60D4-44F7-9555-483D76DCF6F4}|ListForEmpoyee\\ListForEmpoyee.csproj|solutionrelative:listforempoyee\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A6DA28-60D4-44F7-9555-483D76DCF6F4}|ListForEmpoyee\\ListForEmpoyee.csproj|c:\\users\\ibadi\\onedrive\\desktop\\listforempoyee\\listforempoyee\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A6DA28-60D4-44F7-9555-483D76DCF6F4}|ListForEmpoyee\\ListForEmpoyee.csproj|solutionrelative:listforempoyee\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A6DA28-60D4-44F7-9555-483D76DCF6F4}|ListForEmpoyee\\ListForEmpoyee.csproj|c:\\users\\ibadi\\onedrive\\desktop\\listforempoyee\\listforempoyee\\helpers\\positions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A6DA28-60D4-44F7-9555-483D76DCF6F4}|ListForEmpoyee\\ListForEmpoyee.csproj|solutionrelative:listforempoyee\\helpers\\positions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A6DA28-60D4-44F7-9555-483D76DCF6F4}|ListForEmpoyee\\ListForEmpoyee.csproj|c:\\users\\ibadi\\onedrive\\desktop\\listforempoyee\\listforempoyee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A6DA28-60D4-44F7-9555-483D76DCF6F4}|ListForEmpoyee\\ListForEmpoyee.csproj|solutionrelative:listforempoyee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\ListForEmpoyee\\ListForEmpoyee\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "ListForEmpoyee\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\ListForEmpoyee\\ListForEmpoyee\\Models\\Menu.cs",
+              "RelativeToolTip": "ListForEmpoyee\\Models\\Menu.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAQwIQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:34:20.015Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\ListForEmpoyee\\ListForEmpoyee\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ListForEmpoyee\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\ListForEmpoyee\\ListForEmpoyee\\Models\\Employee.cs",
+              "RelativeToolTip": "ListForEmpoyee\\Models\\Employee.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:02:56.116Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\ListForEmpoyee\\ListForEmpoyee\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "ListForEmpoyee\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\ListForEmpoyee\\ListForEmpoyee\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "ListForEmpoyee\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwIEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:17:44.555Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\ListForEmpoyee\\ListForEmpoyee\\Program.cs",
+              "RelativeDocumentMoniker": "ListForEmpoyee\\Program.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\ListForEmpoyee\\ListForEmpoyee\\Program.cs",
+              "RelativeToolTip": "ListForEmpoyee\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:19:09.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Positions.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\ListForEmpoyee\\ListForEmpoyee\\Helpers\\Positions.cs",
+              "RelativeDocumentMoniker": "ListForEmpoyee\\Helpers\\Positions.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\ListForEmpoyee\\ListForEmpoyee\\Helpers\\Positions.cs",
+              "RelativeToolTip": "ListForEmpoyee\\Helpers\\Positions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:54:18.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

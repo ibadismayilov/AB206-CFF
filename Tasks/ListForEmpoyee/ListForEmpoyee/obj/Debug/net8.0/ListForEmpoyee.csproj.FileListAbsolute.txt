@@ -1,0 +1,14 @@
+C:\Users\ibadi\OneDrive\Desktop\ListForEmpoyee\ListForEmpoyee\obj\Debug\net8.0\ListForEmpoyee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\ListForEmpoyee\ListForEmpoyee\obj\Debug\net8.0\ListForEmpoyee.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\ListForEmpoyee\ListForEmpoyee\obj\Debug\net8.0\ListForEmpoyee.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\ListForEmpoyee\ListForEmpoyee\obj\Debug\net8.0\ListForEmpoyee.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\ListForEmpoyee\ListForEmpoyee\bin\Debug\net8.0\ListForEmpoyee.exe
+C:\Users\ibadi\OneDrive\Desktop\ListForEmpoyee\ListForEmpoyee\bin\Debug\net8.0\ListForEmpoyee.deps.json
+C:\Users\ibadi\OneDrive\Desktop\ListForEmpoyee\ListForEmpoyee\bin\Debug\net8.0\ListForEmpoyee.runtimeconfig.json
+C:\Users\ibadi\OneDrive\Desktop\ListForEmpoyee\ListForEmpoyee\bin\Debug\net8.0\ListForEmpoyee.dll
+C:\Users\ibadi\OneDrive\Desktop\ListForEmpoyee\ListForEmpoyee\bin\Debug\net8.0\ListForEmpoyee.pdb
+C:\Users\ibadi\OneDrive\Desktop\ListForEmpoyee\ListForEmpoyee\obj\Debug\net8.0\ListForEmpoyee.dll
+C:\Users\ibadi\OneDrive\Desktop\ListForEmpoyee\ListForEmpoyee\obj\Debug\net8.0\refint\ListForEmpoyee.dll
+C:\Users\ibadi\OneDrive\Desktop\ListForEmpoyee\ListForEmpoyee\obj\Debug\net8.0\ListForEmpoyee.pdb
+C:\Users\ibadi\OneDrive\Desktop\ListForEmpoyee\ListForEmpoyee\obj\Debug\net8.0\ListForEmpoyee.genruntimeconfig.cache
+C:\Users\ibadi\OneDrive\Desktop\ListForEmpoyee\ListForEmpoyee\obj\Debug\net8.0\ref\ListForEmpoyee.dll
