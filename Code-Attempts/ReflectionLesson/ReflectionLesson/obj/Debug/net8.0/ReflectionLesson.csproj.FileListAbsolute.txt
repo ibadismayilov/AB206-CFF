@@ -1,0 +1,15 @@
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\HotelTask\ReflectionLesson\ReflectionLesson\bin\Debug\net8.0\ReflectionLesson.exe
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\HotelTask\ReflectionLesson\ReflectionLesson\bin\Debug\net8.0\ReflectionLesson.deps.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\HotelTask\ReflectionLesson\ReflectionLesson\bin\Debug\net8.0\ReflectionLesson.runtimeconfig.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\HotelTask\ReflectionLesson\ReflectionLesson\bin\Debug\net8.0\ReflectionLesson.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\HotelTask\ReflectionLesson\ReflectionLesson\bin\Debug\net8.0\ReflectionLesson.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\HotelTask\ReflectionLesson\ReflectionLesson\obj\Debug\net8.0\ReflectionLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\HotelTask\ReflectionLesson\ReflectionLesson\obj\Debug\net8.0\ReflectionLesson.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\HotelTask\ReflectionLesson\ReflectionLesson\obj\Debug\net8.0\ReflectionLesson.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\HotelTask\ReflectionLesson\ReflectionLesson\obj\Debug\net8.0\ReflectionLesson.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\HotelTask\ReflectionLesson\ReflectionLesson\obj\Debug\net8.0\ReflectionLesson.sourcelink.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\HotelTask\ReflectionLesson\ReflectionLesson\obj\Debug\net8.0\ReflectionLesson.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\HotelTask\ReflectionLesson\ReflectionLesson\obj\Debug\net8.0\refint\ReflectionLesson.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\HotelTask\ReflectionLesson\ReflectionLesson\obj\Debug\net8.0\ReflectionLesson.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\HotelTask\ReflectionLesson\ReflectionLesson\obj\Debug\net8.0\ReflectionLesson.genruntimeconfig.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\HotelTask\ReflectionLesson\ReflectionLesson\obj\Debug\net8.0\ref\ReflectionLesson.dll

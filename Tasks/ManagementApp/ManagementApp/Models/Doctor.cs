@@ -15,7 +15,6 @@ public class Doctor
     {
         get
         {
-
             return _doctor_id;
         }
 
@@ -32,14 +31,15 @@ public class Doctor
     public Genders Gender { get; set; }
     public Department DepartmentEnum { get; set; }
 
-    public Doctor(string name, string surname, int age, int experienceYear, Genders genders, Department departmentEnum)
+    public Doctor(string name, string surname, int age, int experienceYear, Genders gender, Department departmentEnum)
     {
         DoctorID = _doctor_id++;
         Name = name;
         Surname = surname;
         Age = age;
         ExperienceYear = experienceYear;
-        Gender = genders;
+        Gender = gender;
         DepartmentEnum = departmentEnum;
     }
+
 }

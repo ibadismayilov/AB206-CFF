@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibadi\\OneDrive\\Desktop\\ManagementApp\\ManagementApp\\ManagementApp.csproj",
+      "projectUniqueName": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Tasks\\ManagementApp\\ManagementApp\\ManagementApp.csproj",
       "projectName": "ManagementApp",
-      "projectPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\ManagementApp\\ManagementApp\\ManagementApp.csproj",
+      "projectPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Tasks\\ManagementApp\\ManagementApp\\ManagementApp.csproj",
       "packagesPath": "C:\\Users\\ibadi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\ManagementApp\\ManagementApp\\obj\\",
+      "outputPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Tasks\\ManagementApp\\ManagementApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

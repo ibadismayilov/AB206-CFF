@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static ManagementApp.Models.UserDepartment;
+using static ManagementApp.Models.UserGender;
+using System.Xml.Linq;
 
 namespace ManagementApp.Models;
 
@@ -48,15 +51,22 @@ public static class DBContext
 
     public static void AddNewAppointment(Appointment appointment)
     {
-        foreach (var item in patients)
+        Doctor[] doctor = new Doctor[0];
+
+        foreach (Patient item in patients)
         {
+
             if (item._patiend_id.Equals(appointment.PatientId))
             {
-                Array.Resize(ref appointments, appointments.Length + 1);
-                appointments[appointments.Length - 1] = appointment;
+                Doctor newDoctor = new Doctor(item.Name, item.Surname, 20, 5, item.Gender, Department.Cərrahiyyə);
+
+
+                Array.Resize(ref doctor, doctor.Length + 1);
+                doctor[doctor.Length - 1] = newDoctor;
             }
         }
     }
+
 
     public static Patient[] GetAllPatient()
     {
@@ -84,7 +94,7 @@ public static class DBContext
             }
             else
             {
-                Console.WriteLine($"{item._doctor_id} | {item.Name} | {item.Surname} | {item.Gender} | {item.Age} | {item.DepartmentEnum}| {item.ExperienceYear} | {item.DoctorAppointment}");
+                Console.WriteLine($"{item._doctor_id} | {item.Name} | {item.Surname} | {item.Gender} | {item.Age} | {item.DepartmentEnum}| {item.ExperienceYear}");
             }
         }
         return null;
