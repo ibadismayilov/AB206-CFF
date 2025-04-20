@@ -38,8 +38,7 @@
               "RelativeToolTip": "ManagementApp\\Program.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAAAEQAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T21:57:29.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T21:57:29.64Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "ManagementApp\\Models\\Appointment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T21:50:19.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T21:50:19.733Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "ManagementApp\\Models\\Doctor.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAcwB8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T21:45:45.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T21:45:45.075Z"
             }
           ]
         }

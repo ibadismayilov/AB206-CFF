@@ -51,21 +51,30 @@ public static class DBContext
 
     public static void AddNewAppointment(Appointment appointment)
     {
-        Doctor[] doctor = new Doctor[0];
+        Patient foundPatient = null;
 
         foreach (Patient item in patients)
         {
-
-            if (item._patiend_id.Equals(appointment.PatientId))
+            if (item._patiend_id == appointment.PatientId)
             {
-                Doctor newDoctor = new Doctor(item.Name, item.Surname, 20, 5, item.Gender, Department.Cərrahiyyə);
-
-
-                Array.Resize(ref doctor, doctor.Length + 1);
-                doctor[doctor.Length - 1] = newDoctor;
+                foundPatient = item;
+                break;
             }
         }
+
+        if (foundPatient != null)
+        {
+            Array.Resize(ref appointments, appointments.Length + 1);
+            appointments[appointments.Length - 1] = appointment;
+
+            Console.WriteLine("Elave olundu");
+        }
+        else
+        {
+            Console.WriteLine("Xəstə tapılmadı");
+        }
     }
+
 
 
     public static Patient[] GetAllPatient()

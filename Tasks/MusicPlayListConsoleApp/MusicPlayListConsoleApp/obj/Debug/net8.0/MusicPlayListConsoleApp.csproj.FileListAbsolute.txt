@@ -1,0 +1,15 @@
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MusicPlayListConsoleApp\MusicPlayListConsoleApp\bin\Debug\net8.0\MusicPlayListConsoleApp.exe
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MusicPlayListConsoleApp\MusicPlayListConsoleApp\bin\Debug\net8.0\MusicPlayListConsoleApp.deps.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MusicPlayListConsoleApp\MusicPlayListConsoleApp\bin\Debug\net8.0\MusicPlayListConsoleApp.runtimeconfig.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MusicPlayListConsoleApp\MusicPlayListConsoleApp\bin\Debug\net8.0\MusicPlayListConsoleApp.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MusicPlayListConsoleApp\MusicPlayListConsoleApp\bin\Debug\net8.0\MusicPlayListConsoleApp.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MusicPlayListConsoleApp\MusicPlayListConsoleApp\obj\Debug\net8.0\MusicPlayListConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MusicPlayListConsoleApp\MusicPlayListConsoleApp\obj\Debug\net8.0\MusicPlayListConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MusicPlayListConsoleApp\MusicPlayListConsoleApp\obj\Debug\net8.0\MusicPlayListConsoleApp.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MusicPlayListConsoleApp\MusicPlayListConsoleApp\obj\Debug\net8.0\MusicPlayListConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MusicPlayListConsoleApp\MusicPlayListConsoleApp\obj\Debug\net8.0\MusicPlayListConsoleApp.sourcelink.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MusicPlayListConsoleApp\MusicPlayListConsoleApp\obj\Debug\net8.0\MusicPlayListConsoleApp.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MusicPlayListConsoleApp\MusicPlayListConsoleApp\obj\Debug\net8.0\refint\MusicPlayListConsoleApp.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MusicPlayListConsoleApp\MusicPlayListConsoleApp\obj\Debug\net8.0\MusicPlayListConsoleApp.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MusicPlayListConsoleApp\MusicPlayListConsoleApp\obj\Debug\net8.0\MusicPlayListConsoleApp.genruntimeconfig.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MusicPlayListConsoleApp\MusicPlayListConsoleApp\obj\Debug\net8.0\ref\MusicPlayListConsoleApp.dll
