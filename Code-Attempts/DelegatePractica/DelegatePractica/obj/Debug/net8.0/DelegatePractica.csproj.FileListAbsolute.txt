@@ -1,0 +1,15 @@
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DelegatePractica\DelegatePractica\bin\Debug\net8.0\DelegatePractica.exe
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DelegatePractica\DelegatePractica\bin\Debug\net8.0\DelegatePractica.deps.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DelegatePractica\DelegatePractica\bin\Debug\net8.0\DelegatePractica.runtimeconfig.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DelegatePractica\DelegatePractica\bin\Debug\net8.0\DelegatePractica.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DelegatePractica\DelegatePractica\bin\Debug\net8.0\DelegatePractica.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DelegatePractica\DelegatePractica\obj\Debug\net8.0\DelegatePractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DelegatePractica\DelegatePractica\obj\Debug\net8.0\DelegatePractica.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DelegatePractica\DelegatePractica\obj\Debug\net8.0\DelegatePractica.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DelegatePractica\DelegatePractica\obj\Debug\net8.0\DelegatePractica.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DelegatePractica\DelegatePractica\obj\Debug\net8.0\DelegatePractica.sourcelink.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DelegatePractica\DelegatePractica\obj\Debug\net8.0\DelegatePractica.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DelegatePractica\DelegatePractica\obj\Debug\net8.0\refint\DelegatePractica.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DelegatePractica\DelegatePractica\obj\Debug\net8.0\DelegatePractica.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DelegatePractica\DelegatePractica\obj\Debug\net8.0\DelegatePractica.genruntimeconfig.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DelegatePractica\DelegatePractica\obj\Debug\net8.0\ref\DelegatePractica.dll
