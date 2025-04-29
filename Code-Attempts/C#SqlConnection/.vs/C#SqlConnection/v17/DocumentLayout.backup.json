@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Migrations\\20250429210359_TeachersTableCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C#SqlConnection\\Migrations\\20250429210359_TeachersTableCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6453CE67-5D9D-4020-BBB8-32EC3F16F990}|C#SqlConnection\\C#SqlConnection.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\code-attempts\\c#sqlconnection\\c#sqlconnection\\contexts\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6453CE67-5D9D-4020-BBB8-32EC3F16F990}|C#SqlConnection\\C#SqlConnection.csproj|solutionrelative:c#sqlconnection\\contexts\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Migrations\\20250429210213_StudentsTableCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C#SqlConnection\\Migrations\\20250429210213_StudentsTableCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6453CE67-5D9D-4020-BBB8-32EC3F16F990}|C#SqlConnection\\C#SqlConnection.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\code-attempts\\c#sqlconnection\\c#sqlconnection\\migrations\\20250429205253_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6453CE67-5D9D-4020-BBB8-32EC3F16F990}|C#SqlConnection\\C#SqlConnection.csproj|solutionrelative:c#sqlconnection\\migrations\\20250429205253_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6453CE67-5D9D-4020-BBB8-32EC3F16F990}|C#SqlConnection\\C#SqlConnection.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\code-attempts\\c#sqlconnection\\c#sqlconnection\\c#sqlconnection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6453CE67-5D9D-4020-BBB8-32EC3F16F990}|C#SqlConnection\\C#SqlConnection.csproj|solutionrelative:c#sqlconnection\\c#sqlconnection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6453CE67-5D9D-4020-BBB8-32EC3F16F990}|C#SqlConnection\\C#SqlConnection.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\code-attempts\\c#sqlconnection\\c#sqlconnection\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6453CE67-5D9D-4020-BBB8-32EC3F16F990}|C#SqlConnection\\C#SqlConnection.csproj|solutionrelative:c#sqlconnection\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6453CE67-5D9D-4020-BBB8-32EC3F16F990}|C#SqlConnection\\C#SqlConnection.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\code-attempts\\c#sqlconnection\\c#sqlconnection\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6453CE67-5D9D-4020-BBB8-32EC3F16F990}|C#SqlConnection\\C#SqlConnection.csproj|solutionrelative:c#sqlconnection\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6453CE67-5D9D-4020-BBB8-32EC3F16F990}|C#SqlConnection\\C#SqlConnection.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\code-attempts\\c#sqlconnection\\c#sqlconnection\\core\\\u0130nterfaces\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6453CE67-5D9D-4020-BBB8-32EC3F16F990}|C#SqlConnection\\C#SqlConnection.csproj|solutionrelative:c#sqlconnection\\core\\\u0130nterfaces\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6453CE67-5D9D-4020-BBB8-32EC3F16F990}|C#SqlConnection\\C#SqlConnection.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\code-attempts\\c#sqlconnection\\c#sqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6453CE67-5D9D-4020-BBB8-32EC3F16F990}|C#SqlConnection\\C#SqlConnection.csproj|solutionrelative:c#sqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250429210359_TeachersTableCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Migrations\\20250429210359_TeachersTableCreate.cs",
+              "RelativeDocumentMoniker": "C#SqlConnection\\Migrations\\20250429210359_TeachersTableCreate.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Migrations\\20250429210359_TeachersTableCreate.cs",
+              "RelativeToolTip": "C#SqlConnection\\Migrations\\20250429210359_TeachersTableCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:03:59.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250429210213_StudentsTableCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Migrations\\20250429210213_StudentsTableCreate.cs",
+              "RelativeDocumentMoniker": "C#SqlConnection\\Migrations\\20250429210213_StudentsTableCreate.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Migrations\\20250429210213_StudentsTableCreate.cs",
+              "RelativeToolTip": "C#SqlConnection\\Migrations\\20250429210213_StudentsTableCreate.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:02:14.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250429205253_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Migrations\\20250429205253_Initial.cs",
+              "RelativeDocumentMoniker": "C#SqlConnection\\Migrations\\20250429205253_Initial.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Migrations\\20250429205253_Initial.cs",
+              "RelativeToolTip": "C#SqlConnection\\Migrations\\20250429205253_Initial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:52:54.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "C#SqlConnection",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\C#SqlConnection.csproj",
+              "RelativeDocumentMoniker": "C#SqlConnection\\C#SqlConnection.csproj",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\C#SqlConnection.csproj",
+              "RelativeToolTip": "C#SqlConnection\\C#SqlConnection.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T20:48:28.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Contexts\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "C#SqlConnection\\Contexts\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Contexts\\SchoolDbContext.cs",
+              "RelativeToolTip": "C#SqlConnection\\Contexts\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:14:20.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Core\\\u0130nterfaces\\BaseClass.cs",
+              "RelativeDocumentMoniker": "C#SqlConnection\\Core\\\u0130nterfaces\\BaseClass.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Core\\\u0130nterfaces\\BaseClass.cs",
+              "RelativeToolTip": "C#SqlConnection\\Core\\\u0130nterfaces\\BaseClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:12:07.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "C#SqlConnection\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Models\\Teacher.cs",
+              "RelativeToolTip": "C#SqlConnection\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:10:15.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "C#SqlConnection\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Models\\Student.cs",
+              "RelativeToolTip": "C#SqlConnection\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:09:09.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Program.cs",
+              "RelativeDocumentMoniker": "C#SqlConnection\\Program.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\C#SqlConnection\\C#SqlConnection\\Program.cs",
+              "RelativeToolTip": "C#SqlConnection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:50:41.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
