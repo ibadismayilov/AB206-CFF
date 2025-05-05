@@ -1,0 +1,64 @@
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\appsettings.json
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\WebKlinikApp.staticwebassets.runtime.json
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\WebKlinikApp.staticwebassets.endpoints.json
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\WebKlinikApp.exe
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\WebKlinikApp.deps.json
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\WebKlinikApp.runtimeconfig.json
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\WebKlinikApp.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\WebKlinikApp.pdb
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.RazorAssemblyInfo.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.RazorAssemblyInfo.cs
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\scopedcss\bundle\WebKlinikApp.styles.css
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets\msbuild.WebKlinikApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets\msbuild.WebKlinikApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebKlinikApp.props
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebKlinikApp.props
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebKlinikApp.props
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\refint\WebKlinikApp.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.pdb
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.genruntimeconfig.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\ref\WebKlinikApp.dll
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\appsettings.json
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\WebKlinikApp.staticwebassets.endpoints.json
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\WebKlinikApp.staticwebassets.runtime.json
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\WebKlinikApp.exe
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\WebKlinikApp.deps.json
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\WebKlinikApp.runtimeconfig.json
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\WebKlinikApp.dll
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\bin\Debug\net8.0\WebKlinikApp.pdb
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.RazorAssemblyInfo.cache
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.RazorAssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\scopedcss\bundle\WebKlinikApp.styles.css
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets\msbuild.WebKlinikApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets\msbuild.WebKlinikApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebKlinikApp.props
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebKlinikApp.props
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebKlinikApp.props
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.dll
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\refint\WebKlinikApp.dll
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.pdb
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\WebKlinikApp.genruntimeconfig.cache
+C:\Users\ibadi\OneDrive\Desktop\WebKlinikApp\WebKlinikApp\WebKlinikApp\obj\Debug\net8.0\ref\WebKlinikApp.dll
