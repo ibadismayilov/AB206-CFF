@@ -1,0 +1,18 @@
+﻿@using FiorellaMvc.Models
+@model Product
+
+<form style="margin: 80px;" asp-area="Admin" asp-action="UpdateProduct" asp-controller="Dashboard" asp-route-id="@Model.Id">
+    <div class="mb-3">
+        <label for="ImgUrl" class="form-label">Img Url</label>
+        <input asp-for="ImgUrl" class="form-control" id="ImgUrl">   
+    </div>
+    <div class="mb-3">
+        <label for="Title" class="form-label">Title</label>
+        <input asp-for="Title" type="text" class="form-control" id="Title">
+    </div>
+    <div class="mb-3">
+        <label for="Price" class="form-label">Price</label>
+        <input asp-for="Price" type="text" class="form-control" id="Price">
+    </div>
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>

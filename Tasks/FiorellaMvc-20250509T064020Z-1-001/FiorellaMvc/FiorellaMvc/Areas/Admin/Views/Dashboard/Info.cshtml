@@ -1,0 +1,24 @@
+﻿@using FiorellaMvc.Models
+@using System.Web
+@model Product
+
+<div class="col-sm-6 col-md-4 col-lg-3 mt-5">
+
+    <div class="product-item text-center" data-id="popular">
+        <div class="img">
+            <a href="">
+                <img src="@Model.ImgUrl" class="img-fluid" alt="@Model.Title" style="width: 300px;">
+            </a>
+        </div>
+        <div class="title mt-3">
+            <h6>@Model.Title</h6>
+        </div>
+        <div class="price">
+            <span class="text-black-50">Add to cart</span>
+            <span class="text-black-50">$@Model.Price</span>
+        </div>
+        <div>
+            <a class="btn btn-success mt-3" asp-area="Admin" asp-controller="Dashboard" asp-action="UpdateProduct" asp-route-id="@Model.Id">Update</a>
+        </div>
+    </div>
+</div>
