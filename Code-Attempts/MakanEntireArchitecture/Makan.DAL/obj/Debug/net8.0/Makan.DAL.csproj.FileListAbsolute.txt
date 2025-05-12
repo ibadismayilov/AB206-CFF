@@ -1,0 +1,15 @@
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\Makan.DAL\bin\Debug\net8.0\Makan.DAL.deps.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\Makan.DAL\bin\Debug\net8.0\Makan.DAL.runtimeconfig.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\Makan.DAL\bin\Debug\net8.0\Makan.DAL.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\Makan.DAL\bin\Debug\net8.0\Makan.DAL.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\Makan.DAL\obj\Debug\net8.0\Makan.DAL.csproj.AssemblyReference.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\Makan.DAL\obj\Debug\net8.0\Makan.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\Makan.DAL\obj\Debug\net8.0\Makan.DAL.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\Makan.DAL\obj\Debug\net8.0\Makan.DAL.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\Makan.DAL\obj\Debug\net8.0\Makan.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\Makan.DAL\obj\Debug\net8.0\Makan.DAL.sourcelink.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\Makan.DAL\obj\Debug\net8.0\Makan.DAL.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\Makan.DAL\obj\Debug\net8.0\refint\Makan.DAL.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\Makan.DAL\obj\Debug\net8.0\Makan.DAL.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\Makan.DAL\obj\Debug\net8.0\Makan.DAL.genruntimeconfig.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\Makan.DAL\obj\Debug\net8.0\ref\Makan.DAL.dll

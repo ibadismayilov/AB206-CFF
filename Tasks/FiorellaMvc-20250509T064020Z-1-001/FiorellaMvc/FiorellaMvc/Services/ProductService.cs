@@ -48,7 +48,7 @@ public class ProductService
     {
         var existingProduct = GetProductById(id);
 
-        //existingProduct.ImgUrl = updateProduct.ImgUrl;
+        existingProduct.ImgUrl = updateProduct.ImgUrl;
         existingProduct.Title = updateProduct.Title;
         existingProduct.Price = updateProduct.Price;
 

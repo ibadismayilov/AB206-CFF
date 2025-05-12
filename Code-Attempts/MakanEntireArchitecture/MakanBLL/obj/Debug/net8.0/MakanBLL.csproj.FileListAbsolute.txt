@@ -1,0 +1,16 @@
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\MakanBLL\bin\Debug\net8.0\MakanBLL.deps.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\MakanBLL\bin\Debug\net8.0\MakanBLL.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\MakanBLL\bin\Debug\net8.0\MakanBLL.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\MakanBLL\bin\Debug\net8.0\Makan.DAL.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\MakanBLL\bin\Debug\net8.0\Makan.DAL.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\MakanBLL\obj\Debug\net8.0\MakanBLL.csproj.AssemblyReference.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\MakanBLL\obj\Debug\net8.0\MakanBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\MakanBLL\obj\Debug\net8.0\MakanBLL.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\MakanBLL\obj\Debug\net8.0\MakanBLL.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\MakanBLL\obj\Debug\net8.0\MakanBLL.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\MakanBLL\obj\Debug\net8.0\MakanBLL.sourcelink.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\MakanBLL\obj\Debug\net8.0\MakanBLL.csproj.Up2Date
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\MakanBLL\obj\Debug\net8.0\MakanBLL.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\MakanBLL\obj\Debug\net8.0\refint\MakanBLL.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\MakanBLL\obj\Debug\net8.0\MakanBLL.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\MakanEntireArchitecture\MakanBLL\obj\Debug\net8.0\ref\MakanBLL.dll

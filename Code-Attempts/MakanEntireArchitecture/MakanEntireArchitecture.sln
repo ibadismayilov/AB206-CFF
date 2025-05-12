@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Makan.DAL", "Makan.DAL\Makan.DAL.csproj", "{AFDF2A21-DEE0-4C52-94B0-F99BA305B37C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakanBLL", "MakanBLL\MakanBLL.csproj", "{F07DB6E9-6EF5-4C1A-89CC-E8C293D5D2E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Makan.PL", "Makan.PL\Makan.PL.csproj", "{E03E8948-4AE8-474C-848B-3BA33AE7139B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFDF2A21-DEE0-4C52-94B0-F99BA305B37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDF2A21-DEE0-4C52-94B0-F99BA305B37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDF2A21-DEE0-4C52-94B0-F99BA305B37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDF2A21-DEE0-4C52-94B0-F99BA305B37C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F07DB6E9-6EF5-4C1A-89CC-E8C293D5D2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07DB6E9-6EF5-4C1A-89CC-E8C293D5D2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07DB6E9-6EF5-4C1A-89CC-E8C293D5D2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07DB6E9-6EF5-4C1A-89CC-E8C293D5D2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E03E8948-4AE8-474C-848B-3BA33AE7139B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03E8948-4AE8-474C-848B-3BA33AE7139B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03E8948-4AE8-474C-848B-3BA33AE7139B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03E8948-4AE8-474C-848B-3BA33AE7139B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26F5AA5A-4466-4DE5-B534-3C386197B94D}
+	EndGlobalSection
+EndGlobal
