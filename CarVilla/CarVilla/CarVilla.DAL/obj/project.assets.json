@@ -4012,11 +4012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibadi\\OneDrive\\Desktop\\CarVilla\\CarVilla\\CarVilla.DAL\\CarVilla.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\CarVilla\\CarVilla\\CarVilla.DAL\\CarVilla.DAL.csproj",
       "projectName": "CarVilla.DAL",
-      "projectPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\CarVilla\\CarVilla\\CarVilla.DAL\\CarVilla.DAL.csproj",
+      "projectPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\CarVilla\\CarVilla\\CarVilla.DAL\\CarVilla.DAL.csproj",
       "packagesPath": "C:\\Users\\ibadi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\CarVilla\\CarVilla\\CarVilla.DAL\\obj\\",
+      "outputPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\CarVilla\\CarVilla\\CarVilla.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
