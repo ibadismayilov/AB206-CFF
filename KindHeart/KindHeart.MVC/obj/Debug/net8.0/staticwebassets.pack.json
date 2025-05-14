@@ -1,0 +1,653 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\css\\templatemo-kind-heart-charity.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-kind-heart-charity.css"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Metropolis\\Metropolis-Bold.woff2"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Metropolis\\Metropolis-Light.woff"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Light.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Metropolis\\Metropolis-Light.woff2"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Metropolis\\Metropolis-Regular.woff2"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Metropolis\\Metropolis-SemiBold.woff2"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\avatar\\portrait-beautiful-young-woman-standing-grey-wall.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\portrait-beautiful-young-woman-standing-grey-wall.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\avatar\\portrait-young-beautiful-woman-gesticulating.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\portrait-young-beautiful-woman-gesticulating.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\avatar\\portrait-young-redhead-bearded-male.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\portrait-young-redhead-bearded-male.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\avatar\\pretty-blonde-woman-wearing-white-t-shirt.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\pretty-blonde-woman-wearing-white-t-shirt.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\avatar\\studio-portrait-emotional-happy-funny.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\studio-portrait-emotional-happy-funny.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\causes\\african-woman-pouring-water-recipient-outdoors.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes\\african-woman-pouring-water-recipient-outdoors.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\causes\\group-african-kids-paying-attention-class.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes\\group-african-kids-paying-attention-class.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\causes\\poor-child-landfill-looks-forward-with-hope.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes\\poor-child-landfill-looks-forward-with-hope.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\different-people-doing-volunteer-work.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\different-people-doing-volunteer-work.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\group-people-volunteering-foodbank-poor-people.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group-people-volunteering-foodbank-poor-people.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\icons\\hands.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\hands.png"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\icons\\heart.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\heart.png"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\icons\\receive.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\receive.png"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\icons\\scholarship.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\scholarship.png"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\news\\africa-humanitarian-aid-doctor.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news\\africa-humanitarian-aid-doctor.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\news\\close-up-happy-people-working-together.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news\\close-up-happy-people-working-together.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\news\\close-up-volunteer-oganizing-stuff-donation.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news\\close-up-volunteer-oganizing-stuff-donation.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\news\\medium-shot-people-collecting-foodstuff.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news\\medium-shot-people-collecting-foodstuff.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\news\\medium-shot-volunteers-with-clothing-donations.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news\\medium-shot-volunteers-with-clothing-donations.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\portrait-volunteer-who-organized-donations-charity.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portrait-volunteer-who-organized-donations-charity.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\slide\\medium-shot-people-collecting-donations.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide\\medium-shot-people-collecting-donations.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\slide\\volunteer-helping-with-donation-box.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide\\volunteer-helping-with-donation-box.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\slide\\volunteer-selecting-organizing-clothes-donations-charity.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide\\volunteer-selecting-organizing-clothes-donations-charity.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\images\\smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\js\\click-scroll.js",
+      "PackagePath": "staticwebassets\\assets\\js\\click-scroll.js"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\js\\counter.js",
+      "PackagePath": "staticwebassets\\assets\\js\\counter.js"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\uploadedImages\\Ekran görüntüsü (23)d8ec9052-a021-4546-a102-4479197a6c30.png\\Ekran görüntüsü (23)d8ec9052-a021-4546-a102-4479197a6c30.png",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\Ekran görüntüsü (23)d8ec9052-a021-4546-a102-4479197a6c30.png\\Ekran görüntüsü (23)d8ec9052-a021-4546-a102-4479197a6c30.png"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\uploadedImages\\bf73b859-1bfe-459b-8e12-24546fb9aa71Ekran görüntüsü (24).png",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\bf73b859-1bfe-459b-8e12-24546fb9aa71Ekran görüntüsü (24).png"
+    },
+    {
+      "Id": "D:\\KindHeart\\KindHeart.MVC\\wwwroot\\assets\\uploadedImages\\e008b7b1-29c0-4dd5-af19-9624d03ec299Ekran görüntüsü (22).png",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\e008b7b1-29c0-4dd5-af19-9624d03ec299Ekran görüntüsü (22).png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KindHeart.MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KindHeart.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.KindHeart.MVC.props",
+      "PackagePath": "build\\KindHeart.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KindHeart.MVC.props",
+      "PackagePath": "buildMultiTargeting\\KindHeart.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.KindHeart.MVC.props",
+      "PackagePath": "buildTransitive\\KindHeart.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

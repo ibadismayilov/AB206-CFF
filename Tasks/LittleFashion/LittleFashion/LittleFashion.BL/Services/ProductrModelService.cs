@@ -44,7 +44,7 @@ public class ProductrModelService
 
         uploadedPath = Path.Combine(uploadedPath, resulName);
 
-       using FileStream stream = new FileStream(uploadedPath, FileMode.Create);
+        using FileStream stream = new FileStream(uploadedPath, FileMode.Create);
 
 
         product.ImgFile.CopyTo(stream);

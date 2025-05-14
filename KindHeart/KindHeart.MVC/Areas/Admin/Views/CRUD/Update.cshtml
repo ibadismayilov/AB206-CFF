@@ -1,0 +1,28 @@
+﻿
+@model ProductModel
+
+<form asp-area="Admin" asp-controller="CRUD" asp-action="Update" method="post" style="padding: 60px;" enctype="multipart/form-data">
+
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">File</label>
+        <input asp-for="ImgPath" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Title</label>
+        <input asp-for="Title" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Desc</label>
+        <input asp-for="Desc" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Goal</label>
+        <input asp-for="Goal" type="number" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Raised</label>
+        <input asp-for="Raised" type="number" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+
+    <button type="submit" class="btn btn-primary d-flex justify-content-end">Submit</button>
+</form>

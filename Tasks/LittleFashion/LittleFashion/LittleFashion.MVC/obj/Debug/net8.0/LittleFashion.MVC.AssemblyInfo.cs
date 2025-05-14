@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LittleFashion.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6046918a76c9386f89dc89d85b8b013205bfca16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da8857a18825ef12e7dc0f9f271683c34cbcc952")]
 [assembly: System.Reflection.AssemblyProductAttribute("LittleFashion.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LittleFashion.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
