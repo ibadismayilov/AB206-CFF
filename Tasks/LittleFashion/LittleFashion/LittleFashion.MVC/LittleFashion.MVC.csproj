@@ -17,4 +17,8 @@
     <ProjectReference Include="..\LittleFashion.BL\LittleFashion.BL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\assets\uploadedImages\" />
+  </ItemGroup>
+
 </Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LittleFashion.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6046918a76c9386f89dc89d85b8b013205bfca16")]
 [assembly: System.Reflection.AssemblyProductAttribute("LittleFashion.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LittleFashion.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

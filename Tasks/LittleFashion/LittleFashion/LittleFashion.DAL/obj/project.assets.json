@@ -60,6 +60,22 @@
           }
         }
       },
+      "Microsoft.AspNetCore.Http.Features/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "8.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
         "type": "package",
         "compile": {
@@ -1552,6 +1568,19 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "Microsoft.AspNetCore.Http.Features/2.3.0": {
+      "sha512": "f10WUgcsKqrkmnz6gt8HeZ7kyKjYN30PO7cSic1lPtH7paPtnQqXPOveul/SIPI43PhRD4trttg4ywnrEmmJpA==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.http.features/2.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.xml",
+        "microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+        "microsoft.aspnetcore.http.features.nuspec"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
@@ -4000,6 +4029,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Microsoft.AspNetCore.Http.Features >= 2.3.0",
       "Microsoft.EntityFrameworkCore >= 8.0.15",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.15",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.15"
@@ -4012,11 +4042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibadi\\OneDrive\\Desktop\\LittleFashion\\LittleFashion\\LittleFashion.DAL\\LittleFashion.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Tasks\\LittleFashion\\LittleFashion\\LittleFashion.DAL\\LittleFashion.DAL.csproj",
       "projectName": "LittleFashion.DAL",
-      "projectPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\LittleFashion\\LittleFashion\\LittleFashion.DAL\\LittleFashion.DAL.csproj",
+      "projectPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Tasks\\LittleFashion\\LittleFashion\\LittleFashion.DAL\\LittleFashion.DAL.csproj",
       "packagesPath": "C:\\Users\\ibadi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\LittleFashion\\LittleFashion\\LittleFashion.DAL\\obj\\",
+      "outputPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Tasks\\LittleFashion\\LittleFashion\\LittleFashion.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4055,6 +4085,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": {
+            "target": "Package",
+            "version": "[2.3.0, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[8.0.15, )"

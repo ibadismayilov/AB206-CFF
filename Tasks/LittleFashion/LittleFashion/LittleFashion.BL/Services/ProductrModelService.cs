@@ -31,6 +31,26 @@ public class ProductrModelService
 
     public void CreateProd(ProductModel product)
     {
+        string fileName = Path.GetFileNameWithoutExtension(product.ImgFile.FileName);
+        string extensionName = Path.GetExtension(product.ImgFile.FileName);
+        string resulName = fileName + Guid.NewGuid().ToString() + extensionName;
+
+        string uploadedPath = $"C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Tasks\\LittleFashion\\LittleFashion\\LittleFashion.MVC\\wwwroot\\assets\\uploadedImages\\{resulName}";
+
+        if (!Directory.Exists(uploadedPath))
+        {
+            Directory.CreateDirectory(uploadedPath);
+        }
+
+        uploadedPath = Path.Combine(uploadedPath, resulName);
+
+       using FileStream stream = new FileStream(uploadedPath, FileMode.Create);
+
+
+        product.ImgFile.CopyTo(stream);
+
+        product.ImgPath = resulName;
+
         _appDbContext.ProductModels.Add(product);
         _appDbContext.SaveChanges();
     }
