@@ -1,0 +1,25 @@
+﻿<div class="col-lg-4 col-12 mb-3">
+    <div class="product-thumb">
+        <a href="product-detail.html">
+            <img src="@Model.ImgPath" class="img-fluid product-image" alt="">
+        </a>
+
+        <div class="product-top d-flex">
+            <span class="product-alert me-auto">@Model.Category</span>
+
+            <a href="#" class="bi-heart-fill product-icon"></a>
+        </div>
+
+        <div class="product-info d-flex">
+            <div>
+                <h5 class="product-title mb-0">
+                    <a href="product-detail.html" class="product-title-link">@Model.Title</a>
+                </h5>
+
+                <p class="product-p">@Model.Desc</p>
+            </div>
+
+            <small class="product-price text-muted ms-auto mt-auto mb-5">@Model.Price</small>
+        </div>
+    </div>
+</div>

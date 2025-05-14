@@ -1,0 +1,58 @@
+﻿@model List<ProductModel>
+
+<div id="layoutSidenav_content" style="padding: 40px;">
+    <main>
+        <div class="container-fluid px-4">
+            <h1 class="mt-4">Dashboard</h1>
+
+            <ol class="breadcrumb mb-4">
+                <li class="breadcrumb-item active">
+                    <a asp-area="Admin" asp-controller="Crud" asp-action="Create">Create Product</a>
+                </li>
+            </ol>
+
+            <div class="card mb-4">
+                <div class="card-header">
+                    <i class="fas fa-table me-1"></i>
+                    DataTable Example
+                </div>
+                <div class="card-body">
+                    <table id="datatablesSimple" class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Category</th>
+                                <th>Image</th>
+                                <th>Title</th>
+                                <th>Desc</th>
+                                <th>Price</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (ProductModel item in Model)
+                            {
+                                <tr>
+                                    <td>@item.Category</td>
+                                    <td><img src="@item.ImgFile" alt="Alternate Text" width="100" /></td>
+                                    <td>@item.Title</td>
+                                    <td>@item.Desc</td>
+                                    <td>@item.Price</td>
+                                    <td>
+                                        <div class="btn-group" role="group" style="display: flex; gap: 20px;">
+                                            <a asp-area="Admin" asp-controller="Crud" asp-action="Info" asp-route-id="@item.Id" class="btn btn-info btn-sm">Info</a>
+                                            <a asp-area="Admin" asp-controller="Crud" asp-action="Update" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Update</a>
+                                            <form asp-area="Admin" asp-controller="Crud" asp-action="Delete" asp-route-id="@item.Id" method="post">
+                                                <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                                            </form>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+    </main>
+</div>

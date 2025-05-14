@@ -1,0 +1,30 @@
+C:\Users\II Novbe\Desktop\AB206-CFF\LittleFashion\LittleFashion.BL\bin\Debug\net8.0\LittleFashion.BL.deps.json
+C:\Users\II Novbe\Desktop\AB206-CFF\LittleFashion\LittleFashion.BL\bin\Debug\net8.0\LittleFashion.BL.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\LittleFashion\LittleFashion.BL\bin\Debug\net8.0\LittleFashion.BL.pdb
+C:\Users\II Novbe\Desktop\AB206-CFF\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\LittleFashion.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\AB206-CFF\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\LittleFashion.BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\LittleFashion.BL.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\AB206-CFF\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\LittleFashion.BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\LittleFashion.BL.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\refint\LittleFashion.BL.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\LittleFashion.BL.pdb
+C:\Users\II Novbe\Desktop\AB206-CFF\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\ref\LittleFashion.BL.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\LittleFashion\LittleFashion.BL\bin\Debug\net8.0\LittleFashion.DAL.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\LittleFashion\LittleFashion.BL\bin\Debug\net8.0\LittleFashion.DAL.pdb
+C:\Users\II Novbe\Desktop\AB206-CFF\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\LittleFashion.BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\LittleFa.CE216D97.Up2Date
+C:\Users\ibadi\OneDrive\Desktop\LittleFashion\LittleFashion\LittleFashion.BL\bin\Debug\net8.0\LittleFashion.BL.deps.json
+C:\Users\ibadi\OneDrive\Desktop\LittleFashion\LittleFashion\LittleFashion.BL\bin\Debug\net8.0\LittleFashion.BL.dll
+C:\Users\ibadi\OneDrive\Desktop\LittleFashion\LittleFashion\LittleFashion.BL\bin\Debug\net8.0\LittleFashion.BL.pdb
+C:\Users\ibadi\OneDrive\Desktop\LittleFashion\LittleFashion\LittleFashion.BL\bin\Debug\net8.0\LittleFashion.DAL.dll
+C:\Users\ibadi\OneDrive\Desktop\LittleFashion\LittleFashion\LittleFashion.BL\bin\Debug\net8.0\LittleFashion.DAL.pdb
+C:\Users\ibadi\OneDrive\Desktop\LittleFashion\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\LittleFashion.BL.csproj.AssemblyReference.cache
+C:\Users\ibadi\OneDrive\Desktop\LittleFashion\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\LittleFashion.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\LittleFashion\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\LittleFashion.BL.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\LittleFashion\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\LittleFashion.BL.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\LittleFashion\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\LittleFashion.BL.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\LittleFashion\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\LittleFa.CE216D97.Up2Date
+C:\Users\ibadi\OneDrive\Desktop\LittleFashion\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\LittleFashion.BL.dll
+C:\Users\ibadi\OneDrive\Desktop\LittleFashion\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\refint\LittleFashion.BL.dll
+C:\Users\ibadi\OneDrive\Desktop\LittleFashion\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\LittleFashion.BL.pdb
+C:\Users\ibadi\OneDrive\Desktop\LittleFashion\LittleFashion\LittleFashion.BL\obj\Debug\net8.0\ref\LittleFashion.BL.dll

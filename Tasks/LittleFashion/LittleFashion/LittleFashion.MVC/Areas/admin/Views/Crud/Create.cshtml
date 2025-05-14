@@ -1,0 +1,32 @@
+﻿@using LittleFashion.BL.Models
+@model ProductModel
+
+<form asp-area="Admin" asp-controller="Crud" asp-action="Create" enctype="multipart/form-data" style="padding: 150px;">
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Category</label>
+        <input asp-for="Category" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Choose Image</label>
+        <input asp-for="ImgFile" type="file" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Title</label>
+        <input asp-for="Title" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Desc</label>
+        <input asp-for="Desc" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Price</label>
+        <input asp-for="Price" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
