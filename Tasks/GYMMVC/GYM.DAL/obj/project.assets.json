@@ -107,12 +107,12 @@
         },
         "compile": {
           "lib/netcoreapp3.1/_._": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "resource": {
@@ -164,12 +164,12 @@
         },
         "compile": {
           "lib/netcoreapp3.1/_._": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "resource": {
@@ -224,12 +224,12 @@
         },
         "compile": {
           "lib/netcoreapp3.1/_._": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "resource": {
@@ -286,12 +286,12 @@
         },
         "compile": {
           "lib/netcoreapp3.1/_._": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "resource": {
@@ -364,12 +364,12 @@
         },
         "compile": {
           "ref/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtimeTargets": {
@@ -862,12 +862,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         }
       },
@@ -4043,23 +4043,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\II Novbe\\.nuget\\packages\\": {},
+    "C:\\Users\\ibadi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj",
       "projectName": "GYM.DAL",
-      "projectPath": "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj",
-      "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.DAL\\obj\\",
+      "projectPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj",
+      "packagesPath": "C:\\Users\\ibadi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ibadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4127,7 +4127,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

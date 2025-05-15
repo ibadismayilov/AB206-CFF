@@ -36575,6 +36575,252 @@
       ]
     },
     {
+      "Route": "assets/uploadedImages/Ekran görüntüsü (22)2aee6fd9-df49-4095-9385-2e8a719fa4f9.ieh37935cl.png",
+      "AssetFile": "assets/uploadedImages/Ekran görüntüsü (22)2aee6fd9-df49-4095-9385-2e8a719fa4f9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JurV1dROgS3Jxup9q7V+qQY/YpccORj/PcGGlUgYTGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:34:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ieh37935cl"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JurV1dROgS3Jxup9q7V+qQY/YpccORj/PcGGlUgYTGo="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/uploadedImages/Ekran görüntüsü (22)2aee6fd9-df49-4095-9385-2e8a719fa4f9.png"
+        }
+      ]
+    },
+    {
+      "Route": "assets/uploadedImages/Ekran görüntüsü (22)2aee6fd9-df49-4095-9385-2e8a719fa4f9.png",
+      "AssetFile": "assets/uploadedImages/Ekran görüntüsü (22)2aee6fd9-df49-4095-9385-2e8a719fa4f9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JurV1dROgS3Jxup9q7V+qQY/YpccORj/PcGGlUgYTGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:34:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JurV1dROgS3Jxup9q7V+qQY/YpccORj/PcGGlUgYTGo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/uploadedImages/Ekran görüntüsü (22)318345c3-909a-4e55-9ba1-27be39cb4344.ieh37935cl.png",
+      "AssetFile": "assets/uploadedImages/Ekran görüntüsü (22)318345c3-909a-4e55-9ba1-27be39cb4344.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JurV1dROgS3Jxup9q7V+qQY/YpccORj/PcGGlUgYTGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:34:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ieh37935cl"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JurV1dROgS3Jxup9q7V+qQY/YpccORj/PcGGlUgYTGo="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/uploadedImages/Ekran görüntüsü (22)318345c3-909a-4e55-9ba1-27be39cb4344.png"
+        }
+      ]
+    },
+    {
+      "Route": "assets/uploadedImages/Ekran görüntüsü (22)318345c3-909a-4e55-9ba1-27be39cb4344.png",
+      "AssetFile": "assets/uploadedImages/Ekran görüntüsü (22)318345c3-909a-4e55-9ba1-27be39cb4344.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JurV1dROgS3Jxup9q7V+qQY/YpccORj/PcGGlUgYTGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:34:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JurV1dROgS3Jxup9q7V+qQY/YpccORj/PcGGlUgYTGo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/uploadedImages/Ekran görüntüsü (22)c6649006-3f28-4439-8b68-44d7109dc956.ieh37935cl.png",
+      "AssetFile": "assets/uploadedImages/Ekran görüntüsü (22)c6649006-3f28-4439-8b68-44d7109dc956.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JurV1dROgS3Jxup9q7V+qQY/YpccORj/PcGGlUgYTGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:34:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ieh37935cl"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JurV1dROgS3Jxup9q7V+qQY/YpccORj/PcGGlUgYTGo="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/uploadedImages/Ekran görüntüsü (22)c6649006-3f28-4439-8b68-44d7109dc956.png"
+        }
+      ]
+    },
+    {
+      "Route": "assets/uploadedImages/Ekran görüntüsü (22)c6649006-3f28-4439-8b68-44d7109dc956.png",
+      "AssetFile": "assets/uploadedImages/Ekran görüntüsü (22)c6649006-3f28-4439-8b68-44d7109dc956.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JurV1dROgS3Jxup9q7V+qQY/YpccORj/PcGGlUgYTGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 22:34:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JurV1dROgS3Jxup9q7V+qQY/YpccORj/PcGGlUgYTGo="
+        }
+      ]
+    },
+    {
       "Route": "assets/uploadedImages/rick-and-morty-cool-t3ynu5ly9m7jq6e234cecbf2-1e1e-438e-8c42-6aa2e2ce190e.jpg",
       "AssetFile": "assets/uploadedImages/rick-and-morty-cool-t3ynu5ly9m7jq6e234cecbf2-1e1e-438e-8c42-6aa2e2ce190e.jpg",
       "Selectors": [],

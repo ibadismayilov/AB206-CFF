@@ -5352,6 +5352,42 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qz43fw7wn4"},{"Name":"integrity","Value":"sha256-Bps/8MDmwz4INo\u002BUkGrknsdqse1XCBnHaBSM7RWxOL8="},{"Name":"label","Value":"_content/GYM.MVC/assets/js/waypoints.min.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8051"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Bps/8MDmwz4INo\u002BUkGrknsdqse1XCBnHaBSM7RWxOL8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Jun 2019 08:20:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GYM.MVC/assets/uploadedImages/Ekran görüntüsü (22)2aee6fd9-df49-4095-9385-2e8a719fa4f9.ieh37935cl.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\Ekran görüntüsü (22)2aee6fd9-df49-4095-9385-2e8a719fa4f9.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ieh37935cl"},{"Name":"integrity","Value":"sha256-JurV1dROgS3Jxup9q7V\u002BqQY/YpccORj/PcGGlUgYTGo="},{"Name":"label","Value":"_content/GYM.MVC/assets/uploadedImages/Ekran g\u00F6r\u00FCnt\u00FCs\u00FC (22)2aee6fd9-df49-4095-9385-2e8a719fa4f9.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"172340"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JurV1dROgS3Jxup9q7V\u002BqQY/YpccORj/PcGGlUgYTGo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 22:34:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GYM.MVC/assets/uploadedImages/Ekran görüntüsü (22)2aee6fd9-df49-4095-9385-2e8a719fa4f9.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\Ekran görüntüsü (22)2aee6fd9-df49-4095-9385-2e8a719fa4f9.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JurV1dROgS3Jxup9q7V\u002BqQY/YpccORj/PcGGlUgYTGo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"172340"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JurV1dROgS3Jxup9q7V\u002BqQY/YpccORj/PcGGlUgYTGo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 22:34:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GYM.MVC/assets/uploadedImages/Ekran görüntüsü (22)318345c3-909a-4e55-9ba1-27be39cb4344.ieh37935cl.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\Ekran görüntüsü (22)318345c3-909a-4e55-9ba1-27be39cb4344.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ieh37935cl"},{"Name":"integrity","Value":"sha256-JurV1dROgS3Jxup9q7V\u002BqQY/YpccORj/PcGGlUgYTGo="},{"Name":"label","Value":"_content/GYM.MVC/assets/uploadedImages/Ekran g\u00F6r\u00FCnt\u00FCs\u00FC (22)318345c3-909a-4e55-9ba1-27be39cb4344.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"172340"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JurV1dROgS3Jxup9q7V\u002BqQY/YpccORj/PcGGlUgYTGo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 22:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GYM.MVC/assets/uploadedImages/Ekran görüntüsü (22)318345c3-909a-4e55-9ba1-27be39cb4344.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\Ekran görüntüsü (22)318345c3-909a-4e55-9ba1-27be39cb4344.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JurV1dROgS3Jxup9q7V\u002BqQY/YpccORj/PcGGlUgYTGo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"172340"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JurV1dROgS3Jxup9q7V\u002BqQY/YpccORj/PcGGlUgYTGo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 22:34:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GYM.MVC/assets/uploadedImages/Ekran görüntüsü (22)c6649006-3f28-4439-8b68-44d7109dc956.ieh37935cl.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\Ekran görüntüsü (22)c6649006-3f28-4439-8b68-44d7109dc956.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ieh37935cl"},{"Name":"integrity","Value":"sha256-JurV1dROgS3Jxup9q7V\u002BqQY/YpccORj/PcGGlUgYTGo="},{"Name":"label","Value":"_content/GYM.MVC/assets/uploadedImages/Ekran g\u00F6r\u00FCnt\u00FCs\u00FC (22)c6649006-3f28-4439-8b68-44d7109dc956.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"172340"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JurV1dROgS3Jxup9q7V\u002BqQY/YpccORj/PcGGlUgYTGo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 22:34:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GYM.MVC/assets/uploadedImages/Ekran görüntüsü (22)c6649006-3f28-4439-8b68-44d7109dc956.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\Ekran görüntüsü (22)c6649006-3f28-4439-8b68-44d7109dc956.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JurV1dROgS3Jxup9q7V\u002BqQY/YpccORj/PcGGlUgYTGo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"172340"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JurV1dROgS3Jxup9q7V\u002BqQY/YpccORj/PcGGlUgYTGo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 22:34:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GYM.MVC/assets/uploadedImages/rick-and-morty-cool-t3ynu5ly9m7jq6e234cecbf2-1e1e-438e-8c42-6aa2e2ce190e.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\rick-and-morty-cool-t3ynu5ly9m7jq6e234cecbf2-1e1e-438e-8c42-6aa2e2ce190e.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

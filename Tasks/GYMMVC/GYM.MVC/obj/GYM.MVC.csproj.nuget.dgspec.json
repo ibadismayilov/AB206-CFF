@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.MVC\\GYM.MVC.csproj": {}
+    "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.MVC\\GYM.MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.BL\\GYM.BL.csproj": {
+    "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.BL\\GYM.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.BL\\GYM.BL.csproj",
+        "projectUniqueName": "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.BL\\GYM.BL.csproj",
         "projectName": "GYM.BL",
-        "projectPath": "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.BL\\GYM.BL.csproj",
-        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.BL\\obj\\",
+        "projectPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.BL\\GYM.BL.csproj",
+        "packagesPath": "C:\\Users\\ibadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ibadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj": {
-                "projectPath": "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj"
+              "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj": {
+                "projectPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj"
               }
             }
           }
@@ -69,24 +69,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj": {
+    "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj",
         "projectName": "GYM.DAL",
-        "projectPath": "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj",
-        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.DAL\\obj\\",
+        "projectPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj",
+        "packagesPath": "C:\\Users\\ibadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ibadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -154,24 +154,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.MVC\\GYM.MVC.csproj": {
+    "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.MVC\\GYM.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.MVC\\GYM.MVC.csproj",
+        "projectUniqueName": "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.MVC\\GYM.MVC.csproj",
         "projectName": "GYM.MVC",
-        "projectPath": "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.MVC\\GYM.MVC.csproj",
-        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.MVC\\obj\\",
+        "projectPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.MVC\\GYM.MVC.csproj",
+        "packagesPath": "C:\\Users\\ibadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ibadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -186,8 +186,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.BL\\GYM.BL.csproj": {
-                "projectPath": "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.BL\\GYM.BL.csproj"
+              "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.BL\\GYM.BL.csproj": {
+                "projectPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.BL\\GYM.BL.csproj"
               }
             }
           }
@@ -238,7 +238,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

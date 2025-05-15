@@ -12,3 +12,17 @@ C:\Users\II Novbe\Desktop\GYMMVC\GYM.DAL\obj\Debug\net8.0\refint\GYM.DAL.dll
 C:\Users\II Novbe\Desktop\GYMMVC\GYM.DAL\obj\Debug\net8.0\GYM.DAL.pdb
 C:\Users\II Novbe\Desktop\GYMMVC\GYM.DAL\obj\Debug\net8.0\GYM.DAL.genruntimeconfig.cache
 C:\Users\II Novbe\Desktop\GYMMVC\GYM.DAL\obj\Debug\net8.0\ref\GYM.DAL.dll
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.DAL\bin\Debug\net8.0\GYM.DAL.deps.json
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.DAL\bin\Debug\net8.0\GYM.DAL.runtimeconfig.json
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.DAL\bin\Debug\net8.0\GYM.DAL.dll
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.DAL\bin\Debug\net8.0\GYM.DAL.pdb
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.DAL\obj\Debug\net8.0\GYM.DAL.csproj.AssemblyReference.cache
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.DAL\obj\Debug\net8.0\GYM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.DAL\obj\Debug\net8.0\GYM.DAL.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.DAL\obj\Debug\net8.0\GYM.DAL.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.DAL\obj\Debug\net8.0\GYM.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.DAL\obj\Debug\net8.0\GYM.DAL.dll
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.DAL\obj\Debug\net8.0\refint\GYM.DAL.dll
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.DAL\obj\Debug\net8.0\GYM.DAL.pdb
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.DAL\obj\Debug\net8.0\GYM.DAL.genruntimeconfig.cache
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.DAL\obj\Debug\net8.0\ref\GYM.DAL.dll

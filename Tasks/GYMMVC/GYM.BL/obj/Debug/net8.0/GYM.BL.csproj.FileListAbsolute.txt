@@ -13,3 +13,18 @@ C:\Users\II Novbe\Desktop\GYMMVC\GYM.BL\obj\Debug\net8.0\GYM.BL.dll
 C:\Users\II Novbe\Desktop\GYMMVC\GYM.BL\obj\Debug\net8.0\refint\GYM.BL.dll
 C:\Users\II Novbe\Desktop\GYMMVC\GYM.BL\obj\Debug\net8.0\GYM.BL.pdb
 C:\Users\II Novbe\Desktop\GYMMVC\GYM.BL\obj\Debug\net8.0\ref\GYM.BL.dll
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.BL\bin\Debug\net8.0\GYM.BL.deps.json
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.BL\bin\Debug\net8.0\GYM.BL.dll
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.BL\bin\Debug\net8.0\GYM.BL.pdb
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.BL\bin\Debug\net8.0\GYM.DAL.dll
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.BL\bin\Debug\net8.0\GYM.DAL.pdb
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.BL\obj\Debug\net8.0\GYM.BL.csproj.AssemblyReference.cache
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.BL\obj\Debug\net8.0\GYM.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.BL\obj\Debug\net8.0\GYM.BL.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.BL\obj\Debug\net8.0\GYM.BL.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.BL\obj\Debug\net8.0\GYM.BL.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.BL\obj\Debug\net8.0\GYM.BL.csproj.Up2Date
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.BL\obj\Debug\net8.0\GYM.BL.dll
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.BL\obj\Debug\net8.0\refint\GYM.BL.dll
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.BL\obj\Debug\net8.0\GYM.BL.pdb
+C:\Users\ibadi\OneDrive\Desktop\GYMMVC\GYM.BL\obj\Debug\net8.0\ref\GYM.BL.dll

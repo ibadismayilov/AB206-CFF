@@ -46,4 +46,17 @@ public class CRUDController : Controller
         _productService.DeleteProd(id);
         return RedirectToAction(nameof(Index));
     }
+
+    [HttpGet]
+    public IActionResult Update(int id)
+    {
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult Update(ProductModel productModel)
+    {
+        _productService.UpdateProd(productModel);
+        return RedirectToAction(nameof(Index));
+    }
 }

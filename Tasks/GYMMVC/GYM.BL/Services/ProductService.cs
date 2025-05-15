@@ -34,7 +34,7 @@ public class ProductService
 
         string result = fileName + Guid.NewGuid().ToString() + extension;
 
-        string uploadedPath = "C:\\Users\\II Novbe\\Desktop\\GYMMVC\\GYM.MVC\\wwwroot\\assets\\uploadedImages\\";
+        string uploadedPath = "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.MVC\\wwwroot\\assets\\uploadedImages\\";
 
         if (!Directory.Exists(uploadedPath))
         {
@@ -63,9 +63,40 @@ public class ProductService
     #endregion
 
     #region Update
-    public void UpdateProd()
+    public void UpdateProd(ProductModel newProductModel)
     {
+        var findProd = _appDbContext.ProductModels.FirstOrDefault(item => item.Id == newProductModel.Id);
 
+        if (findProd is null)
+        {
+            throw new Exception($"{findProd} - product tapilmad;");
+        }
+
+        findProd.Title = newProductModel.Title;
+        findProd.Desc = newProductModel.Desc;
+
+        if (findProd is not null)
+        {
+            string fileName = Path.GetFileNameWithoutExtension(newProductModel.ImgFile.FileName);
+            string extension = Path.GetExtension(newProductModel.ImgFile.FileName);
+
+            string result = fileName + Guid.NewGuid().ToString() + extension;
+
+            string uploadedPath = "C:\\Users\\ibadi\\OneDrive\\Desktop\\GYMMVC\\GYM.MVC\\wwwroot\\assets\\uploadedImages\\";
+
+            if (!Directory.Exists(uploadedPath))
+            {
+                Directory.CreateDirectory(uploadedPath);
+            }
+
+            using FileStream stream = new FileStream(Path.Combine(uploadedPath, result), FileMode.Create);
+
+            newProductModel.ImgFile.CopyTo(stream);
+
+            newProductModel.ImgPath = result;
+        }
+
+        _appDbContext.SaveChanges();
     }
     #endregion
 
