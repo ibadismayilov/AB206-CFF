@@ -1,0 +1,14 @@
+C:\Users\II Novbe\Desktop\AB206-CFF\NFT\NFT.DAL\bin\Debug\net8.0\NFT.DAL.deps.json
+C:\Users\II Novbe\Desktop\AB206-CFF\NFT\NFT.DAL\bin\Debug\net8.0\NFT.DAL.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\NFT\NFT.DAL\bin\Debug\net8.0\NFT.DAL.pdb
+C:\Users\II Novbe\Desktop\AB206-CFF\NFT\NFT.DAL\obj\Debug\net8.0\NFT.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\AB206-CFF\NFT\NFT.DAL\obj\Debug\net8.0\NFT.DAL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\NFT\NFT.DAL\obj\Debug\net8.0\NFT.DAL.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\AB206-CFF\NFT\NFT.DAL\obj\Debug\net8.0\NFT.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\NFT\NFT.DAL\obj\Debug\net8.0\NFT.DAL.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\NFT\NFT.DAL\obj\Debug\net8.0\refint\NFT.DAL.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\NFT\NFT.DAL\obj\Debug\net8.0\NFT.DAL.pdb
+C:\Users\II Novbe\Desktop\AB206-CFF\NFT\NFT.DAL\obj\Debug\net8.0\ref\NFT.DAL.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\NFT\NFT.DAL\bin\Debug\net8.0\NFT.DAL.runtimeconfig.json
+C:\Users\II Novbe\Desktop\AB206-CFF\NFT\NFT.DAL\obj\Debug\net8.0\NFT.DAL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\NFT\NFT.DAL\obj\Debug\net8.0\NFT.DAL.genruntimeconfig.cache

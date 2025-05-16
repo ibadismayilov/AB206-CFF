@@ -1,0 +1,30 @@
+﻿@model ProductModel﻿
+
+<form asp-area="Admin" asp-controller="Crud" asp-action="Create" method="post" enctype="multipart/form-data" style="margin-left: 400px; margin-top: 40px;">
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Image</label>
+        <input asp-for="ImgFile" class="form-control" id="exampleInputEmail1"/>
+        <span asp-validation-for="ImgFile"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Title</label>
+        <input asp-for="Title" class="form-control" id="exampleInputPassword1"/>
+        <span asp-validation-for="Title"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">MinCount</label>
+        <input asp-for="MinCount" class="form-control" id="exampleInputPassword1">
+        <span asp-validation-for="MinCount"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">MaxCount</label>
+        <input asp-for="MaxCount" class="form-control" id="exampleInputPassword1">
+        <span asp-validation-for="MaxCount"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Category</label>
+        <input asp-for="Category" class="form-control" id="exampleInputPassword1">
+        <span asp-validation-for="Category"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

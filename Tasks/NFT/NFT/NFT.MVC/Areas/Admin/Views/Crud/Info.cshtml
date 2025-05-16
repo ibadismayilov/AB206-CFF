@@ -1,0 +1,15 @@
+﻿@model ProductModel
+
+<div class="owl-collection owl-carousel" style="margin: 400px;">
+    <div class="item">
+        <img src="~/assets/uploadedImages/@Model.ImgPath" alt="">
+        <div class="down-content">
+            <h4>@Model.Title</h4>
+            <span class="collection">Items In Collection:<br><strong>@Model.MinCount / @Model.MaxCount</strong></span>
+            <span class="category">Category:<br><strong>@Model.Category</strong></span>
+            <div class="main-button">
+                <a href="explore.html">Explore Mutant</a>
+            </div>
+        </div>
+    </div>
+</div>
