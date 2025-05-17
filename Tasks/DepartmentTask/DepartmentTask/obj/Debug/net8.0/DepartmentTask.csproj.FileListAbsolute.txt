@@ -1,0 +1,14 @@
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DepartmentTask\DepartmentTask\obj\Debug\net8.0\DepartmentTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DepartmentTask\DepartmentTask\obj\Debug\net8.0\DepartmentTask.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DepartmentTask\DepartmentTask\obj\Debug\net8.0\DepartmentTask.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DepartmentTask\DepartmentTask\obj\Debug\net8.0\DepartmentTask.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DepartmentTask\DepartmentTask\bin\Debug\net8.0\DepartmentTask.exe
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DepartmentTask\DepartmentTask\bin\Debug\net8.0\DepartmentTask.deps.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DepartmentTask\DepartmentTask\bin\Debug\net8.0\DepartmentTask.runtimeconfig.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DepartmentTask\DepartmentTask\bin\Debug\net8.0\DepartmentTask.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DepartmentTask\DepartmentTask\bin\Debug\net8.0\DepartmentTask.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DepartmentTask\DepartmentTask\obj\Debug\net8.0\DepartmentTask.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DepartmentTask\DepartmentTask\obj\Debug\net8.0\refint\DepartmentTask.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DepartmentTask\DepartmentTask\obj\Debug\net8.0\DepartmentTask.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DepartmentTask\DepartmentTask\obj\Debug\net8.0\DepartmentTask.genruntimeconfig.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\DepartmentTask\DepartmentTask\obj\Debug\net8.0\ref\DepartmentTask.dll
