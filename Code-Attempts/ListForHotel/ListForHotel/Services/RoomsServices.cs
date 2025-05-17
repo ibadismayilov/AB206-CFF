@@ -8,7 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ListForHotel.Services;
-
 public class RoomsServices
 {
     private static List<Room> rooms = new List<Room>();

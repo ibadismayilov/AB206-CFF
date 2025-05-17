@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KSiMlx6U38I=",
+  "dgSpecHash": "US4i7qgBvXw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\LessonCrud.csproj",
+  "projectFilePath": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\LessonCrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ibadi\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ibadi\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

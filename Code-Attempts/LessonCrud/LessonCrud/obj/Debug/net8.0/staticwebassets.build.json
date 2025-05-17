@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SJhUBLUoAruvkT1H45QEp0qaJyMLadBftzXj5HOdxoM=",
+  "Hash": "m5M1sB/uGi5Fc+dEbDB3XXPwCRBP7qZ5KGZotAshpgk=",
   "Source": "LessonCrud",
   "BasePath": "_content/LessonCrud",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "LessonCrud\\wwwroot",
       "Source": "LessonCrud",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\css\\style.css",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\css\\style.css",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\testimonial-1.jpg",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\testimonial-1.jpg",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/img/testimonial-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\testimonial-2.jpg",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\testimonial-2.jpg",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/img/testimonial-2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testimonial-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\user.jpg",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\user.jpg",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/img/user#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\user.jpg"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\js\\main.js",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\js\\main.js",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/js/main#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\chart\\chart.min.js",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\chart\\chart.min.js",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/chart/chart.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\chart\\chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\easing\\easing.js",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/easing/easing#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\easing\\easing.min.js",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/easing/easing.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/owlcarousel/assets/ajax-loader#[.{fingerprint}]?.gif",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/owlcarousel/assets/owl.carousel#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/owlcarousel/assets/owl.carousel.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/owlcarousel/assets/owl.theme.default#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/owlcarousel/assets/owl.theme.default.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/owlcarousel/assets/owl.theme.green#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/owlcarousel/assets/owl.theme.green.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/owlcarousel/assets/owl.video.play#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/owlcarousel/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/owlcarousel/owl.carousel#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/owlcarousel/owl.carousel.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/tempusdominus/css/tempusdominus-bootstrap-4#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/tempusdominus/css/tempusdominus-bootstrap-4.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment.min.js",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/tempusdominus/js/moment.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/tempusdominus/js/moment-timezone.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/tempusdominus/js/tempusdominus-bootstrap-4#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/tempusdominus/js/tempusdominus-bootstrap-4.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\waypoints\\links.php",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\waypoints\\links.php",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/waypoints/links#[.{fingerprint}]?.php",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\waypoints\\links.php"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/lib/waypoints/waypoints.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_accordion#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_alert#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_badge#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_breadcrumb#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_button-group#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_buttons#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_card#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_carousel#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_close#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_containers.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_containers.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_containers#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_dropdown#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_forms#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_functions#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_grid#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_helpers#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_images#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_list-group#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_mixins#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_modal#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_nav#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_navbar#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_offcanvas#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_pagination#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_popover#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_progress#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_reboot#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_root#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_spinners#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_tables#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_toasts#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_tooltip#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_transitions#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_type#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_utilities#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/_variables#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/bootstrap#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/bootstrap-grid#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/bootstrap-reboot#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/bootstrap-utilities#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/forms/_floating-labels#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/forms/_form-check#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/forms/_form-control#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/forms/_form-range#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/forms/_form-select#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/forms/_form-text#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/forms/_input-group#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/forms/_labels#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/forms/_validation#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/helpers/_clearfix#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/helpers/_colored-links#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/helpers/_position#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/helpers/_ratio#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/helpers/_stretched-link#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1739,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/helpers/_text-truncation#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1760,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/helpers/_visually-hidden#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1781,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_alert#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_box-shadow#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1823,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_border-radius#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1844,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_breakpoints#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1865,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_buttons#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1886,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_caret#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1907,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_clearfix#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1928,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_color-scheme#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1949,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_container#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1970,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_deprecate#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -1991,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_forms#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_gradients#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -2033,10 +2033,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_grid#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -2054,10 +2054,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_image#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -2075,10 +2075,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_list-group#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -2096,10 +2096,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_lists#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -2117,10 +2117,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_pagination#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -2138,10 +2138,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_reset-text#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_resize#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -2180,10 +2180,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_table-variants#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -2201,10 +2201,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_text-truncate#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -2222,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_transition#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -2243,10 +2243,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_utilities#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -2264,10 +2264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/mixins/_visually-hidden#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -2285,10 +2285,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/utilities/_api#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -2306,10 +2306,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Identity": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Identity": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "SourceId": "LessonCrud",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
+      "ContentRoot": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\",
       "BasePath": "_content/LessonCrud",
       "RelativePath": "assets/scss/bootstrap/scss/vendor/_rfs#[.{fingerprint}]?.scss",
       "AssetKind": "All",
@@ -2330,7 +2330,7 @@
   "Endpoints": [
     {
       "Route": "assets/css/bootstrap.min.1w625hiout.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2375,7 +2375,7 @@
     },
     {
       "Route": "assets/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2412,7 +2412,7 @@
     },
     {
       "Route": "assets/css/style.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\css\\style.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2449,7 +2449,7 @@
     },
     {
       "Route": "assets/css/style.y2pmz3yw93.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\css\\style.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2494,7 +2494,7 @@
     },
     {
       "Route": "assets/img/testimonial-1.jpg",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\testimonial-1.jpg",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\testimonial-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2531,7 +2531,7 @@
     },
     {
       "Route": "assets/img/testimonial-1.urxekhjru9.jpg",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\testimonial-1.jpg",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\testimonial-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2576,7 +2576,7 @@
     },
     {
       "Route": "assets/img/testimonial-2.d2587veb1l.jpg",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\testimonial-2.jpg",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\testimonial-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2621,7 +2621,7 @@
     },
     {
       "Route": "assets/img/testimonial-2.jpg",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\testimonial-2.jpg",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\testimonial-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2658,7 +2658,7 @@
     },
     {
       "Route": "assets/img/user.awjszm7d5w.jpg",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\user.jpg",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\user.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2703,7 +2703,7 @@
     },
     {
       "Route": "assets/img/user.jpg",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\user.jpg",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\img\\user.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2740,7 +2740,7 @@
     },
     {
       "Route": "assets/js/main.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\js\\main.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\js\\main.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2777,7 +2777,7 @@
     },
     {
       "Route": "assets/js/main.u83rq9agdi.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\js\\main.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\js\\main.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2822,7 +2822,7 @@
     },
     {
       "Route": "assets/lib/chart/chart.min.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\chart\\chart.min.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\chart\\chart.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2859,7 +2859,7 @@
     },
     {
       "Route": "assets/lib/chart/chart.min.rmr6h77cha.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\chart\\chart.min.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\chart\\chart.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2904,7 +2904,7 @@
     },
     {
       "Route": "assets/lib/easing/easing.4cpzj38bla.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\easing\\easing.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2949,7 +2949,7 @@
     },
     {
       "Route": "assets/lib/easing/easing.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\easing\\easing.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2986,7 +2986,7 @@
     },
     {
       "Route": "assets/lib/easing/easing.min.irrmrafh02.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\easing\\easing.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3031,7 +3031,7 @@
     },
     {
       "Route": "assets/lib/easing/easing.min.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\easing\\easing.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3068,7 +3068,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/assets/ajax-loader.gif",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3105,7 +3105,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/assets/ajax-loader.uwe6z5aqkv.gif",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3150,7 +3150,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/assets/owl.carousel.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3187,7 +3187,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/assets/owl.carousel.fynx4m6ffa.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3232,7 +3232,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/assets/owl.carousel.min.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3269,7 +3269,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/assets/owl.carousel.min.j3wy3vomxf.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3314,7 +3314,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/assets/owl.theme.default.3sqe7mmf4b.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3359,7 +3359,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/assets/owl.theme.default.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3396,7 +3396,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/assets/owl.theme.default.min.bvb3mcnxs0.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3441,7 +3441,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/assets/owl.theme.default.min.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3478,7 +3478,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/assets/owl.theme.green.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3515,7 +3515,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/assets/owl.theme.green.min.1ktijcimzc.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3560,7 +3560,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/assets/owl.theme.green.min.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3597,7 +3597,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/assets/owl.theme.green.rstaz3qrjg.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3642,7 +3642,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/assets/owl.video.play.png",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3679,7 +3679,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/assets/owl.video.play.s8sku8kfko.png",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3724,7 +3724,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/LICENSE",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3761,7 +3761,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/LICENSE.x0d6diem58",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3806,7 +3806,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/owl.carousel.8vqiqdzfsy.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3851,7 +3851,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/owl.carousel.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3888,7 +3888,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/owl.carousel.min.xre24ck5s9.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3933,7 +3933,7 @@
     },
     {
       "Route": "assets/lib/owlcarousel/owl.carousel.min.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3970,7 +3970,7 @@
     },
     {
       "Route": "assets/lib/tempusdominus/css/tempusdominus-bootstrap-4.8n2dly420e.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4015,7 +4015,7 @@
     },
     {
       "Route": "assets/lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4052,7 +4052,7 @@
     },
     {
       "Route": "assets/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4089,7 +4089,7 @@
     },
     {
       "Route": "assets/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.h0uehoon70.css",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4134,7 +4134,7 @@
     },
     {
       "Route": "assets/lib/tempusdominus/js/moment.min.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4171,7 +4171,7 @@
     },
     {
       "Route": "assets/lib/tempusdominus/js/moment.min.u3a2f625v3.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4216,7 +4216,7 @@
     },
     {
       "Route": "assets/lib/tempusdominus/js/moment-timezone.min.eeexwixyll.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4261,7 +4261,7 @@
     },
     {
       "Route": "assets/lib/tempusdominus/js/moment-timezone.min.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4298,7 +4298,7 @@
     },
     {
       "Route": "assets/lib/tempusdominus/js/tempusdominus-bootstrap-4.94qvvqzebk.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4343,7 +4343,7 @@
     },
     {
       "Route": "assets/lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4380,7 +4380,7 @@
     },
     {
       "Route": "assets/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.5bii02sqr4.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4425,7 +4425,7 @@
     },
     {
       "Route": "assets/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4462,7 +4462,7 @@
     },
     {
       "Route": "assets/lib/waypoints/links.php",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\waypoints\\links.php",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\waypoints\\links.php",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4499,7 +4499,7 @@
     },
     {
       "Route": "assets/lib/waypoints/links.s65facuhh6.php",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\waypoints\\links.php",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\waypoints\\links.php",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4544,7 +4544,7 @@
     },
     {
       "Route": "assets/lib/waypoints/waypoints.min.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4581,7 +4581,7 @@
     },
     {
       "Route": "assets/lib/waypoints/waypoints.min.uydiqv09h2.js",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4626,7 +4626,7 @@
     },
     {
       "Route": "assets/scss/bootstrap.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4663,7 +4663,7 @@
     },
     {
       "Route": "assets/scss/bootstrap.tb2izkqi0z.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4708,7 +4708,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_accordion.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4745,7 +4745,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_accordion.uwxvu2yhy4.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4790,7 +4790,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_alert.68jtqtnlrs.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4835,7 +4835,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_alert.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4872,7 +4872,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_badge.0r10nvb2ts.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4917,7 +4917,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_badge.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4954,7 +4954,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_breadcrumb.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4991,7 +4991,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_breadcrumb.wsgoefnrlw.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5036,7 +5036,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_button-group.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5073,7 +5073,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_button-group.ya4u5138e6.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5118,7 +5118,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_buttons.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5155,7 +5155,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_buttons.uzqmqd874a.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5200,7 +5200,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_card.0301typdck.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5245,7 +5245,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_card.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5282,7 +5282,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_carousel.7k5vz9r3qk.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5327,7 +5327,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_carousel.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5364,7 +5364,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_close.ou0y0voqdr.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5409,7 +5409,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_close.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5446,7 +5446,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_containers.30gkx4bcm2.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_containers.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_containers.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5491,7 +5491,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_containers.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_containers.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_containers.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5528,7 +5528,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_dropdown.blq44u28fe.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5573,7 +5573,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_dropdown.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5610,7 +5610,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_forms.7p93x0xz3s.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5655,7 +5655,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_forms.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5692,7 +5692,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_functions.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5729,7 +5729,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_functions.vufzkasmkf.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5774,7 +5774,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_grid.ftynamukvt.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5819,7 +5819,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_grid.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5856,7 +5856,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_helpers.fwv434088u.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5901,7 +5901,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_helpers.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5938,7 +5938,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_images.l59hx9omo4.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5983,7 +5983,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_images.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6020,7 +6020,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_list-group.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6057,7 +6057,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_list-group.yhj4n82xak.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6102,7 +6102,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_mixins.c67ujj9c84.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6147,7 +6147,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_mixins.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6184,7 +6184,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_modal.9qv8hlxzct.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6229,7 +6229,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_modal.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6266,7 +6266,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_nav.hmp6a1s3pw.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6311,7 +6311,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_nav.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6348,7 +6348,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_navbar.9zo15cilrj.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6393,7 +6393,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_navbar.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6430,7 +6430,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_offcanvas.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6467,7 +6467,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_offcanvas.sksie55v52.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6512,7 +6512,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_pagination.jkge95xieu.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6557,7 +6557,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_pagination.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6594,7 +6594,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_popover.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6631,7 +6631,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_popover.wko6fl3j1f.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6676,7 +6676,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_progress.9boch0sfhy.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6721,7 +6721,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_progress.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6758,7 +6758,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_reboot.rqb4fy4aly.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6803,7 +6803,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_reboot.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6840,7 +6840,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_root.q4ynafoo00.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6885,7 +6885,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_root.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6922,7 +6922,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_spinners.lcc5iurlnv.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6967,7 +6967,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_spinners.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7004,7 +7004,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_tables.edcoiub7cc.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7049,7 +7049,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_tables.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7086,7 +7086,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_toasts.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7123,7 +7123,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_toasts.yzl3txh9cx.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7168,7 +7168,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_tooltip.xsfo4jn76o.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7213,7 +7213,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_tooltip.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7250,7 +7250,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_transitions.r6zvdi33o3.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7295,7 +7295,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_transitions.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7332,7 +7332,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_type.1awo7tc48o.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7377,7 +7377,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_type.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7414,7 +7414,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_utilities.f6akomxnhb.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7459,7 +7459,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_utilities.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7496,7 +7496,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_variables.pbz6tkse9u.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7541,7 +7541,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/_variables.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7578,7 +7578,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/bootstrap.9vu7uup5cj.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7623,7 +7623,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/bootstrap.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7660,7 +7660,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/bootstrap-grid.lrgwpv9db4.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7705,7 +7705,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/bootstrap-grid.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7742,7 +7742,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/bootstrap-reboot.ql154d2og0.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7787,7 +7787,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/bootstrap-reboot.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7824,7 +7824,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/bootstrap-utilities.0a5m1eic53.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7869,7 +7869,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/bootstrap-utilities.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7906,7 +7906,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_floating-labels.rfsgh6bpp7.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7951,7 +7951,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_floating-labels.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7988,7 +7988,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_form-check.2pad1n393w.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8033,7 +8033,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_form-check.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8070,7 +8070,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_form-control.lricq2h13z.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8115,7 +8115,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_form-control.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8152,7 +8152,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_form-range.gkhd1qk36q.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8197,7 +8197,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_form-range.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8234,7 +8234,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_form-select.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8271,7 +8271,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_form-select.vyjqvz5vpn.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8316,7 +8316,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_form-text.q2udja0qo0.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8361,7 +8361,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_form-text.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8398,7 +8398,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_input-group.ly1kvmffc3.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8443,7 +8443,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_input-group.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8480,7 +8480,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_labels.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8517,7 +8517,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_labels.yfw5ch9ycf.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8562,7 +8562,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_validation.2pp1ocxcl1.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8607,7 +8607,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/forms/_validation.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8644,7 +8644,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/helpers/_clearfix.3f68498tuu.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8689,7 +8689,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/helpers/_clearfix.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8726,7 +8726,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/helpers/_colored-links.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8763,7 +8763,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/helpers/_colored-links.ypdyudq9gp.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8808,7 +8808,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/helpers/_position.lf5eakj1s8.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8853,7 +8853,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/helpers/_position.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8890,7 +8890,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/helpers/_ratio.b2vsvf0ru3.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8935,7 +8935,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/helpers/_ratio.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8972,7 +8972,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/helpers/_stretched-link.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9009,7 +9009,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/helpers/_stretched-link.usjae5bok8.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9054,7 +9054,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/helpers/_text-truncation.ev1tge8gzu.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9099,7 +9099,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/helpers/_text-truncation.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9136,7 +9136,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/helpers/_visually-hidden.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9173,7 +9173,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/helpers/_visually-hidden.yv5uk7diy1.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9218,7 +9218,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_alert.9vy5kzlbfi.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9263,7 +9263,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_alert.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9300,7 +9300,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_box-shadow.mh3zh7muu9.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9345,7 +9345,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_box-shadow.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9382,7 +9382,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_border-radius.xjld3kyvjq.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9427,7 +9427,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_border-radius.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9464,7 +9464,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_breakpoints.ryiz5ozq96.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9509,7 +9509,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_breakpoints.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9546,7 +9546,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_buttons.pak1xs50u3.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9591,7 +9591,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_buttons.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9628,7 +9628,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_caret.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9665,7 +9665,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_caret.vokay74ill.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9710,7 +9710,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_clearfix.l4cmnsvs52.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9755,7 +9755,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_clearfix.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9792,7 +9792,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_color-scheme.x7qus63z9u.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9837,7 +9837,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_color-scheme.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9874,7 +9874,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_container.jmrcmnbswx.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9919,7 +9919,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_container.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9956,7 +9956,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_deprecate.r396lgtddz.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10001,7 +10001,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_deprecate.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10038,7 +10038,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_forms.rqge37xjdu.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10083,7 +10083,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_forms.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10120,7 +10120,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_gradients.bnc44k8se1.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10165,7 +10165,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_gradients.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10202,7 +10202,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_grid.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10239,7 +10239,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_grid.vqlwanpn86.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10284,7 +10284,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_image.e59ppc7xxn.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10329,7 +10329,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_image.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10366,7 +10366,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_list-group.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10403,7 +10403,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_list-group.uglil40rxz.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10448,7 +10448,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_lists.4ijbztgbhx.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10493,7 +10493,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_lists.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10530,7 +10530,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_pagination.1xltle1gke.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10575,7 +10575,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_pagination.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10612,7 +10612,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_reset-text.4qqx3e9fbo.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10657,7 +10657,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_reset-text.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10694,7 +10694,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_resize.5to3v0ne9o.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10739,7 +10739,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_resize.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10776,7 +10776,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_table-variants.1gmzdsfcwu.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10821,7 +10821,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_table-variants.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10858,7 +10858,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_text-truncate.0ufzo3eldz.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10903,7 +10903,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_text-truncate.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10940,7 +10940,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_transition.hjt0shj0oe.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10985,7 +10985,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_transition.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11022,7 +11022,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_utilities.2oy539e3cr.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11067,7 +11067,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_utilities.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11104,7 +11104,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_visually-hidden.o2e2z5vcz9.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11149,7 +11149,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/mixins/_visually-hidden.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11186,7 +11186,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/utilities/_api.xmez0gzoln.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11231,7 +11231,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/utilities/_api.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11268,7 +11268,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/vendor/_rfs.6sya79a91k.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11313,7 +11313,7 @@
     },
     {
       "Route": "assets/scss/bootstrap/scss/vendor/_rfs.scss",
-      "AssetFile": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "AssetFile": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\wwwroot\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
