@@ -1,0 +1,15 @@
+D:\AB206-CFF\LibraryConsoleApp\LibraryConsoleApp\bin\Debug\net8.0\LibraryConsoleApp.exe
+D:\AB206-CFF\LibraryConsoleApp\LibraryConsoleApp\bin\Debug\net8.0\LibraryConsoleApp.deps.json
+D:\AB206-CFF\LibraryConsoleApp\LibraryConsoleApp\bin\Debug\net8.0\LibraryConsoleApp.runtimeconfig.json
+D:\AB206-CFF\LibraryConsoleApp\LibraryConsoleApp\bin\Debug\net8.0\LibraryConsoleApp.dll
+D:\AB206-CFF\LibraryConsoleApp\LibraryConsoleApp\bin\Debug\net8.0\LibraryConsoleApp.pdb
+D:\AB206-CFF\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AB206-CFF\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.AssemblyInfoInputs.cache
+D:\AB206-CFF\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.AssemblyInfo.cs
+D:\AB206-CFF\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.csproj.CoreCompileInputs.cache
+D:\AB206-CFF\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.sourcelink.json
+D:\AB206-CFF\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.dll
+D:\AB206-CFF\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\refint\LibraryConsoleApp.dll
+D:\AB206-CFF\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.pdb
+D:\AB206-CFF\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.genruntimeconfig.cache
+D:\AB206-CFF\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\ref\LibraryConsoleApp.dll

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AB206-CFF\\LibraryConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4866A10-C85C-475D-810B-D6D487F34086}|LibraryConsoleApp\\LibraryConsoleApp.csproj|d:\\ab206-cff\\libraryconsoleapp\\libraryconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4866A10-C85C-475D-810B-D6D487F34086}|LibraryConsoleApp\\LibraryConsoleApp.csproj|solutionrelative:libraryconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4866A10-C85C-475D-810B-D6D487F34086}|LibraryConsoleApp\\LibraryConsoleApp.csproj|d:\\ab206-cff\\libraryconsoleapp\\libraryconsoleapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4866A10-C85C-475D-810B-D6D487F34086}|LibraryConsoleApp\\LibraryConsoleApp.csproj|solutionrelative:libraryconsoleapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4866A10-C85C-475D-810B-D6D487F34086}|LibraryConsoleApp\\LibraryConsoleApp.csproj|d:\\ab206-cff\\libraryconsoleapp\\libraryconsoleapp\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4866A10-C85C-475D-810B-D6D487F34086}|LibraryConsoleApp\\LibraryConsoleApp.csproj|solutionrelative:libraryconsoleapp\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\LibraryConsoleApp\\LibraryConsoleApp\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryConsoleApp\\Library.cs",
+              "ToolTip": "D:\\AB206-CFF\\LibraryConsoleApp\\LibraryConsoleApp\\Library.cs*",
+              "RelativeToolTip": "LibraryConsoleApp\\Library.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:50:49.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\LibraryConsoleApp\\LibraryConsoleApp\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryConsoleApp\\Book.cs",
+              "ToolTip": "D:\\AB206-CFF\\LibraryConsoleApp\\LibraryConsoleApp\\Book.cs*",
+              "RelativeToolTip": "LibraryConsoleApp\\Book.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:50:26.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\LibraryConsoleApp\\LibraryConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryConsoleApp\\Program.cs",
+              "ToolTip": "D:\\AB206-CFF\\LibraryConsoleApp\\LibraryConsoleApp\\Program.cs*",
+              "RelativeToolTip": "LibraryConsoleApp\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:49:52.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
