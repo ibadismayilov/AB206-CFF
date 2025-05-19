@@ -1,0 +1,51 @@
+﻿@model ProductModel
+
+<form asp-area="Admin" asp-controller="Crud" asp-action="Create" method="post" enctype="multipart/form-data" style="padding: 60px;">
+    <div class="mb-3">
+        <label class="form-label">Please select Image</label>
+        <input asp-for="ImgFile" class="form-control">
+        <span asp-validation-for="ImgFile"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Category</label>
+        <input asp-for="Category" class="form-control">
+        <span asp-validation-for="Category"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Price</label>
+        <input asp-for="Price" class="form-control">
+        <span asp-validation-for="Price"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Title</label>
+        <input asp-for="Title" class="form-control">
+        <span asp-validation-for="Title"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">BedroomCount</label>
+        <input asp-for="BedroomCount" class="form-control">
+        <span asp-validation-for="BedroomCount"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">BathroomCount</label>
+        <input asp-for="BathroomCount" class="form-control">
+        <span asp-validation-for="BathroomCount"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Area</label>
+        <input asp-for="Area" class="form-control">
+        <span asp-validation-for="Area"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Floor</label>
+        <input asp-for="Floor" class="form-control">
+        <span asp-validation-for="Floor"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Parking</label>
+        <input asp-for="Parking" class="form-control">
+        <span asp-validation-for="Parking"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

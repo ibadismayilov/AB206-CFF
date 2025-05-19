@@ -1,0 +1,15 @@
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.BL\bin\Debug\net8.0\Villa.BL.deps.json
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.BL\bin\Debug\net8.0\Villa.BL.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.BL\bin\Debug\net8.0\Villa.BL.pdb
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.BL\bin\Debug\net8.0\Villa.DAL.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.BL\bin\Debug\net8.0\Villa.DAL.pdb
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.BL\obj\Debug\net8.0\Villa.BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.BL\obj\Debug\net8.0\Villa.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.BL\obj\Debug\net8.0\Villa.BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.BL\obj\Debug\net8.0\Villa.BL.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.BL\obj\Debug\net8.0\Villa.BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.BL\obj\Debug\net8.0\Villa.BL.csproj.Up2Date
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.BL\obj\Debug\net8.0\Villa.BL.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.BL\obj\Debug\net8.0\refint\Villa.BL.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.BL\obj\Debug\net8.0\Villa.BL.pdb
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.BL\obj\Debug\net8.0\ref\Villa.BL.dll

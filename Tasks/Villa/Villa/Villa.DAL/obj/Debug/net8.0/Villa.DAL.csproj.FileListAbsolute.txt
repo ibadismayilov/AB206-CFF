@@ -1,0 +1,14 @@
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.DAL\bin\Debug\net8.0\Villa.DAL.deps.json
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.DAL\bin\Debug\net8.0\Villa.DAL.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.DAL\bin\Debug\net8.0\Villa.DAL.pdb
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.DAL\obj\Debug\net8.0\Villa.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.DAL\obj\Debug\net8.0\Villa.DAL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.DAL\obj\Debug\net8.0\Villa.DAL.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.DAL\obj\Debug\net8.0\Villa.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.DAL\obj\Debug\net8.0\Villa.DAL.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.DAL\obj\Debug\net8.0\refint\Villa.DAL.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.DAL\obj\Debug\net8.0\Villa.DAL.pdb
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.DAL\obj\Debug\net8.0\ref\Villa.DAL.dll
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.DAL\bin\Debug\net8.0\Villa.DAL.runtimeconfig.json
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.DAL\obj\Debug\net8.0\Villa.DAL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\Desktop\AB206-CFF\Villa\Villa.DAL\obj\Debug\net8.0\Villa.DAL.genruntimeconfig.cache

@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{547D70CE-37BE-4A37-9423-A9C3D8CE8FA4}|Villa.BL\\Villa.BL.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.bl\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547D70CE-37BE-4A37-9423-A9C3D8CE8FA4}|Villa.BL\\Villa.BL.csproj|solutionrelative:villa.bl\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A16D23A-16A3-4FD9-BD77-624114CC05D2}|Villa.DAL\\Villa.DAL.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.dal\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A16D23A-16A3-4FD9-BD77-624114CC05D2}|Villa.DAL\\Villa.DAL.csproj|solutionrelative:villa.dal\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\areas\\admin\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\areas\\admin\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\areas\\admin\\views\\crud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\areas\\admin\\views\\crud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\areas\\admin\\views\\crud\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\areas\\admin\\views\\crud\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\areas\\admin\\views\\crud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\areas\\admin\\views\\crud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A16D23A-16A3-4FD9-BD77-624114CC05D2}|Villa.DAL\\Villa.DAL.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.dal\\villa.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A16D23A-16A3-4FD9-BD77-624114CC05D2}|Villa.DAL\\Villa.DAL.csproj|solutionrelative:villa.dal\\villa.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\areas\\admin\\views\\crud\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\areas\\admin\\views\\crud\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Migrations\\20250519111422_CreateProductModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Villa.DAL\\Migrations\\20250519111422_CreateProductModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A16D23A-16A3-4FD9-BD77-624114CC05D2}|Villa.DAL\\Villa.DAL.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A16D23A-16A3-4FD9-BD77-624114CC05D2}|Villa.DAL\\Villa.DAL.csproj|solutionrelative:villa.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Migrations\\20250519110843_CreateProductModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Villa.DAL\\Migrations\\20250519110843_CreateProductModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Migrations\\20250519110729_CreateProductModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Villa.DAL\\Migrations\\20250519110729_CreateProductModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Migrations\\20250519105931_CreateProductModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Villa.DAL\\Migrations\\20250519105931_CreateProductModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab206-cff\\villa\\villa.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{978D8558-778D-413C-98FE-102BA94905CE}|Villa.MVC\\Villa.MVC.csproj|solutionrelative:villa.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Views\\Crud\\Update.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC\\Areas\\Admin\\Views\\Crud\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Views\\Crud\\Update.cshtml",
+              "RelativeToolTip": "Villa.MVC\\Areas\\Admin\\Views\\Crud\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:40:55.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Villa.DAL",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Villa.DAL.csproj",
+              "RelativeDocumentMoniker": "Villa.DAL\\Villa.DAL.csproj",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Villa.DAL.csproj",
+              "RelativeToolTip": "Villa.DAL\\Villa.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T12:31:55.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Views\\Crud\\Info.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC\\Areas\\Admin\\Views\\Crud\\Info.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Views\\Crud\\Info.cshtml",
+              "RelativeToolTip": "Villa.MVC\\Areas\\Admin\\Views\\Crud\\Info.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:22:40.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Views\\Crud\\Create.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC\\Areas\\Admin\\Views\\Crud\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Views\\Crud\\Create.cshtml",
+              "RelativeToolTip": "Villa.MVC\\Areas\\Admin\\Views\\Crud\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T11:35:13.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Villa.DAL\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Villa.DAL\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:47:16.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Villa.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T11:23:24.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Views\\Crud\\Index.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC\\Areas\\Admin\\Views\\Crud\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Views\\Crud\\Index.cshtml",
+              "RelativeToolTip": "Villa.MVC\\Areas\\Admin\\Views\\Crud\\Index.cshtml",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAIIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T11:34:30.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrudController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Controllers\\CrudController.cs",
+              "RelativeDocumentMoniker": "Villa.MVC\\Areas\\Admin\\Controllers\\CrudController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Controllers\\CrudController.cs",
+              "RelativeToolTip": "Villa.MVC\\Areas\\Admin\\Controllers\\CrudController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:33:52.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Villa.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Villa.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:20:06.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Villa.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABQBAAAAAAAAAAAAABwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T10:36:31.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.BL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Villa.BL\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.BL\\Services\\ProductService.cs",
+              "RelativeToolTip": "Villa.BL\\Services\\ProductService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:49:52.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Villa.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T11:37:02.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Villa.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T11:20:54.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Villa.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Villa.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:36:23.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Villa.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T11:20:12.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Villa.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T11:21:07.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Villa.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAEwE4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T10:36:49.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Villa.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Villa.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-19T11:17:41.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250519111422_CreateProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Migrations\\20250519111422_CreateProductModel.cs",
+              "RelativeDocumentMoniker": "Villa.DAL\\Migrations\\20250519111422_CreateProductModel.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Migrations\\20250519111422_CreateProductModel.cs",
+              "RelativeToolTip": "Villa.DAL\\Migrations\\20250519111422_CreateProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:14:22.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250519110843_CreateProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Migrations\\20250519110843_CreateProductModel.cs",
+              "RelativeDocumentMoniker": "Villa.DAL\\Migrations\\20250519110843_CreateProductModel.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Migrations\\20250519110843_CreateProductModel.cs",
+              "RelativeToolTip": "Villa.DAL\\Migrations\\20250519110843_CreateProductModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:08:44.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250519110729_CreateProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Migrations\\20250519110729_CreateProductModel.cs",
+              "RelativeDocumentMoniker": "Villa.DAL\\Migrations\\20250519110729_CreateProductModel.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Migrations\\20250519110729_CreateProductModel.cs",
+              "RelativeToolTip": "Villa.DAL\\Migrations\\20250519110729_CreateProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:07:29.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250519105931_CreateProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Migrations\\20250519105931_CreateProductModel.cs",
+              "RelativeDocumentMoniker": "Villa.DAL\\Migrations\\20250519105931_CreateProductModel.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Migrations\\20250519105931_CreateProductModel.cs",
+              "RelativeToolTip": "Villa.DAL\\Migrations\\20250519105931_CreateProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:59:31.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Villa.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\appsettings.json",
+              "RelativeToolTip": "Villa.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T10:52:19.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Villa.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Program.cs",
+              "RelativeToolTip": "Villa.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:40:45.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Villa.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Villa.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:44:22.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Villa\\Villa.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Villa.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T10:36:57.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
