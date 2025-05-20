@@ -1,0 +1,31 @@
+﻿@model ProductModel
+
+<form asp-area="Admin" asp-controller="Crud" asp-action="Update" method="post" enctype="multipart/form-data" style="padding: 60px;">
+    <div class="mb-3">
+        <label class="form-label">Please select Image</label>
+        <input asp-for="ImgFile" class="form-control">
+        <span asp-validation-for="ImgFile"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Category</label>
+        <input asp-for="Category" class="form-control">
+        <span asp-validation-for="Category"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Price</label>
+        <input asp-for="Price" class="form-control">
+        <span asp-validation-for="Price"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Title</label>
+        <input asp-for="Title" class="form-control">
+        <span asp-validation-for="Title"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Description</label>
+        <input asp-for="Desc" class="form-control">
+        <span asp-validation-for="Desc"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
