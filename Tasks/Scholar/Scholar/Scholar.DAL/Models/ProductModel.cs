@@ -8,20 +8,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Villa.DAL.Models;
+namespace Scholar.DAL.Models;
 
 public class ProductModel
 {
     public int Id { get; set; }
     public string ImgPath { get; set; }
-    [NotMapped]
-    public IFormFile ImgFile { get; set; }
-    [Required(ErrorMessage = "Moye More")]
     public string Category { get; set; }
-    [Required(ErrorMessage = "Moye More")]
     public double Price { get; set; }
-    [Required(ErrorMessage = "Moye More")]
     public string Title { get; set; }
-    [Required(ErrorMessage = "fdfMoye More")]
     public string Desc { get; set; }
 }

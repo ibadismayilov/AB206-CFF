@@ -1,12 +1,14 @@
 using Microsoft.EntityFrameworkCore;
 using System;
-using Villa.BL.Services;
-using Villa.DAL.Contexts;
+using Scholar.BL.Services;
+using Scholar.DAL.Contexts;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
+string? connectionString = builder.Configuration.GetConnectionString("Default") ?? "Additionail";
+
+builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(connectionString));
 
 builder.Services.AddScoped<ProductService>();
 

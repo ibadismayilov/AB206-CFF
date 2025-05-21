@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Villa.DAL.Models;
+using Scholar.DAL.Models;
 
-namespace Villa.DAL.Contexts;
+namespace Scholar.DAL.Contexts;
 
 public class AppDbContext : DbContext
 {

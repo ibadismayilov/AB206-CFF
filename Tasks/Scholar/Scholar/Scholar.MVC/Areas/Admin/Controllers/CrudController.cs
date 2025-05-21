@@ -1,8 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Villa.BL.Services;
-using Villa.DAL.Models;
+using Scholar.BL.Services;
+using Scholar.DAL.Models;
+using Scholar.MVC.ViewModels;
 
-namespace Villa.MVC.Areas.Admin.Controllers;
+namespace Scholar.MVC.Areas.Admin.Controllers;
 
 [Area("Admin")]
 public class CrudController : Controller
@@ -27,14 +28,14 @@ public class CrudController : Controller
     }
 
     [HttpPost]
-    public IActionResult Create(ProductModel product)
+    public IActionResult Create(ProductVM productVM)
     {
-        //if (!ModelState.IsValid)
-        //{
-        //    return View();
-        //}
+        if (!ModelState.IsValid)
+        {
+            return View();
+        }
 
-        _productService.CreateProduct(product);
+        _productService.CreateProduct(productVM);
         return RedirectToAction(nameof(Index));
     }
 
@@ -53,15 +54,21 @@ public class CrudController : Controller
     }
 
     [HttpGet]
-    public IActionResult Update(int id)
+    public IActionResult Update()
     {
         return View();
     }
 
     [HttpPost]
-    public IActionResult Update(ProductModel product)
+    public IActionResult Update(int id, ProductVM productVM)
     {
-        _productService.UpdateProduct(product);
+
+        if (!ModelState.IsValid)
+        {
+            return View();
+        }
+
+        _productService.UpdateProduct(id, productVM);
         return RedirectToAction(nameof(Index));
     }
 }

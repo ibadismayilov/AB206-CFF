@@ -1,663 +1,675 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\Admin\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\css\\style.css",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\img\\testimonial-1.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\Admin\\assets\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\img\\testimonial-2.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\img\\testimonial-2.jpg",
       "PackagePath": "staticwebassets\\Admin\\assets\\img\\testimonial-2.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\img\\user.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\img\\user.jpg",
       "PackagePath": "staticwebassets\\Admin\\assets\\img\\user.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\js\\main.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\Admin\\assets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\chart\\chart.min.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\chart\\chart.min.js",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\chart\\chart.min.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\easing\\easing.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\easing\\easing.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\easing\\easing.min.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\LICENSE",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\moment.min.js",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\waypoints\\links.php",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\waypoints\\waypoints.min.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\Admin\\assets\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_alert.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_badge.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_card.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_close.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_containers.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_forms.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_functions.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_grid.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_images.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_modal.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_nav.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_popover.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_progress.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_root.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_tables.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_type.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_variables.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\css\\animate.css",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\css\\animate.css",
       "PackagePath": "staticwebassets\\assets\\css\\animate.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\css\\flex-slider.css",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\css\\flex-slider.css",
       "PackagePath": "staticwebassets\\assets\\css\\flex-slider.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\css\\fontawesome.css",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\css\\fontawesome.css",
       "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\css\\owl.css",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\css\\owl.css",
       "PackagePath": "staticwebassets\\assets\\css\\owl.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\css\\templatemo-scholar.css",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\css\\templatemo-scholar.css",
       "PackagePath": "staticwebassets\\assets\\css\\templatemo-scholar.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\banner-bg.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\banner-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\banner-item-01.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\banner-item-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner-item-01.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\banner-item-02.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\banner-item-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner-item-02.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\banner-item-03.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\banner-item-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner-item-03.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\contact-dec-01.png",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\contact-dec-01.png",
       "PackagePath": "staticwebassets\\assets\\images\\contact-dec-01.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\contact-dec-02.png",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\contact-dec-02.png",
       "PackagePath": "staticwebassets\\assets\\images\\contact-dec-02.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\course-01.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\course-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\course-01.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\course-02.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\course-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\course-02.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\course-03.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\course-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\course-03.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\course-04.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\course-04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\course-04.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\course-05.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\course-05.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\course-05.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\course-06.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\course-06.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\course-06.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\event-01.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\event-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\event-01.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\event-02.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\event-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\event-02.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\event-03.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\event-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\event-03.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\member-01.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\member-01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\member-01.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\member-02.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\member-02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\member-02.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\member-03.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\member-03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\member-03.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\member-04.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\member-04.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\member-04.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\service-01.png",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\service-01.png",
       "PackagePath": "staticwebassets\\assets\\images\\service-01.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\service-02.png",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\service-02.png",
       "PackagePath": "staticwebassets\\assets\\images\\service-02.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\service-03.png",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\service-03.png",
       "PackagePath": "staticwebassets\\assets\\images\\service-03.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\testimonial-author.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\images\\testimonial-author.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\testimonial-author.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\js\\counter.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\js\\counter.js",
       "PackagePath": "staticwebassets\\assets\\js\\counter.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\js\\custom.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\js\\custom.js",
       "PackagePath": "staticwebassets\\assets\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\js\\isotope.min.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\js\\isotope.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\isotope.min.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\js\\owl-carousel.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\js\\owl-carousel.js",
       "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\uploadedImages\\dogecoin1fe0f216-3965-4bbd-ba73-d767d963c13f.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\uploadedImages\\ChatGPT Image 27 Nis 2025 20_52_27cddb97e1-6b00-40b2-86a9-c2a493407962.png",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\ChatGPT Image 27 Nis 2025 20_52_27cddb97e1-6b00-40b2-86a9-c2a493407962.png"
+    },
+    {
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\uploadedImages\\ChatGPT Image 27 Nis 2025 20_52_27f9334b51-63ae-44c4-8203-cf1b5ae4dea9.png",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\ChatGPT Image 27 Nis 2025 20_52_27f9334b51-63ae-44c4-8203-cf1b5ae4dea9.png"
+    },
+    {
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\uploadedImages\\dogecoin1fe0f216-3965-4bbd-ba73-d767d963c13f.jpg",
       "PackagePath": "staticwebassets\\assets\\uploadedImages\\dogecoin1fe0f216-3965-4bbd-ba73-d767d963c13f.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\uploadedImages\\obito-uchiha-tobi-mask-akatsuki-8k-wallpaper-uhdpaper.com-291@2@a7d873034-7804-4cda-a325-addd7e8c87f2.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\uploadedImages\\fullmetal-alchemist-3840x2160-10399b1f05bd3-387d-4a33-997f-90ab6e1c1922.png",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\fullmetal-alchemist-3840x2160-10399b1f05bd3-387d-4a33-997f-90ab6e1c1922.png"
+    },
+    {
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\uploadedImages\\obito-uchiha-tobi-mask-akatsuki-8k-wallpaper-uhdpaper.com-291@2@a7d873034-7804-4cda-a325-addd7e8c87f2.jpg",
       "PackagePath": "staticwebassets\\assets\\uploadedImages\\obito-uchiha-tobi-mask-akatsuki-8k-wallpaper-uhdpaper.com-291@2@a7d873034-7804-4cda-a325-addd7e8c87f2.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\uploadedImages\\sigma-cat-orange-cat744cf8c8-3338-4544-bc78-24dae7594098.png",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\uploadedImages\\sigma-cat-orange-cat744cf8c8-3338-4544-bc78-24dae7594098.png",
       "PackagePath": "staticwebassets\\assets\\uploadedImages\\sigma-cat-orange-cat744cf8c8-3338-4544-bc78-24dae7594098.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\uploadedImages\\sigma-cat-orange-catd0538d8c-b912-4d3d-aaab-609a8988f3b9.png",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\uploadedImages\\sigma-cat-orange-catd0538d8c-b912-4d3d-aaab-609a8988f3b9.png",
       "PackagePath": "staticwebassets\\assets\\uploadedImages\\sigma-cat-orange-catd0538d8c-b912-4d3d-aaab-609a8988f3b9.png"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\uploadedImages\\trafalgar-law-one-piece-4k-wallpaper-uhdpaper.com-472@2@ad8bde28c-5c23-4ed4-89c4-3517f4be6482.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\uploadedImages\\trafalgar-law-one-piece-4k-wallpaper-uhdpaper.com-472@2@ad8bde28c-5c23-4ed4-89c4-3517f4be6482.jpg",
       "PackagePath": "staticwebassets\\assets\\uploadedImages\\trafalgar-law-one-piece-4k-wallpaper-uhdpaper.com-472@2@ad8bde28c-5c23-4ed4-89c4-3517f4be6482.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\uploadedImages\\trafalgar-law-one-piece-4k-wallpaper-uhdpaper.com-472@2@af1def260-46a8-40c9-a325-5a6cf14f4915.jpg",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\uploadedImages\\trafalgar-law-one-piece-4k-wallpaper-uhdpaper.com-472@2@af1def260-46a8-40c9-a325-5a6cf14f4915.jpg",
       "PackagePath": "staticwebassets\\assets\\uploadedImages\\trafalgar-law-one-piece-4k-wallpaper-uhdpaper.com-472@2@af1def260-46a8-40c9-a325-5a6cf14f4915.jpg"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\uploadedImages\\ulquiorra-bleach.3840x2160d8bdd11f-3676-4332-b3b5-7c9bfc545086.mp4",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\uploadedImages\\ulquiorra-bleach.3840x2160d8bdd11f-3676-4332-b3b5-7c9bfc545086.mp4",
       "PackagePath": "staticwebassets\\assets\\uploadedImages\\ulquiorra-bleach.3840x2160d8bdd11f-3676-4332-b3b5-7c9bfc545086.mp4"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.min.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.min.map",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.min.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.slim.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.js",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.slim.min.js"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.map",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.slim.min.map"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Id": "C:\\Users\\II Novbe\\Desktop\\AB206-CFF\\Scholar\\Scholar.MVC\\wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2",
+      "Id": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.MVC\\wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2",
       "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.woff2"
     },
     {

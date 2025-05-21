@@ -1704,6 +1704,30 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s0urs9j7h8"},{"Name":"integrity","Value":"sha256-RN8Ln2oIxjjCzlRJicyPww6Q/SvahGUoDQzw8tIUFz4="},{"Name":"label","Value":"_content/Scholar.MVC/assets/js/owl-carousel.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"93438"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022RN8Ln2oIxjjCzlRJicyPww6Q/SvahGUoDQzw8tIUFz4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:37:31 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/ChatGPT Image 27 Nis 2025 20_52_27cddb97e1-6b00-40b2-86a9-c2a493407962.2lol2z3p54.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\ChatGPT Image 27 Nis 2025 20_52_27cddb97e1-6b00-40b2-86a9-c2a493407962.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2lol2z3p54"},{"Name":"integrity","Value":"sha256-to2tsz1DNkQrGDWltTXU7AaasiRiPKyJBEyug3MVF5w="},{"Name":"label","Value":"_content/Scholar.MVC/assets/uploadedImages/ChatGPT Image 27 Nis 2025 20_52_27cddb97e1-6b00-40b2-86a9-c2a493407962.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1691548"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022to2tsz1DNkQrGDWltTXU7AaasiRiPKyJBEyug3MVF5w=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 07:46:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/ChatGPT Image 27 Nis 2025 20_52_27cddb97e1-6b00-40b2-86a9-c2a493407962.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\ChatGPT Image 27 Nis 2025 20_52_27cddb97e1-6b00-40b2-86a9-c2a493407962.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-to2tsz1DNkQrGDWltTXU7AaasiRiPKyJBEyug3MVF5w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1691548"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022to2tsz1DNkQrGDWltTXU7AaasiRiPKyJBEyug3MVF5w=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 07:46:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/ChatGPT Image 27 Nis 2025 20_52_27f9334b51-63ae-44c4-8203-cf1b5ae4dea9.2lol2z3p54.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\ChatGPT Image 27 Nis 2025 20_52_27f9334b51-63ae-44c4-8203-cf1b5ae4dea9.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2lol2z3p54"},{"Name":"integrity","Value":"sha256-to2tsz1DNkQrGDWltTXU7AaasiRiPKyJBEyug3MVF5w="},{"Name":"label","Value":"_content/Scholar.MVC/assets/uploadedImages/ChatGPT Image 27 Nis 2025 20_52_27f9334b51-63ae-44c4-8203-cf1b5ae4dea9.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1691548"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022to2tsz1DNkQrGDWltTXU7AaasiRiPKyJBEyug3MVF5w=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 07:46:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/ChatGPT Image 27 Nis 2025 20_52_27f9334b51-63ae-44c4-8203-cf1b5ae4dea9.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\ChatGPT Image 27 Nis 2025 20_52_27f9334b51-63ae-44c4-8203-cf1b5ae4dea9.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-to2tsz1DNkQrGDWltTXU7AaasiRiPKyJBEyug3MVF5w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1691548"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022to2tsz1DNkQrGDWltTXU7AaasiRiPKyJBEyug3MVF5w=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 07:46:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/dogecoin1fe0f216-3965-4bbd-ba73-d767d963c13f.664dtvx4u1.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\dogecoin1fe0f216-3965-4bbd-ba73-d767d963c13f.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -1715,6 +1739,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Xn82UJjMOws1lEOQCLLHajFeFnS2UCaNGRFl1VpYutc="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11254"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Xn82UJjMOws1lEOQCLLHajFeFnS2UCaNGRFl1VpYutc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 20 May 2025 14:41:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/fullmetal-alchemist-3840x2160-10399b1f05bd3-387d-4a33-997f-90ab6e1c1922.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\fullmetal-alchemist-3840x2160-10399b1f05bd3-387d-4a33-997f-90ab6e1c1922.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-j6fUcHl58w/fSaTn2Hdukpu/ZBwMjFpfCJLjXia4p/A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1830369"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022j6fUcHl58w/fSaTn2Hdukpu/ZBwMjFpfCJLjXia4p/A=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 07:42:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/fullmetal-alchemist-3840x2160-10399b1f05bd3-387d-4a33-997f-90ab6e1c1922.x8bah4s4jh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\fullmetal-alchemist-3840x2160-10399b1f05bd3-387d-4a33-997f-90ab6e1c1922.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x8bah4s4jh"},{"Name":"integrity","Value":"sha256-j6fUcHl58w/fSaTn2Hdukpu/ZBwMjFpfCJLjXia4p/A="},{"Name":"label","Value":"_content/Scholar.MVC/assets/uploadedImages/fullmetal-alchemist-3840x2160-10399b1f05bd3-387d-4a33-997f-90ab6e1c1922.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1830369"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022j6fUcHl58w/fSaTn2Hdukpu/ZBwMjFpfCJLjXia4p/A=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 07:42:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/obito-uchiha-tobi-mask-akatsuki-8k-wallpaper-uhdpaper.com-291@2@a7d873034-7804-4cda-a325-addd7e8c87f2.9ce1qoxefk.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\obito-uchiha-tobi-mask-akatsuki-8k-wallpaper-uhdpaper.com-291@2@a7d873034-7804-4cda-a325-addd7e8c87f2.jpg'))</AssetFile>

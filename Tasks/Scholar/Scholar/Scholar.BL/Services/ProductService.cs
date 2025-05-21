@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Villa.DAL.Contexts;
-using Villa.DAL.Models;
+using Scholar.DAL.Contexts;
+using Scholar.DAL.Models;
+using Scholar.MVC.ViewModels;
 
-namespace Villa.BL.Services;
+namespace Scholar.BL.Services;
 
 public class ProductService
 {
@@ -28,10 +29,16 @@ public class ProductService
         return findProduct;
     }
 
-    public void CreateProduct(ProductModel product)
+    public void CreateProduct(ProductVM productVM)
     {
-        string filname = Path.GetFileNameWithoutExtension(product.ImgFile.FileName);
-        string extension = Path.GetExtension(product.ImgFile.FileName);
+        ProductModel product = new ProductModel();
+        product.Category = productVM.Category;
+        product.Desc = productVM.Desc;
+        product.Title = productVM.Title;
+        product.Price = productVM.Price;
+
+        string filname = Path.GetFileNameWithoutExtension(productVM.ImgFile.FileName);
+        string extension = Path.GetExtension(productVM.ImgFile.FileName);
 
         string result = filname + Guid.NewGuid().ToString() + extension;
 
@@ -43,7 +50,7 @@ public class ProductService
         }
 
         using FileStream stream = new FileStream(Path.Combine(uploadedImages, result), FileMode.Create);
-        product.ImgFile.CopyTo(stream);
+        productVM.ImgFile.CopyTo(stream);
 
         product.ImgPath = result;
 
@@ -60,26 +67,25 @@ public class ProductService
         return findProduct;
     }
 
-    public void UpdateProduct(ProductModel product)
+    public void UpdateProduct(int id, ProductVM productVM)
     {
-        ProductModel? productModel = _appDbContext.ProductModels.FirstOrDefault(item => item.Id == product.Id);
+        var existingProduct = GetProductById(id);
 
-        if (productModel is null)
+        if (existingProduct is null)
         {
-            throw new Exception($"{productModel} tapilmadi");
-        } 
+            throw new Exception($"ID-si {id} olan məhsul tapılmadı.");
+        }
 
-        productModel.Title = product.Title;
-        productModel.Category = product.Category;
-        productModel.Price = product.Price;
+        existingProduct.Title = productVM.Title;
+        existingProduct.Desc = productVM.Desc;
+        existingProduct.Category = productVM.Category;
+        existingProduct.Price = productVM.Price;
 
-        if (product.ImgFile is not null)
+        if (productVM.ImgFile is not null)
         {
-
-            string filname = Path.GetFileNameWithoutExtension(product.ImgFile.FileName);
-            string extension = Path.GetExtension(product.ImgFile.FileName);
-
-            string result = filname + Guid.NewGuid().ToString() + extension;
+            string fileName = Path.GetFileNameWithoutExtension(productVM.ImgFile.FileName);
+            string extension = Path.GetExtension(productVM.ImgFile.FileName);
+            string result = fileName + Guid.NewGuid().ToString() + extension;
 
             string uploadedImages = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "assets", "uploadedImages");
 
@@ -89,11 +95,12 @@ public class ProductService
             }
 
             using FileStream stream = new FileStream(Path.Combine(uploadedImages, result), FileMode.Create);
-            product.ImgFile.CopyTo(stream);
+            productVM.ImgFile.CopyTo(stream);
 
-            productModel.ImgPath = result;
+            existingProduct.ImgPath = result;
         }
 
         _appDbContext.SaveChanges();
     }
+
 }

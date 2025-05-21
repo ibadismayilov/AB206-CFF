@@ -4,14 +4,14 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using Villa.DAL.Contexts;
+using Scholar.DAL.Contexts;
 
 #nullable disable
 
 namespace Scholar.DAL.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250520141105_CreateProductModel")]
+    [Migration("20250521063531_CreateProductModel")]
     partial class CreateProductModel
     {
         /// <inheritdoc />

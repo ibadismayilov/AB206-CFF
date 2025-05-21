@@ -13,3 +13,18 @@ C:\Users\II Novbe\Desktop\AB206-CFF\Scholar\Scholar.BL\obj\Debug\net8.0\Scholar.
 C:\Users\II Novbe\Desktop\AB206-CFF\Scholar\Scholar.BL\obj\Debug\net8.0\refint\Scholar.BL.dll
 C:\Users\II Novbe\Desktop\AB206-CFF\Scholar\Scholar.BL\obj\Debug\net8.0\Scholar.BL.pdb
 C:\Users\II Novbe\Desktop\AB206-CFF\Scholar\Scholar.BL\obj\Debug\net8.0\ref\Scholar.BL.dll
+C:\Users\ibadi\OneDrive\Desktop\Scholar\Scholar\Scholar.BL\bin\Debug\net8.0\Scholar.BL.deps.json
+C:\Users\ibadi\OneDrive\Desktop\Scholar\Scholar\Scholar.BL\bin\Debug\net8.0\Scholar.BL.dll
+C:\Users\ibadi\OneDrive\Desktop\Scholar\Scholar\Scholar.BL\bin\Debug\net8.0\Scholar.BL.pdb
+C:\Users\ibadi\OneDrive\Desktop\Scholar\Scholar\Scholar.BL\bin\Debug\net8.0\Scholar.DAL.dll
+C:\Users\ibadi\OneDrive\Desktop\Scholar\Scholar\Scholar.BL\bin\Debug\net8.0\Scholar.DAL.pdb
+C:\Users\ibadi\OneDrive\Desktop\Scholar\Scholar\Scholar.BL\obj\Debug\net8.0\Scholar.BL.csproj.AssemblyReference.cache
+C:\Users\ibadi\OneDrive\Desktop\Scholar\Scholar\Scholar.BL\obj\Debug\net8.0\Scholar.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\Scholar\Scholar\Scholar.BL\obj\Debug\net8.0\Scholar.BL.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\Scholar\Scholar\Scholar.BL\obj\Debug\net8.0\Scholar.BL.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\Scholar\Scholar\Scholar.BL\obj\Debug\net8.0\Scholar.BL.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\Scholar\Scholar\Scholar.BL\obj\Debug\net8.0\Scholar.BL.csproj.Up2Date
+C:\Users\ibadi\OneDrive\Desktop\Scholar\Scholar\Scholar.BL\obj\Debug\net8.0\Scholar.BL.dll
+C:\Users\ibadi\OneDrive\Desktop\Scholar\Scholar\Scholar.BL\obj\Debug\net8.0\refint\Scholar.BL.dll
+C:\Users\ibadi\OneDrive\Desktop\Scholar\Scholar\Scholar.BL\obj\Debug\net8.0\Scholar.BL.pdb
+C:\Users\ibadi\OneDrive\Desktop\Scholar\Scholar\Scholar.BL\obj\Debug\net8.0\ref\Scholar.BL.dll
