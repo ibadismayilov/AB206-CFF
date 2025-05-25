@@ -2989,11 +2989,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.BL\\Scholar.BL.csproj",
+      "projectUniqueName": "D:\\AB206-CFF\\Tasks\\Scholar\\Scholar\\Scholar.BL\\Scholar.BL.csproj",
       "projectName": "Scholar.BL",
-      "projectPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.BL\\Scholar.BL.csproj",
+      "projectPath": "D:\\AB206-CFF\\Tasks\\Scholar\\Scholar\\Scholar.BL\\Scholar.BL.csproj",
       "packagesPath": "C:\\Users\\ibadi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.BL\\obj\\",
+      "outputPath": "D:\\AB206-CFF\\Tasks\\Scholar\\Scholar\\Scholar.BL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3014,8 +3014,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.DAL\\Scholar.DAL.csproj": {
-              "projectPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\Scholar\\Scholar\\Scholar.DAL\\Scholar.DAL.csproj"
+            "D:\\AB206-CFF\\Tasks\\Scholar\\Scholar\\Scholar.DAL\\Scholar.DAL.csproj": {
+              "projectPath": "D:\\AB206-CFF\\Tasks\\Scholar\\Scholar\\Scholar.DAL\\Scholar.DAL.csproj"
             }
           }
         }

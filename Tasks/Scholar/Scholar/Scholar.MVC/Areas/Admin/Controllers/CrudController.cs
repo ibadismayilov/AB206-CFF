@@ -43,7 +43,19 @@ public class CrudController : Controller
     public IActionResult Info(int id)
     {
         ProductModel product = _productService.GetProductById(id);
-        return View(product);
+
+        if (product is null)
+        {
+            throw new Exception("Product tapilmadi");
+        }
+
+        ProductVM vm = new ProductVM();
+        vm.Title = product.Title;
+        vm.Desc = product.Desc;
+        vm.Category = product.Category;
+        vm.Price = product.Price;
+
+        return View(vm);
     }
 
     [HttpPost]
@@ -54,9 +66,22 @@ public class CrudController : Controller
     }
 
     [HttpGet]
-    public IActionResult Update()
+    public IActionResult Update(int id)
     {
-        return View();
+        ProductModel findProduct = _productService.GetProductById(id);
+
+        if (findProduct is null)
+        {
+            throw new Exception("Product tapilmadi");
+        }
+
+        ProductVM vm = new ProductVM();
+        vm.Title = findProduct.Title;
+        vm.Desc = findProduct.Desc;
+        vm.Category = findProduct.Category;
+        vm.Price = findProduct.Price;
+
+        return View(vm);
     }
 
     [HttpPost]

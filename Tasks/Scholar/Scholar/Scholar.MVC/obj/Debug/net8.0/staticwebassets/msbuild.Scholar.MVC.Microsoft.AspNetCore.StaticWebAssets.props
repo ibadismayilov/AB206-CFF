@@ -2556,6 +2556,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\owl-carousel.js'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\ChatGPT Image 27 Nis 2025 20_52_27120a05e2-e5e4-4fe2-a416-28c1d3ca0912.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Scholar.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Scholar.MVC</BasePath>
+      <RelativePath>assets/uploadedImages/ChatGPT Image 27 Nis 2025 20_52_27120a05e2-e5e4-4fe2-a416-28c1d3ca0912.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>2lol2z3p54</Fingerprint>
+      <Integrity>to2tsz1DNkQrGDWltTXU7AaasiRiPKyJBEyug3MVF5w=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\ChatGPT Image 27 Nis 2025 20_52_27120a05e2-e5e4-4fe2-a416-28c1d3ca0912.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\ChatGPT Image 27 Nis 2025 20_52_27cddb97e1-6b00-40b2-86a9-c2a493407962.png'))">
       <SourceType>Package</SourceType>
       <SourceId>Scholar.MVC</SourceId>
@@ -2610,6 +2628,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\dogecoin1fe0f216-3965-4bbd-ba73-d767d963c13f.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\fullmetal-alchemist-3840x2160-1039948709d5e-71c3-4afc-ba09-5b29674ccf73.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Scholar.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Scholar.MVC</BasePath>
+      <RelativePath>assets/uploadedImages/fullmetal-alchemist-3840x2160-1039948709d5e-71c3-4afc-ba09-5b29674ccf73.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>x8bah4s4jh</Fingerprint>
+      <Integrity>j6fUcHl58w/fSaTn2Hdukpu/ZBwMjFpfCJLjXia4p/A=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\fullmetal-alchemist-3840x2160-1039948709d5e-71c3-4afc-ba09-5b29674ccf73.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\fullmetal-alchemist-3840x2160-10399b1f05bd3-387d-4a33-997f-90ab6e1c1922.png'))">
       <SourceType>Package</SourceType>
       <SourceId>Scholar.MVC</SourceId>
@@ -2627,6 +2663,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\fullmetal-alchemist-3840x2160-10399b1f05bd3-387d-4a33-997f-90ab6e1c1922.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\fullmetal-alchemist-3840x2160-10399c0f4314d-4bc7-4778-907f-936fd4be093f.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Scholar.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Scholar.MVC</BasePath>
+      <RelativePath>assets/uploadedImages/fullmetal-alchemist-3840x2160-10399c0f4314d-4bc7-4778-907f-936fd4be093f.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>x8bah4s4jh</Fingerprint>
+      <Integrity>j6fUcHl58w/fSaTn2Hdukpu/ZBwMjFpfCJLjXia4p/A=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\fullmetal-alchemist-3840x2160-10399c0f4314d-4bc7-4778-907f-936fd4be093f.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\funny-facebook-profile-pictures-5tkx38ibhd4eyv8iea982428-7979-46d2-87c7-0417e2cc7c0a.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Scholar.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Scholar.MVC</BasePath>
+      <RelativePath>assets/uploadedImages/funny-facebook-profile-pictures-5tkx38ibhd4eyv8iea982428-7979-46d2-87c7-0417e2cc7c0a.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ax5opcrlgw</Fingerprint>
+      <Integrity>/oxDEaQ4tHlY3W8u5UeeX1H0IB3mZLhCVenbmP/wATc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\funny-facebook-profile-pictures-5tkx38ibhd4eyv8iea982428-7979-46d2-87c7-0417e2cc7c0a.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\obito-uchiha-tobi-mask-akatsuki-8k-wallpaper-uhdpaper.com-291@2@a7d873034-7804-4cda-a325-addd7e8c87f2.jpg'))">
       <SourceType>Package</SourceType>

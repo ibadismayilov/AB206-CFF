@@ -140,10 +140,14 @@ wwwroot\assets\js\counter.js
 wwwroot\assets\js\custom.js
 wwwroot\assets\js\isotope.min.js
 wwwroot\assets\js\owl-carousel.js
+wwwroot\assets\uploadedImages\ChatGPT Image 27 Nis 2025 20_52_27120a05e2-e5e4-4fe2-a416-28c1d3ca0912.png
 wwwroot\assets\uploadedImages\ChatGPT Image 27 Nis 2025 20_52_27cddb97e1-6b00-40b2-86a9-c2a493407962.png
 wwwroot\assets\uploadedImages\ChatGPT Image 27 Nis 2025 20_52_27f9334b51-63ae-44c4-8203-cf1b5ae4dea9.png
 wwwroot\assets\uploadedImages\dogecoin1fe0f216-3965-4bbd-ba73-d767d963c13f.jpg
+wwwroot\assets\uploadedImages\fullmetal-alchemist-3840x2160-1039948709d5e-71c3-4afc-ba09-5b29674ccf73.png
 wwwroot\assets\uploadedImages\fullmetal-alchemist-3840x2160-10399b1f05bd3-387d-4a33-997f-90ab6e1c1922.png
+wwwroot\assets\uploadedImages\fullmetal-alchemist-3840x2160-10399c0f4314d-4bc7-4778-907f-936fd4be093f.png
+wwwroot\assets\uploadedImages\funny-facebook-profile-pictures-5tkx38ibhd4eyv8iea982428-7979-46d2-87c7-0417e2cc7c0a.jpg
 wwwroot\assets\uploadedImages\obito-uchiha-tobi-mask-akatsuki-8k-wallpaper-uhdpaper.com-291@2@a7d873034-7804-4cda-a325-addd7e8c87f2.jpg
 wwwroot\assets\uploadedImages\sigma-cat-orange-cat744cf8c8-3338-4544-bc78-24dae7594098.png
 wwwroot\assets\uploadedImages\sigma-cat-orange-catd0538d8c-b912-4d3d-aaab-609a8988f3b9.png

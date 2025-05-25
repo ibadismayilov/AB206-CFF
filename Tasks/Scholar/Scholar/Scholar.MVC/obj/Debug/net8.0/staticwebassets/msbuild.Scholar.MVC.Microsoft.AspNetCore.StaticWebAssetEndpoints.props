@@ -1704,6 +1704,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s0urs9j7h8"},{"Name":"integrity","Value":"sha256-RN8Ln2oIxjjCzlRJicyPww6Q/SvahGUoDQzw8tIUFz4="},{"Name":"label","Value":"_content/Scholar.MVC/assets/js/owl-carousel.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"93438"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022RN8Ln2oIxjjCzlRJicyPww6Q/SvahGUoDQzw8tIUFz4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:37:31 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/ChatGPT Image 27 Nis 2025 20_52_27120a05e2-e5e4-4fe2-a416-28c1d3ca0912.2lol2z3p54.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\ChatGPT Image 27 Nis 2025 20_52_27120a05e2-e5e4-4fe2-a416-28c1d3ca0912.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2lol2z3p54"},{"Name":"integrity","Value":"sha256-to2tsz1DNkQrGDWltTXU7AaasiRiPKyJBEyug3MVF5w="},{"Name":"label","Value":"_content/Scholar.MVC/assets/uploadedImages/ChatGPT Image 27 Nis 2025 20_52_27120a05e2-e5e4-4fe2-a416-28c1d3ca0912.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1691548"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022to2tsz1DNkQrGDWltTXU7AaasiRiPKyJBEyug3MVF5w=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 21:52:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/ChatGPT Image 27 Nis 2025 20_52_27120a05e2-e5e4-4fe2-a416-28c1d3ca0912.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\ChatGPT Image 27 Nis 2025 20_52_27120a05e2-e5e4-4fe2-a416-28c1d3ca0912.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-to2tsz1DNkQrGDWltTXU7AaasiRiPKyJBEyug3MVF5w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1691548"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022to2tsz1DNkQrGDWltTXU7AaasiRiPKyJBEyug3MVF5w=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 21:52:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/ChatGPT Image 27 Nis 2025 20_52_27cddb97e1-6b00-40b2-86a9-c2a493407962.2lol2z3p54.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\ChatGPT Image 27 Nis 2025 20_52_27cddb97e1-6b00-40b2-86a9-c2a493407962.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -1740,6 +1752,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Xn82UJjMOws1lEOQCLLHajFeFnS2UCaNGRFl1VpYutc="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11254"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Xn82UJjMOws1lEOQCLLHajFeFnS2UCaNGRFl1VpYutc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 20 May 2025 14:41:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/fullmetal-alchemist-3840x2160-1039948709d5e-71c3-4afc-ba09-5b29674ccf73.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\fullmetal-alchemist-3840x2160-1039948709d5e-71c3-4afc-ba09-5b29674ccf73.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-j6fUcHl58w/fSaTn2Hdukpu/ZBwMjFpfCJLjXia4p/A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1830369"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022j6fUcHl58w/fSaTn2Hdukpu/ZBwMjFpfCJLjXia4p/A=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 21:52:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/fullmetal-alchemist-3840x2160-1039948709d5e-71c3-4afc-ba09-5b29674ccf73.x8bah4s4jh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\fullmetal-alchemist-3840x2160-1039948709d5e-71c3-4afc-ba09-5b29674ccf73.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x8bah4s4jh"},{"Name":"integrity","Value":"sha256-j6fUcHl58w/fSaTn2Hdukpu/ZBwMjFpfCJLjXia4p/A="},{"Name":"label","Value":"_content/Scholar.MVC/assets/uploadedImages/fullmetal-alchemist-3840x2160-1039948709d5e-71c3-4afc-ba09-5b29674ccf73.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1830369"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022j6fUcHl58w/fSaTn2Hdukpu/ZBwMjFpfCJLjXia4p/A=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 21:52:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/fullmetal-alchemist-3840x2160-10399b1f05bd3-387d-4a33-997f-90ab6e1c1922.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\fullmetal-alchemist-3840x2160-10399b1f05bd3-387d-4a33-997f-90ab6e1c1922.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -1751,6 +1775,30 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x8bah4s4jh"},{"Name":"integrity","Value":"sha256-j6fUcHl58w/fSaTn2Hdukpu/ZBwMjFpfCJLjXia4p/A="},{"Name":"label","Value":"_content/Scholar.MVC/assets/uploadedImages/fullmetal-alchemist-3840x2160-10399b1f05bd3-387d-4a33-997f-90ab6e1c1922.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1830369"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022j6fUcHl58w/fSaTn2Hdukpu/ZBwMjFpfCJLjXia4p/A=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 07:42:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/fullmetal-alchemist-3840x2160-10399c0f4314d-4bc7-4778-907f-936fd4be093f.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\fullmetal-alchemist-3840x2160-10399c0f4314d-4bc7-4778-907f-936fd4be093f.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-j6fUcHl58w/fSaTn2Hdukpu/ZBwMjFpfCJLjXia4p/A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1830369"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022j6fUcHl58w/fSaTn2Hdukpu/ZBwMjFpfCJLjXia4p/A=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 08:01:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/fullmetal-alchemist-3840x2160-10399c0f4314d-4bc7-4778-907f-936fd4be093f.x8bah4s4jh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\fullmetal-alchemist-3840x2160-10399c0f4314d-4bc7-4778-907f-936fd4be093f.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x8bah4s4jh"},{"Name":"integrity","Value":"sha256-j6fUcHl58w/fSaTn2Hdukpu/ZBwMjFpfCJLjXia4p/A="},{"Name":"label","Value":"_content/Scholar.MVC/assets/uploadedImages/fullmetal-alchemist-3840x2160-10399c0f4314d-4bc7-4778-907f-936fd4be093f.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1830369"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022j6fUcHl58w/fSaTn2Hdukpu/ZBwMjFpfCJLjXia4p/A=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 08:01:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/funny-facebook-profile-pictures-5tkx38ibhd4eyv8iea982428-7979-46d2-87c7-0417e2cc7c0a.ax5opcrlgw.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\funny-facebook-profile-pictures-5tkx38ibhd4eyv8iea982428-7979-46d2-87c7-0417e2cc7c0a.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ax5opcrlgw"},{"Name":"integrity","Value":"sha256-/oxDEaQ4tHlY3W8u5UeeX1H0IB3mZLhCVenbmP/wATc="},{"Name":"label","Value":"_content/Scholar.MVC/assets/uploadedImages/funny-facebook-profile-pictures-5tkx38ibhd4eyv8iea982428-7979-46d2-87c7-0417e2cc7c0a.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"92178"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/oxDEaQ4tHlY3W8u5UeeX1H0IB3mZLhCVenbmP/wATc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 07:59:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/funny-facebook-profile-pictures-5tkx38ibhd4eyv8iea982428-7979-46d2-87c7-0417e2cc7c0a.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\funny-facebook-profile-pictures-5tkx38ibhd4eyv8iea982428-7979-46d2-87c7-0417e2cc7c0a.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/oxDEaQ4tHlY3W8u5UeeX1H0IB3mZLhCVenbmP/wATc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"92178"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/oxDEaQ4tHlY3W8u5UeeX1H0IB3mZLhCVenbmP/wATc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 07:59:56 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Scholar.MVC/assets/uploadedImages/obito-uchiha-tobi-mask-akatsuki-8k-wallpaper-uhdpaper.com-291@2@a7d873034-7804-4cda-a325-addd7e8c87f2.9ce1qoxefk.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadedImages\obito-uchiha-tobi-mask-akatsuki-8k-wallpaper-uhdpaper.com-291@2@a7d873034-7804-4cda-a325-addd7e8c87f2.jpg'))</AssetFile>
