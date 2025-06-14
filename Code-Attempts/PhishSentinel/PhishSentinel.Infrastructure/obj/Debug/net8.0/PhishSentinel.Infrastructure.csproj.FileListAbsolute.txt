@@ -1,0 +1,17 @@
+D:\PhishSentinel\PhishSentinel.Infrastructure\bin\Debug\net8.0\PhishSentinel.Infrastructure.deps.json
+D:\PhishSentinel\PhishSentinel.Infrastructure\bin\Debug\net8.0\PhishSentinel.Infrastructure.dll
+D:\PhishSentinel\PhishSentinel.Infrastructure\bin\Debug\net8.0\PhishSentinel.Infrastructure.pdb
+D:\PhishSentinel\PhishSentinel.Infrastructure\obj\Debug\net8.0\PhishSentinel.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhishSentinel\PhishSentinel.Infrastructure\obj\Debug\net8.0\PhishSentinel.Infrastructure.AssemblyInfoInputs.cache
+D:\PhishSentinel\PhishSentinel.Infrastructure\obj\Debug\net8.0\PhishSentinel.Infrastructure.AssemblyInfo.cs
+D:\PhishSentinel\PhishSentinel.Infrastructure\obj\Debug\net8.0\PhishSentinel.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PhishSentinel\PhishSentinel.Infrastructure\obj\Debug\net8.0\PhishSentinel.Infrastructure.dll
+D:\PhishSentinel\PhishSentinel.Infrastructure\obj\Debug\net8.0\refint\PhishSentinel.Infrastructure.dll
+D:\PhishSentinel\PhishSentinel.Infrastructure\obj\Debug\net8.0\PhishSentinel.Infrastructure.pdb
+D:\PhishSentinel\PhishSentinel.Infrastructure\obj\Debug\net8.0\ref\PhishSentinel.Infrastructure.dll
+D:\PhishSentinel\PhishSentinel.Infrastructure\bin\Debug\net8.0\PhishSentinel.Application.dll
+D:\PhishSentinel\PhishSentinel.Infrastructure\bin\Debug\net8.0\PhishSentinel.Domain.dll
+D:\PhishSentinel\PhishSentinel.Infrastructure\bin\Debug\net8.0\PhishSentinel.Application.pdb
+D:\PhishSentinel\PhishSentinel.Infrastructure\bin\Debug\net8.0\PhishSentinel.Domain.pdb
+D:\PhishSentinel\PhishSentinel.Infrastructure\obj\Debug\net8.0\PhishSentinel.Infrastructure.csproj.AssemblyReference.cache
+D:\PhishSentinel\PhishSentinel.Infrastructure\obj\Debug\net8.0\PhishSen.F98C2427.Up2Date

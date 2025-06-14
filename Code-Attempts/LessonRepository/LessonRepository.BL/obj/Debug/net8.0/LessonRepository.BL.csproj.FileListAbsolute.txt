@@ -1,0 +1,16 @@
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.BL\bin\Debug\net8.0\LessonRepository.BL.deps.json
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.BL\bin\Debug\net8.0\LessonRepository.BL.dll
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.BL\bin\Debug\net8.0\LessonRepository.BL.pdb
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.BL\bin\Debug\net8.0\LessonRepository.DAL.dll
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.BL\bin\Debug\net8.0\LessonRepository.DAL.pdb
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.BL\obj\Debug\net8.0\LessonRepository.BL.csproj.AssemblyReference.cache
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.BL\obj\Debug\net8.0\LessonRepository.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.BL\obj\Debug\net8.0\LessonRepository.BL.AssemblyInfoInputs.cache
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.BL\obj\Debug\net8.0\LessonRepository.BL.AssemblyInfo.cs
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.BL\obj\Debug\net8.0\LessonRepository.BL.csproj.CoreCompileInputs.cache
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.BL\obj\Debug\net8.0\LessonRepository.BL.sourcelink.json
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.BL\obj\Debug\net8.0\LessonRe.F69582C9.Up2Date
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.BL\obj\Debug\net8.0\LessonRepository.BL.dll
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.BL\obj\Debug\net8.0\refint\LessonRepository.BL.dll
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.BL\obj\Debug\net8.0\LessonRepository.BL.pdb
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.BL\obj\Debug\net8.0\ref\LessonRepository.BL.dll

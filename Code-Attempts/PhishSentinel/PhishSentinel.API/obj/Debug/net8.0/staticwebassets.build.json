@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NI4t4/lqt+SWoYs6D2mRHEF2lpuZ8aPNg5oLqIJ2HoY=",
+  "Source": "PhishSentinel.API",
+  "BasePath": "_content/PhishSentinel.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+D:\LessonOnionArc\LessonOnionArc.Domain\bin\Debug\net8.0\LessonOnionArc.Domain.deps.json
+D:\LessonOnionArc\LessonOnionArc.Domain\bin\Debug\net8.0\LessonOnionArc.Domain.dll
+D:\LessonOnionArc\LessonOnionArc.Domain\bin\Debug\net8.0\LessonOnionArc.Domain.pdb
+D:\LessonOnionArc\LessonOnionArc.Domain\obj\Debug\net8.0\LessonOnionArc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\LessonOnionArc\LessonOnionArc.Domain\obj\Debug\net8.0\LessonOnionArc.Domain.AssemblyInfoInputs.cache
+D:\LessonOnionArc\LessonOnionArc.Domain\obj\Debug\net8.0\LessonOnionArc.Domain.AssemblyInfo.cs
+D:\LessonOnionArc\LessonOnionArc.Domain\obj\Debug\net8.0\LessonOnionArc.Domain.csproj.CoreCompileInputs.cache
+D:\LessonOnionArc\LessonOnionArc.Domain\obj\Debug\net8.0\LessonOnionArc.Domain.dll
+D:\LessonOnionArc\LessonOnionArc.Domain\obj\Debug\net8.0\refint\LessonOnionArc.Domain.dll
+D:\LessonOnionArc\LessonOnionArc.Domain\obj\Debug\net8.0\LessonOnionArc.Domain.pdb
+D:\LessonOnionArc\LessonOnionArc.Domain\obj\Debug\net8.0\ref\LessonOnionArc.Domain.dll
+D:\LessonOnionArc\LessonOnionArc.Domain\obj\Debug\net8.0\LessonOnionArc.Domain.csproj.AssemblyReference.cache

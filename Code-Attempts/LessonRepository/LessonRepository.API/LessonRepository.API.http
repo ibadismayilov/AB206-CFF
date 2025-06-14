@@ -1,0 +1,6 @@
+@LessonRepository.API_HostAddress = http://localhost:5269
+
+GET {{LessonRepository.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

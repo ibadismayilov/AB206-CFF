@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PhishSentinel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21C01F57-D84B-499D-94B0-25611AEA12DE}|PhishSentinel.Persistence\\PhishSentinel.Persistence.csproj|d:\\phishsentinel\\phishsentinel.persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C01F57-D84B-499D-94B0-25611AEA12DE}|PhishSentinel.Persistence\\PhishSentinel.Persistence.csproj|solutionrelative:phishsentinel.persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C01F57-D84B-499D-94B0-25611AEA12DE}|PhishSentinel.Persistence\\PhishSentinel.Persistence.csproj|d:\\phishsentinel\\phishsentinel.persistence\\contexts\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C01F57-D84B-499D-94B0-25611AEA12DE}|PhishSentinel.Persistence\\PhishSentinel.Persistence.csproj|solutionrelative:phishsentinel.persistence\\contexts\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D0B292-A202-4503-B722-13E128258A1F}|PhishSentinel.API\\PhishSentinel.API.csproj|d:\\phishsentinel\\phishsentinel.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D0B292-A202-4503-B722-13E128258A1F}|PhishSentinel.API\\PhishSentinel.API.csproj|solutionrelative:phishsentinel.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C01F57-D84B-499D-94B0-25611AEA12DE}|PhishSentinel.Persistence\\PhishSentinel.Persistence.csproj|d:\\phishsentinel\\phishsentinel.persistence\\contexts\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C01F57-D84B-499D-94B0-25611AEA12DE}|PhishSentinel.Persistence\\PhishSentinel.Persistence.csproj|solutionrelative:phishsentinel.persistence\\contexts\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D0B292-A202-4503-B722-13E128258A1F}|PhishSentinel.API\\PhishSentinel.API.csproj|d:\\phishsentinel\\phishsentinel.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2D0B292-A202-4503-B722-13E128258A1F}|PhishSentinel.API\\PhishSentinel.API.csproj|solutionrelative:phishsentinel.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E0B6BA-5D37-4C76-99F6-1FE182DDC4D1}|PhishSentinel.Application\\PhishSentinel.Application.csproj|d:\\phishsentinel\\phishsentinel.application\\abstraction\\repositories\\iidentityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E0B6BA-5D37-4C76-99F6-1FE182DDC4D1}|PhishSentinel.Application\\PhishSentinel.Application.csproj|solutionrelative:phishsentinel.application\\abstraction\\repositories\\iidentityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D0B292-A202-4503-B722-13E128258A1F}|PhishSentinel.API\\PhishSentinel.API.csproj|d:\\phishsentinel\\phishsentinel.api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D0B292-A202-4503-B722-13E128258A1F}|PhishSentinel.API\\PhishSentinel.API.csproj|solutionrelative:phishsentinel.api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E0B6BA-5D37-4C76-99F6-1FE182DDC4D1}|PhishSentinel.Application\\PhishSentinel.Application.csproj|d:\\phishsentinel\\phishsentinel.application\\profiles\\phissentinelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E0B6BA-5D37-4C76-99F6-1FE182DDC4D1}|PhishSentinel.Application\\PhishSentinel.Application.csproj|solutionrelative:phishsentinel.application\\profiles\\phissentinelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E0B6BA-5D37-4C76-99F6-1FE182DDC4D1}|PhishSentinel.Application\\PhishSentinel.Application.csproj|d:\\phishsentinel\\phishsentinel.application\\dtos\\auth\\registergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E0B6BA-5D37-4C76-99F6-1FE182DDC4D1}|PhishSentinel.Application\\PhishSentinel.Application.csproj|solutionrelative:phishsentinel.application\\dtos\\auth\\registergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E0B6BA-5D37-4C76-99F6-1FE182DDC4D1}|PhishSentinel.Application\\PhishSentinel.Application.csproj|d:\\phishsentinel\\phishsentinel.application\\dtos\\auth\\logingetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E0B6BA-5D37-4C76-99F6-1FE182DDC4D1}|PhishSentinel.Application\\PhishSentinel.Application.csproj|solutionrelative:phishsentinel.application\\dtos\\auth\\logingetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E737BC0-2FDF-4F40-BCC3-7D65EAFF665C}|PhishSentinel.Domain\\PhishSentinel.Domain.csproj|d:\\phishsentinel\\phishsentinel.domain\\entities\\auth\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E737BC0-2FDF-4F40-BCC3-7D65EAFF665C}|PhishSentinel.Domain\\PhishSentinel.Domain.csproj|solutionrelative:phishsentinel.domain\\entities\\auth\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E737BC0-2FDF-4F40-BCC3-7D65EAFF665C}|PhishSentinel.Domain\\PhishSentinel.Domain.csproj|d:\\phishsentinel\\phishsentinel.domain\\entities\\auth\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E737BC0-2FDF-4F40-BCC3-7D65EAFF665C}|PhishSentinel.Domain\\PhishSentinel.Domain.csproj|solutionrelative:phishsentinel.domain\\entities\\auth\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E737BC0-2FDF-4F40-BCC3-7D65EAFF665C}|PhishSentinel.Domain\\PhishSentinel.Domain.csproj|d:\\phishsentinel\\phishsentinel.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E737BC0-2FDF-4F40-BCC3-7D65EAFF665C}|PhishSentinel.Domain\\PhishSentinel.Domain.csproj|solutionrelative:phishsentinel.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E737BC0-2FDF-4F40-BCC3-7D65EAFF665C}|PhishSentinel.Domain\\PhishSentinel.Domain.csproj|d:\\phishsentinel\\phishsentinel.domain\\entities\\auth\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E737BC0-2FDF-4F40-BCC3-7D65EAFF665C}|PhishSentinel.Domain\\PhishSentinel.Domain.csproj|solutionrelative:phishsentinel.domain\\entities\\auth\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E737BC0-2FDF-4F40-BCC3-7D65EAFF665C}|PhishSentinel.Domain\\PhishSentinel.Domain.csproj|d:\\phishsentinel\\phishsentinel.domain\\entities\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E737BC0-2FDF-4F40-BCC3-7D65EAFF665C}|PhishSentinel.Domain\\PhishSentinel.Domain.csproj|solutionrelative:phishsentinel.domain\\entities\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D0B292-A202-4503-B722-13E128258A1F}|PhishSentinel.API\\PhishSentinel.API.csproj|d:\\phishsentinel\\phishsentinel.api\\phishsentinel.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C2D0B292-A202-4503-B722-13E128258A1F}|PhishSentinel.API\\PhishSentinel.API.csproj|solutionrelative:phishsentinel.api\\phishsentinel.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C01F57-D84B-499D-94B0-25611AEA12DE}|PhishSentinel.Persistence\\PhishSentinel.Persistence.csproj|d:\\phishsentinel\\phishsentinel.persistence\\phishsentinel.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21C01F57-D84B-499D-94B0-25611AEA12DE}|PhishSentinel.Persistence\\PhishSentinel.Persistence.csproj|solutionrelative:phishsentinel.persistence\\phishsentinel.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E737BC0-2FDF-4F40-BCC3-7D65EAFF665C}|PhishSentinel.Domain\\PhishSentinel.Domain.csproj|d:\\phishsentinel\\phishsentinel.domain\\exceptions\\authexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E737BC0-2FDF-4F40-BCC3-7D65EAFF665C}|PhishSentinel.Domain\\PhishSentinel.Domain.csproj|solutionrelative:phishsentinel.domain\\exceptions\\authexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.API\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "PhishSentinel.API\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.API\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "PhishSentinel.API\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:00:36.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IIdentityRepository.cs",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.Application\\Abstraction\\Repositories\\IIdentityRepository.cs",
+              "RelativeDocumentMoniker": "PhishSentinel.Application\\Abstraction\\Repositories\\IIdentityRepository.cs",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.Application\\Abstraction\\Repositories\\IIdentityRepository.cs",
+              "RelativeToolTip": "PhishSentinel.Application\\Abstraction\\Repositories\\IIdentityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:46:52.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.Persistence\\Contexts\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "PhishSentinel.Persistence\\Contexts\\Identity\\AppUser.cs",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.Persistence\\Contexts\\Identity\\AppUser.cs",
+              "RelativeToolTip": "PhishSentinel.Persistence\\Contexts\\Identity\\AppUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T06:56:28.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.Persistence\\Contexts\\Identity\\AppRole.cs",
+              "RelativeDocumentMoniker": "PhishSentinel.Persistence\\Contexts\\Identity\\AppRole.cs",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.Persistence\\Contexts\\Identity\\AppRole.cs",
+              "RelativeToolTip": "PhishSentinel.Persistence\\Contexts\\Identity\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T06:55:57.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.Domain\\Entities\\Auth\\Register.cs",
+              "RelativeDocumentMoniker": "PhishSentinel.Domain\\Entities\\Auth\\Register.cs",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.Domain\\Entities\\Auth\\Register.cs",
+              "RelativeToolTip": "PhishSentinel.Domain\\Entities\\Auth\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T06:42:48.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.Domain\\Entities\\Auth\\Login.cs",
+              "RelativeDocumentMoniker": "PhishSentinel.Domain\\Entities\\Auth\\Login.cs",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.Domain\\Entities\\Auth\\Login.cs",
+              "RelativeToolTip": "PhishSentinel.Domain\\Entities\\Auth\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T06:42:26.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhisSentinelProfile.cs",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.Application\\Profiles\\PhisSentinelProfile.cs",
+              "RelativeDocumentMoniker": "PhishSentinel.Application\\Profiles\\PhisSentinelProfile.cs",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.Application\\Profiles\\PhisSentinelProfile.cs",
+              "RelativeToolTip": "PhishSentinel.Application\\Profiles\\PhisSentinelProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T06:31:07.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.API\\Program.cs",
+              "RelativeDocumentMoniker": "PhishSentinel.API\\Program.cs",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.API\\Program.cs",
+              "RelativeToolTip": "PhishSentinel.API\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:55:12.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PhishSentinel.API\\appsettings.json",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.API\\appsettings.json",
+              "RelativeToolTip": "PhishSentinel.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T01:50:48.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PhishSentinel.API.http",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.API\\PhishSentinel.API.http",
+              "RelativeDocumentMoniker": "PhishSentinel.API\\PhishSentinel.API.http",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.API\\PhishSentinel.API.http",
+              "RelativeToolTip": "PhishSentinel.API\\PhishSentinel.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-10T01:50:46.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.Domain\\Entities\\Auth\\AppRole.cs",
+              "RelativeDocumentMoniker": "PhishSentinel.Domain\\Entities\\Auth\\AppRole.cs",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.Domain\\Entities\\Auth\\AppRole.cs",
+              "RelativeToolTip": "PhishSentinel.Domain\\Entities\\Auth\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:34:08.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.Persistence\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PhishSentinel.Persistence\\Contexts\\AppDbContext.cs",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.Persistence\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "PhishSentinel.Persistence\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:24:14.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PhishSentinel.Persistence.csproj",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.Persistence\\PhishSentinel.Persistence.csproj",
+              "RelativeDocumentMoniker": "PhishSentinel.Persistence\\PhishSentinel.Persistence.csproj",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.Persistence\\PhishSentinel.Persistence.csproj",
+              "RelativeToolTip": "PhishSentinel.Persistence\\PhishSentinel.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T01:23:35.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterGetDTO.cs",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.Application\\DTOs\\Auth\\RegisterGetDTO.cs",
+              "RelativeDocumentMoniker": "PhishSentinel.Application\\DTOs\\Auth\\RegisterGetDTO.cs",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.Application\\DTOs\\Auth\\RegisterGetDTO.cs",
+              "RelativeToolTip": "PhishSentinel.Application\\DTOs\\Auth\\RegisterGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:23:40.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginGetDTO.cs",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.Application\\DTOs\\Auth\\LoginGetDTO.cs",
+              "RelativeDocumentMoniker": "PhishSentinel.Application\\DTOs\\Auth\\LoginGetDTO.cs",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.Application\\DTOs\\Auth\\LoginGetDTO.cs",
+              "RelativeToolTip": "PhishSentinel.Application\\DTOs\\Auth\\LoginGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:22:43.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthException.cs",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.Domain\\Exceptions\\AuthException.cs",
+              "RelativeDocumentMoniker": "PhishSentinel.Domain\\Exceptions\\AuthException.cs",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.Domain\\Exceptions\\AuthException.cs",
+              "RelativeToolTip": "PhishSentinel.Domain\\Exceptions\\AuthException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:16:12.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.Domain\\Entities\\Auth\\AppUser.cs",
+              "RelativeDocumentMoniker": "PhishSentinel.Domain\\Entities\\Auth\\AppUser.cs",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.Domain\\Entities\\Auth\\AppUser.cs",
+              "RelativeToolTip": "PhishSentinel.Domain\\Entities\\Auth\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:11:45.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\PhishSentinel\\PhishSentinel.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "PhishSentinel.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "D:\\PhishSentinel\\PhishSentinel.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "PhishSentinel.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:09:58.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

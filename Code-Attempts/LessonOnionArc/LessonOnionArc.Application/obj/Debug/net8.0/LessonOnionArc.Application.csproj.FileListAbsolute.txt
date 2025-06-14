@@ -1,0 +1,15 @@
+D:\LessonOnionArc\LessonOnionArc.Application\bin\Debug\net8.0\LessonOnionArc.Application.deps.json
+D:\LessonOnionArc\LessonOnionArc.Application\bin\Debug\net8.0\LessonOnionArc.Application.dll
+D:\LessonOnionArc\LessonOnionArc.Application\bin\Debug\net8.0\LessonOnionArc.Application.pdb
+D:\LessonOnionArc\LessonOnionArc.Application\bin\Debug\net8.0\LessonOnionArc.Domain.dll
+D:\LessonOnionArc\LessonOnionArc.Application\bin\Debug\net8.0\LessonOnionArc.Domain.pdb
+D:\LessonOnionArc\LessonOnionArc.Application\obj\Debug\net8.0\LessonOnionArc.Application.csproj.AssemblyReference.cache
+D:\LessonOnionArc\LessonOnionArc.Application\obj\Debug\net8.0\LessonOnionArc.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\LessonOnionArc\LessonOnionArc.Application\obj\Debug\net8.0\LessonOnionArc.Application.AssemblyInfoInputs.cache
+D:\LessonOnionArc\LessonOnionArc.Application\obj\Debug\net8.0\LessonOnionArc.Application.AssemblyInfo.cs
+D:\LessonOnionArc\LessonOnionArc.Application\obj\Debug\net8.0\LessonOnionArc.Application.csproj.CoreCompileInputs.cache
+D:\LessonOnionArc\LessonOnionArc.Application\obj\Debug\net8.0\LessonOn.FBC05104.Up2Date
+D:\LessonOnionArc\LessonOnionArc.Application\obj\Debug\net8.0\LessonOnionArc.Application.dll
+D:\LessonOnionArc\LessonOnionArc.Application\obj\Debug\net8.0\refint\LessonOnionArc.Application.dll
+D:\LessonOnionArc\LessonOnionArc.Application\obj\Debug\net8.0\LessonOnionArc.Application.pdb
+D:\LessonOnionArc\LessonOnionArc.Application\obj\Debug\net8.0\ref\LessonOnionArc.Application.dll

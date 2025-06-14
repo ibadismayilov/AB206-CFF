@@ -1,0 +1,11 @@
+D:\PhishSentinel\PhishSentinel.Domain\bin\Debug\net8.0\PhishSentinel.Domain.deps.json
+D:\PhishSentinel\PhishSentinel.Domain\bin\Debug\net8.0\PhishSentinel.Domain.dll
+D:\PhishSentinel\PhishSentinel.Domain\bin\Debug\net8.0\PhishSentinel.Domain.pdb
+D:\PhishSentinel\PhishSentinel.Domain\obj\Debug\net8.0\PhishSentinel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhishSentinel\PhishSentinel.Domain\obj\Debug\net8.0\PhishSentinel.Domain.AssemblyInfoInputs.cache
+D:\PhishSentinel\PhishSentinel.Domain\obj\Debug\net8.0\PhishSentinel.Domain.AssemblyInfo.cs
+D:\PhishSentinel\PhishSentinel.Domain\obj\Debug\net8.0\PhishSentinel.Domain.csproj.CoreCompileInputs.cache
+D:\PhishSentinel\PhishSentinel.Domain\obj\Debug\net8.0\PhishSentinel.Domain.dll
+D:\PhishSentinel\PhishSentinel.Domain\obj\Debug\net8.0\refint\PhishSentinel.Domain.dll
+D:\PhishSentinel\PhishSentinel.Domain\obj\Debug\net8.0\PhishSentinel.Domain.pdb
+D:\PhishSentinel\PhishSentinel.Domain\obj\Debug\net8.0\ref\PhishSentinel.Domain.dll

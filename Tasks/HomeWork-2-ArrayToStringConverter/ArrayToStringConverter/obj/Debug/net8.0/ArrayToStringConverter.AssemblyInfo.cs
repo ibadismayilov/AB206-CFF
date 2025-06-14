@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayToStringConverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa2feccf31491f10810f85ced49347081c1f5aaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7be4afaf7c768fc6bb535e9519af99e3e3369e2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayToStringConverter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayToStringConverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

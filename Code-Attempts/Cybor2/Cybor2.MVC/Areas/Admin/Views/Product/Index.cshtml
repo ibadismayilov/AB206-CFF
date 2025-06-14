@@ -1,0 +1,42 @@
+﻿
+@model List<ProductModel>
+
+<!-- Recent Sales Start -->
+<div class="container-fluid pt-4 px-4">
+    <div class="bg-secondary text-center rounded p-4">
+        <div class="d-flex align-items-center justify-content-between mb-4">
+            <h6 class="mb-0">Recent Salse</h6>
+            <a asp-area="Admin" asp-controller="Product" asp-action="Create" class="btn btn-warning">+ Create Product</a>
+        </div>
+        <div class="table-responsive">
+            <table class="table text-start align-middle table-bordered table-hover mb-0">
+                <thead>
+                    <tr class="text-white">
+                        <th scope="col">Image</th>
+                        <th scope="col">Title</th>
+                        <th scope="col">Desc</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (ProductModel item in Model)
+                    {
+                        <tr>
+                            <td><img width="80" src="~/assets/uploadedImage/@item.ImgPath" alt="Alternate Text" /></td>
+                            <td>@item.Title</td>
+                            <td>@item.Desc</td>
+
+                            <td><a asp-area="Admin" asp-controller="Product" asp-action="Info" asp-route-id="@item.Id" class="btn btn-sm btn-info">Info</a></td>
+                            <td><a asp-area="Admin" asp-controller="Product" asp-action="Update" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Update</a></td>
+                            <td>
+                                <form asp-area="Admin" asp-controller="Product" asp-action="Delete" asp-route-id="@item.Id"  method="post">
+                                    <button class="btn btn-sm btn-danger">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<!-- Recent Sales End -->

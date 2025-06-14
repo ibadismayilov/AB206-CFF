@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AB206-CFF\\Tasks\\HomeWork-2-ArrayToStringConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCE9812-8A60-484A-AE20-FF21954A8AA1}|ArrayToStringConverter\\ArrayToStringConverter.csproj|d:\\ab206-cff\\tasks\\homework-2-arraytostringconverter\\arraytostringconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCE9812-8A60-484A-AE20-FF21954A8AA1}|ArrayToStringConverter\\ArrayToStringConverter.csproj|solutionrelative:arraytostringconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Tasks\\HomeWork-2-ArrayToStringConverter\\ArrayToStringConverter\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayToStringConverter\\Program.cs",
+              "ToolTip": "D:\\AB206-CFF\\Tasks\\HomeWork-2-ArrayToStringConverter\\ArrayToStringConverter\\Program.cs",
+              "RelativeToolTip": "ArrayToStringConverter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:43:33.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

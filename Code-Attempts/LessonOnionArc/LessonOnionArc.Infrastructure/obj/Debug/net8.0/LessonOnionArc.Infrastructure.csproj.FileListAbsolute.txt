@@ -1,0 +1,11 @@
+D:\LessonOnionArc\LessonOnionArc.Infrastructure\bin\Debug\net8.0\LessonOnionArc.Infrastructure.deps.json
+D:\LessonOnionArc\LessonOnionArc.Infrastructure\bin\Debug\net8.0\LessonOnionArc.Infrastructure.dll
+D:\LessonOnionArc\LessonOnionArc.Infrastructure\bin\Debug\net8.0\LessonOnionArc.Infrastructure.pdb
+D:\LessonOnionArc\LessonOnionArc.Infrastructure\obj\Debug\net8.0\LessonOnionArc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\LessonOnionArc\LessonOnionArc.Infrastructure\obj\Debug\net8.0\LessonOnionArc.Infrastructure.AssemblyInfoInputs.cache
+D:\LessonOnionArc\LessonOnionArc.Infrastructure\obj\Debug\net8.0\LessonOnionArc.Infrastructure.AssemblyInfo.cs
+D:\LessonOnionArc\LessonOnionArc.Infrastructure\obj\Debug\net8.0\LessonOnionArc.Infrastructure.csproj.CoreCompileInputs.cache
+D:\LessonOnionArc\LessonOnionArc.Infrastructure\obj\Debug\net8.0\LessonOnionArc.Infrastructure.dll
+D:\LessonOnionArc\LessonOnionArc.Infrastructure\obj\Debug\net8.0\refint\LessonOnionArc.Infrastructure.dll
+D:\LessonOnionArc\LessonOnionArc.Infrastructure\obj\Debug\net8.0\LessonOnionArc.Infrastructure.pdb
+D:\LessonOnionArc\LessonOnionArc.Infrastructure\obj\Debug\net8.0\ref\LessonOnionArc.Infrastructure.dll

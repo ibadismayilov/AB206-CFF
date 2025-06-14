@@ -1,0 +1,16 @@
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.BL\obj\Debug\net8.0\Cyborg.BL.csproj.AssemblyReference.cache
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.BL\obj\Debug\net8.0\Cyborg.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.BL\obj\Debug\net8.0\Cyborg.BL.AssemblyInfoInputs.cache
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.BL\obj\Debug\net8.0\Cyborg.BL.AssemblyInfo.cs
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.BL\obj\Debug\net8.0\Cyborg.BL.csproj.CoreCompileInputs.cache
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.BL\obj\Debug\net8.0\Cyborg.BL.sourcelink.json
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.BL\bin\Debug\net8.0\Cyborg.BL.deps.json
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.BL\bin\Debug\net8.0\Cyborg.BL.dll
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.BL\bin\Debug\net8.0\Cyborg.BL.pdb
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.BL\bin\Debug\net8.0\Cyborg.DAL.dll
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.BL\bin\Debug\net8.0\Cyborg.DAL.pdb
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.BL\obj\Debug\net8.0\Cyborg.BL.csproj.Up2Date
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.BL\obj\Debug\net8.0\Cyborg.BL.dll
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.BL\obj\Debug\net8.0\refint\Cyborg.BL.dll
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.BL\obj\Debug\net8.0\Cyborg.BL.pdb
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.BL\obj\Debug\net8.0\ref\Cyborg.BL.dll

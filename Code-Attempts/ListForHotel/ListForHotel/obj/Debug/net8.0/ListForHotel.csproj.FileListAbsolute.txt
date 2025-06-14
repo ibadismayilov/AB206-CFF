@@ -1,0 +1,5 @@
+D:\AB206-CFF\Code-Attempts\ListForHotel\ListForHotel\obj\Debug\net8.0\ListForHotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\AB206-CFF\Code-Attempts\ListForHotel\ListForHotel\obj\Debug\net8.0\ListForHotel.AssemblyInfoInputs.cache
+D:\AB206-CFF\Code-Attempts\ListForHotel\ListForHotel\obj\Debug\net8.0\ListForHotel.AssemblyInfo.cs
+D:\AB206-CFF\Code-Attempts\ListForHotel\ListForHotel\obj\Debug\net8.0\ListForHotel.csproj.CoreCompileInputs.cache
+D:\AB206-CFF\Code-Attempts\ListForHotel\ListForHotel\obj\Debug\net8.0\ListForHotel.sourcelink.json

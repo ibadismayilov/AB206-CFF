@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA88859C-CB73-46F4-9BD1-A55AC3522616}|Cybor2.BL\\Cybor2.BL.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.bl\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA88859C-CB73-46F4-9BD1-A55AC3522616}|Cybor2.BL\\Cybor2.BL.csproj|solutionrelative:cybor2.bl\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.mvc\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|solutionrelative:cybor2.mvc\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|solutionrelative:cybor2.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|solutionrelative:cybor2.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|solutionrelative:cybor2.mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|solutionrelative:cybor2.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA88859C-CB73-46F4-9BD1-A55AC3522616}|Cybor2.BL\\Cybor2.BL.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.bl\\viewmodels\\authcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA88859C-CB73-46F4-9BD1-A55AC3522616}|Cybor2.BL\\Cybor2.BL.csproj|solutionrelative:cybor2.bl\\viewmodels\\authcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.mvc\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|solutionrelative:cybor2.mvc\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.mvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|solutionrelative:cybor2.mvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|solutionrelative:cybor2.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA88859C-CB73-46F4-9BD1-A55AC3522616}|Cybor2.BL\\Cybor2.BL.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.bl\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA88859C-CB73-46F4-9BD1-A55AC3522616}|Cybor2.BL\\Cybor2.BL.csproj|solutionrelative:cybor2.bl\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.mvc\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|solutionrelative:cybor2.mvc\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA88859C-CB73-46F4-9BD1-A55AC3522616}|Cybor2.BL\\Cybor2.BL.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.bl\\viewmodels\\updatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA88859C-CB73-46F4-9BD1-A55AC3522616}|Cybor2.BL\\Cybor2.BL.csproj|solutionrelative:cybor2.bl\\viewmodels\\updatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA88859C-CB73-46F4-9BD1-A55AC3522616}|Cybor2.BL\\Cybor2.BL.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.bl\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA88859C-CB73-46F4-9BD1-A55AC3522616}|Cybor2.BL\\Cybor2.BL.csproj|solutionrelative:cybor2.bl\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.mvc\\areas\\admin\\views\\product\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|solutionrelative:cybor2.mvc\\areas\\admin\\views\\product\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.mvc\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|solutionrelative:cybor2.mvc\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|solutionrelative:cybor2.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|solutionrelative:cybor2.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|solutionrelative:cybor2.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|solutionrelative:cybor2.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|solutionrelative:cybor2.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166C8011-4B3F-4158-8740-FA4D184B310F}|Cybor2.DAL\\Cybor2.DAL.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.dal\\migrations\\20250522212214_createproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166C8011-4B3F-4158-8740-FA4D184B310F}|Cybor2.DAL\\Cybor2.DAL.csproj|solutionrelative:cybor2.dal\\migrations\\20250522212214_createproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166C8011-4B3F-4158-8740-FA4D184B310F}|Cybor2.DAL\\Cybor2.DAL.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.dal\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166C8011-4B3F-4158-8740-FA4D184B310F}|Cybor2.DAL\\Cybor2.DAL.csproj|solutionrelative:cybor2.dal\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166C8011-4B3F-4158-8740-FA4D184B310F}|Cybor2.DAL\\Cybor2.DAL.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166C8011-4B3F-4158-8740-FA4D184B310F}|Cybor2.DAL\\Cybor2.DAL.csproj|solutionrelative:cybor2.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166C8011-4B3F-4158-8740-FA4D184B310F}|Cybor2.DAL\\Cybor2.DAL.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.dal\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166C8011-4B3F-4158-8740-FA4D184B310F}|Cybor2.DAL\\Cybor2.DAL.csproj|solutionrelative:cybor2.dal\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EEF0EE8-F5C5-43FB-A844-3A91326A32A1}|Cybor2.MVC\\Cybor2.MVC.csproj|solutionrelative:cybor2.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166C8011-4B3F-4158-8740-FA4D184B310F}|Cybor2.DAL\\Cybor2.DAL.csproj|d:\\ab206-cff\\code-attempts\\cybor2\\cybor2.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166C8011-4B3F-4158-8740-FA4D184B310F}|Cybor2.DAL\\Cybor2.DAL.csproj|solutionrelative:cybor2.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthCreateVM.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.BL\\ViewModels\\AuthCreateVM.cs",
+              "RelativeDocumentMoniker": "Cybor2.BL\\ViewModels\\AuthCreateVM.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.BL\\ViewModels\\AuthCreateVM.cs",
+              "RelativeToolTip": "Cybor2.BL\\ViewModels\\AuthCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:22:56.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.BL\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Cybor2.BL\\Services\\AuthService.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.BL\\Services\\AuthService.cs",
+              "RelativeToolTip": "Cybor2.BL\\Services\\AuthService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwC8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:13:10.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Cybor2.MVC\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Cybor2.MVC\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwEQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T23:11:10.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Cybor2.MVC\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Cybor2.MVC\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T23:10:51.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Cybor2.MVC\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Cybor2.MVC\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:10:17.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateVM.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.BL\\ViewModels\\UpdateVM.cs",
+              "RelativeDocumentMoniker": "Cybor2.BL\\ViewModels\\UpdateVM.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.BL\\ViewModels\\UpdateVM.cs",
+              "RelativeToolTip": "Cybor2.BL\\ViewModels\\UpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:00:52.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Cybor2.MVC\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Cybor2.MVC\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T22:46:39.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Views\\Product\\Info.cshtml",
+              "RelativeDocumentMoniker": "Cybor2.MVC\\Areas\\Admin\\Views\\Product\\Info.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Views\\Product\\Info.cshtml",
+              "RelativeToolTip": "Cybor2.MVC\\Areas\\Admin\\Views\\Product\\Info.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T22:15:58.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Cybor2.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Cybor2.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:37:20.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Cybor2.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Cybor2.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T21:35:30.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cybor2.MVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Cybor2.MVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T21:33:46.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Cybor2.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Cybor2.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T21:27:25.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Cybor2.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Cybor2.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T21:27:24.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cybor2.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Cybor2.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T21:27:17.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cybor2.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Cybor2.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T21:27:04.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cybor2.MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Cybor2.MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T21:27:01.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Cybor2.MVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Cybor2.MVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwEQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:26:49.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Cybor2.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Cybor2.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T21:24:08.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.BL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Cybor2.BL\\Services\\ProductService.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.BL\\Services\\ProductService.cs",
+              "RelativeToolTip": "Cybor2.BL\\Services\\ProductService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA+wEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:22:55.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250522212214_CreateProductModel.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.DAL\\Migrations\\20250522212214_CreateProductModel.cs",
+              "RelativeDocumentMoniker": "Cybor2.DAL\\Migrations\\20250522212214_CreateProductModel.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.DAL\\Migrations\\20250522212214_CreateProductModel.cs",
+              "RelativeToolTip": "Cybor2.DAL\\Migrations\\20250522212214_CreateProductModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:22:16.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Cybor2.MVC\\Program.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\Program.cs",
+              "RelativeToolTip": "Cybor2.MVC\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:15:36.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Cybor2.MVC\\appsettings.json",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\appsettings.json",
+              "RelativeToolTip": "Cybor2.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T21:13:24.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.DAL\\Models\\AppRole.cs",
+              "RelativeDocumentMoniker": "Cybor2.DAL\\Models\\AppRole.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.DAL\\Models\\AppRole.cs",
+              "RelativeToolTip": "Cybor2.DAL\\Models\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:11:28.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.DAL\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Cybor2.DAL\\Models\\AppUser.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.DAL\\Models\\AppUser.cs",
+              "RelativeToolTip": "Cybor2.DAL\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:10:17.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Cybor2.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Cybor2.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:04:13.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.BL\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "Cybor2.BL\\ViewModels\\ProductVM.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.BL\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "Cybor2.BL\\ViewModels\\ProductVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:02:36.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.DAL\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Cybor2.DAL\\Models\\ProductModel.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.DAL\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Cybor2.DAL\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:01:41.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

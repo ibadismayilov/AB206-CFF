@@ -1,0 +1,15 @@
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.DAL\bin\Debug\net8.0\Cyborg.DAL.deps.json
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.DAL\bin\Debug\net8.0\Cyborg.DAL.runtimeconfig.json
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.DAL\bin\Debug\net8.0\Cyborg.DAL.dll
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.DAL\bin\Debug\net8.0\Cyborg.DAL.pdb
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.DAL\obj\Debug\net8.0\Cyborg.DAL.csproj.AssemblyReference.cache
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.DAL\obj\Debug\net8.0\Cyborg.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.DAL\obj\Debug\net8.0\Cyborg.DAL.AssemblyInfoInputs.cache
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.DAL\obj\Debug\net8.0\Cyborg.DAL.AssemblyInfo.cs
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.DAL\obj\Debug\net8.0\Cyborg.DAL.csproj.CoreCompileInputs.cache
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.DAL\obj\Debug\net8.0\Cyborg.DAL.sourcelink.json
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.DAL\obj\Debug\net8.0\Cyborg.DAL.dll
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.DAL\obj\Debug\net8.0\refint\Cyborg.DAL.dll
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.DAL\obj\Debug\net8.0\Cyborg.DAL.pdb
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.DAL\obj\Debug\net8.0\Cyborg.DAL.genruntimeconfig.cache
+D:\AB206-CFF\Code-Attempts\Cyborg\Cyborg.DAL\obj\Debug\net8.0\ref\Cyborg.DAL.dll

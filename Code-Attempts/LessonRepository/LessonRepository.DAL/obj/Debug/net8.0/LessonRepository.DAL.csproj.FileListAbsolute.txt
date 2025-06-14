@@ -1,0 +1,15 @@
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.DAL\bin\Debug\net8.0\LessonRepository.DAL.deps.json
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.DAL\bin\Debug\net8.0\LessonRepository.DAL.runtimeconfig.json
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.DAL\bin\Debug\net8.0\LessonRepository.DAL.dll
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.DAL\bin\Debug\net8.0\LessonRepository.DAL.pdb
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.DAL\obj\Debug\net8.0\LessonRepository.DAL.csproj.AssemblyReference.cache
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.DAL\obj\Debug\net8.0\LessonRepository.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.DAL\obj\Debug\net8.0\LessonRepository.DAL.AssemblyInfoInputs.cache
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.DAL\obj\Debug\net8.0\LessonRepository.DAL.AssemblyInfo.cs
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.DAL\obj\Debug\net8.0\LessonRepository.DAL.csproj.CoreCompileInputs.cache
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.DAL\obj\Debug\net8.0\LessonRepository.DAL.sourcelink.json
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.DAL\obj\Debug\net8.0\LessonRepository.DAL.dll
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.DAL\obj\Debug\net8.0\refint\LessonRepository.DAL.dll
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.DAL\obj\Debug\net8.0\LessonRepository.DAL.pdb
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.DAL\obj\Debug\net8.0\LessonRepository.DAL.genruntimeconfig.cache
+D:\AB206-CFF\Code-Attempts\LessonRepository\LessonRepository.DAL\obj\Debug\net8.0\ref\LessonRepository.DAL.dll

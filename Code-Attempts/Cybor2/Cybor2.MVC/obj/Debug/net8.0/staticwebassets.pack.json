@@ -1,0 +1,429 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\Admin\\assets\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\css\\templatemo-cyborg-gaming.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-cyborg-gaming.css"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-01.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\avatar-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-02.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\avatar-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-03.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\avatar-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-04.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-bg.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\clip-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\clip-01.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\clip-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\clip-02.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\clip-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\clip-03.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\clip-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\clip-04.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\details-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\details-01.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\details-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\details-02.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\details-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\details-03.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\feature-left.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\feature-left.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\feature-right.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\feature-right.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\featured-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-01.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\featured-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-02.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\featured-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-03.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\game-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\game-01.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\game-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\game-02.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\game-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\game-03.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\popular-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\popular-01.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\popular-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\popular-02.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\popular-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\popular-03.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\popular-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\popular-04.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\popular-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\popular-05.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\popular-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\popular-06.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\popular-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\popular-07.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\popular-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\popular-08.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\profile-header.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile-header.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\profile.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\service-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\service-01.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\service-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\service-02.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\service-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\service-03.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\stream-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\stream-01.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\stream-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\stream-02.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\stream-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\stream-03.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\stream-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\stream-04.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\stream-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\stream-05.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\stream-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\stream-06.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\stream-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\stream-07.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\images\\stream-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\stream-08.jpg"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.min.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\js\\popup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popup.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tabs.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\uploadedImage\\ChatGPT Image 27 Nis 2025 20_52_2717032d98-8ac7-48a1-b150-24b1c5ca0695.png",
+      "PackagePath": "staticwebassets\\assets\\uploadedImage\\ChatGPT Image 27 Nis 2025 20_52_2717032d98-8ac7-48a1-b150-24b1c5ca0695.png"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\uploadedImage\\ChatGPT Image 27 Nis 2025 20_52_274daf2743-549d-4bda-acc2-17cc345321fb.png",
+      "PackagePath": "staticwebassets\\assets\\uploadedImage\\ChatGPT Image 27 Nis 2025 20_52_274daf2743-549d-4bda-acc2-17cc345321fb.png"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\uploadedImage\\fullmetal-alchemist-3840x2160-10399545e95ba-e3bf-4157-8096-f85eef827d46.png",
+      "PackagePath": "staticwebassets\\assets\\uploadedImage\\fullmetal-alchemist-3840x2160-10399545e95ba-e3bf-4157-8096-f85eef827d46.png"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\uploadedImage\\fullmetal-alchemist-3840x2160-10399f55cde0d-0346-4aa6-b945-10e56c79738b.png",
+      "PackagePath": "staticwebassets\\assets\\uploadedImage\\fullmetal-alchemist-3840x2160-10399f55cde0d-0346-4aa6-b945-10e56c79738b.png"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\AB206-CFF\\Code-Attempts\\Cybor2\\Cybor2.MVC\\wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Cybor2.MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Cybor2.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Cybor2.MVC.props",
+      "PackagePath": "build\\Cybor2.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Cybor2.MVC.props",
+      "PackagePath": "buildMultiTargeting\\Cybor2.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Cybor2.MVC.props",
+      "PackagePath": "buildTransitive\\Cybor2.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

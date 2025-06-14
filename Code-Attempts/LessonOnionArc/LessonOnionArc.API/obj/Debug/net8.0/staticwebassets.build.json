@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jqXzC8aNACMDPhAVo5K/QSUy9SOU7o6+2uGLOJfG1P8=",
+  "Source": "LessonOnionArc.API",
+  "BasePath": "_content/LessonOnionArc.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,467 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LessonOnionArc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|d:\\lessononionarc\\lessononionarc.persistence\\migrations\\20250612135423_createidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|solutionrelative:lessononionarc.persistence\\migrations\\20250612135423_createidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|d:\\lessononionarc\\lessononionarc.persistence\\migrations\\20250614105453_identitydbcontextadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|solutionrelative:lessononionarc.persistence\\migrations\\20250614105453_identitydbcontextadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4C8F65-F229-4BE9-92F4-E96EDE2CB223}|LessonOnionArc.API\\LessonOnionArc.API.csproj|d:\\lessononionarc\\lessononionarc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4C8F65-F229-4BE9-92F4-E96EDE2CB223}|LessonOnionArc.API\\LessonOnionArc.API.csproj|solutionrelative:lessononionarc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|d:\\lessononionarc\\lessononionarc.persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|solutionrelative:lessononionarc.persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|d:\\lessononionarc\\lessononionarc.application\\abstraction\\services\\auth\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|solutionrelative:lessononionarc.application\\abstraction\\services\\auth\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB91AB4A-A0FF-4F53-A53E-4E7763532BA2}|LessonOnionArc.Domain\\LessonOnionArc.Domain.csproj|d:\\lessononionarc\\lessononionarc.domain\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB91AB4A-A0FF-4F53-A53E-4E7763532BA2}|LessonOnionArc.Domain\\LessonOnionArc.Domain.csproj|solutionrelative:lessononionarc.domain\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|d:\\lessononionarc\\lessononionarc.application\\abstraction\\repositories\\auth\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|solutionrelative:lessononionarc.application\\abstraction\\repositories\\auth\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB91AB4A-A0FF-4F53-A53E-4E7763532BA2}|LessonOnionArc.Domain\\LessonOnionArc.Domain.csproj|d:\\lessononionarc\\lessononionarc.domain\\lessononionarc.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB91AB4A-A0FF-4F53-A53E-4E7763532BA2}|LessonOnionArc.Domain\\LessonOnionArc.Domain.csproj|solutionrelative:lessononionarc.domain\\lessononionarc.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|d:\\lessononionarc\\lessononionarc.application\\abstraction\\services\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|solutionrelative:lessononionarc.application\\abstraction\\services\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|d:\\lessononionarc\\lessononionarc.application\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|solutionrelative:lessononionarc.application\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|d:\\lessononionarc\\lessononionarc.application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|solutionrelative:lessononionarc.application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|d:\\lessononionarc\\lessononionarc.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|solutionrelative:lessononionarc.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|d:\\lessononionarc\\lessononionarc.application\\abstraction\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|solutionrelative:lessononionarc.application\\abstraction\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|d:\\lessononionarc\\lessononionarc.persistence\\contexts\\repositories\\writerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|solutionrelative:lessononionarc.persistence\\contexts\\repositories\\writerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|d:\\lessononionarc\\lessononionarc.persistence\\contexts\\repositories\\readrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|solutionrelative:lessononionarc.persistence\\contexts\\repositories\\readrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|d:\\lessononionarc\\lessononionarc.application\\abstraction\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|solutionrelative:lessononionarc.application\\abstraction\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|d:\\lessononionarc\\lessononionarc.application\\abstraction\\repositories\\irepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6165D1-5F36-4CBF-8248-D67928657C0F}|LessonOnionArc.Application\\LessonOnionArc.Application.csproj|solutionrelative:lessononionarc.application\\abstraction\\repositories\\irepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|d:\\lessononionarc\\lessononionarc.persistence\\lessononionarc.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|solutionrelative:lessononionarc.persistence\\lessononionarc.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|d:\\lessononionarc\\lessononionarc.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|solutionrelative:lessononionarc.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|d:\\lessononionarc\\lessononionarc.persistence\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|solutionrelative:lessononionarc.persistence\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|d:\\lessononionarc\\lessononionarc.persistence\\migrations\\20250611224227_createproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|solutionrelative:lessononionarc.persistence\\migrations\\20250611224227_createproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4C8F65-F229-4BE9-92F4-E96EDE2CB223}|LessonOnionArc.API\\LessonOnionArc.API.csproj|d:\\lessononionarc\\lessononionarc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D4C8F65-F229-4BE9-92F4-E96EDE2CB223}|LessonOnionArc.API\\LessonOnionArc.API.csproj|solutionrelative:lessononionarc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB91AB4A-A0FF-4F53-A53E-4E7763532BA2}|LessonOnionArc.Domain\\LessonOnionArc.Domain.csproj|d:\\lessononionarc\\lessononionarc.domain\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB91AB4A-A0FF-4F53-A53E-4E7763532BA2}|LessonOnionArc.Domain\\LessonOnionArc.Domain.csproj|solutionrelative:lessononionarc.domain\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|d:\\lessononionarc\\lessononionarc.persistence\\configurations\\productconfiguration\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41AB6A7-2D5F-4EF5-B5CE-8E098DFF6D25}|LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj|solutionrelative:lessononionarc.persistence\\configurations\\productconfiguration\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB91AB4A-A0FF-4F53-A53E-4E7763532BA2}|LessonOnionArc.Domain\\LessonOnionArc.Domain.csproj|d:\\lessononionarc\\lessononionarc.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB91AB4A-A0FF-4F53-A53E-4E7763532BA2}|LessonOnionArc.Domain\\LessonOnionArc.Domain.csproj|solutionrelative:lessononionarc.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB91AB4A-A0FF-4F53-A53E-4E7763532BA2}|LessonOnionArc.Domain\\LessonOnionArc.Domain.csproj|d:\\lessononionarc\\lessononionarc.domain\\exceptions\\productentityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB91AB4A-A0FF-4F53-A53E-4E7763532BA2}|LessonOnionArc.Domain\\LessonOnionArc.Domain.csproj|solutionrelative:lessononionarc.domain\\exceptions\\productentityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Persistence\\Contexts\\AppDbContext.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "LessonOnionArc.Persistence\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:02:46.858Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250614105453_IdentityDbContextAdded.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\Migrations\\20250614105453_IdentityDbContextAdded.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Persistence\\Migrations\\20250614105453_IdentityDbContextAdded.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\Migrations\\20250614105453_IdentityDbContextAdded.cs",
+              "RelativeToolTip": "LessonOnionArc.Persistence\\Migrations\\20250614105453_IdentityDbContextAdded.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T10:54:54.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Domain\\Entities\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Domain\\Entities\\Identity\\AppUser.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Domain\\Entities\\Identity\\AppUser.cs",
+              "RelativeToolTip": "LessonOnionArc.Domain\\Entities\\Identity\\AppUser.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T10:48:53.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LessonOnionArc.Domain",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Domain\\LessonOnionArc.Domain.csproj",
+              "RelativeDocumentMoniker": "LessonOnionArc.Domain\\LessonOnionArc.Domain.csproj",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Domain\\LessonOnionArc.Domain.csproj",
+              "RelativeToolTip": "LessonOnionArc.Domain\\LessonOnionArc.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-14T10:43:37.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Application\\Abstraction\\Services\\Auth\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Application\\Abstraction\\Services\\Auth\\AuthRepository.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Application\\Abstraction\\Services\\Auth\\AuthRepository.cs",
+              "RelativeToolTip": "LessonOnionArc.Application\\Abstraction\\Services\\Auth\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T06:00:21.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Application\\DTOs\\Auth\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Application\\DTOs\\Auth\\LoginDTO.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Application\\DTOs\\Auth\\LoginDTO.cs",
+              "RelativeToolTip": "LessonOnionArc.Application\\DTOs\\Auth\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:52:14.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Application\\DTOs\\Auth\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Application\\DTOs\\Auth\\RegisterDTO.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Application\\DTOs\\Auth\\RegisterDTO.cs",
+              "RelativeToolTip": "LessonOnionArc.Application\\DTOs\\Auth\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:50:55.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Application\\Abstraction\\Repositories\\Auth\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Application\\Abstraction\\Repositories\\Auth\\IAuthRepository.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Application\\Abstraction\\Repositories\\Auth\\IAuthRepository.cs",
+              "RelativeToolTip": "LessonOnionArc.Application\\Abstraction\\Repositories\\Auth\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:46:49.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IWriteRepository.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Application\\Abstraction\\Repositories\\IWriteRepository.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Application\\Abstraction\\Repositories\\IWriteRepository.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Application\\Abstraction\\Repositories\\IWriteRepository.cs",
+              "RelativeToolTip": "LessonOnionArc.Application\\Abstraction\\Repositories\\IWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:23:01.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WriteRepositories.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\Contexts\\Repositories\\WriteRepositories.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Persistence\\Contexts\\Repositories\\WriteRepositories.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\Contexts\\Repositories\\WriteRepositories.cs",
+              "RelativeToolTip": "LessonOnionArc.Persistence\\Contexts\\Repositories\\WriteRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:21:59.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReadRepositories.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\Contexts\\Repositories\\ReadRepositories.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Persistence\\Contexts\\Repositories\\ReadRepositories.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\Contexts\\Repositories\\ReadRepositories.cs",
+              "RelativeToolTip": "LessonOnionArc.Persistence\\Contexts\\Repositories\\ReadRepositories.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAtwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:21:05.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Application\\Abstraction\\Repositories\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Application\\Abstraction\\Repositories\\IReadRepository.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Application\\Abstraction\\Repositories\\IReadRepository.cs",
+              "RelativeToolTip": "LessonOnionArc.Application\\Abstraction\\Repositories\\IReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:18:05.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Application\\Abstraction\\Services\\Repository.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Application\\Abstraction\\Services\\Repository.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Application\\Abstraction\\Services\\Repository.cs",
+              "RelativeToolTip": "LessonOnionArc.Application\\Abstraction\\Services\\Repository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:01:52.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepositry.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Application\\Abstraction\\Repositories\\IRepositry.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Application\\Abstraction\\Repositories\\IRepositry.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Application\\Abstraction\\Repositories\\IRepositry.cs",
+              "RelativeToolTip": "LessonOnionArc.Application\\Abstraction\\Repositories\\IRepositry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:01:20.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250612135423_CreateIdentity.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\Migrations\\20250612135423_CreateIdentity.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Persistence\\Migrations\\20250612135423_CreateIdentity.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\Migrations\\20250612135423_CreateIdentity.cs",
+              "RelativeToolTip": "LessonOnionArc.Persistence\\Migrations\\20250612135423_CreateIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:54:24.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LessonOnionArc.Persistence.csproj",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj",
+              "RelativeDocumentMoniker": "LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj",
+              "RelativeToolTip": "LessonOnionArc.Persistence\\LessonOnionArc.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T13:42:41.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "LessonOnionArc.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:20:35.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250611224227_CreateProductModel.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\Migrations\\20250611224227_CreateProductModel.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Persistence\\Migrations\\20250611224227_CreateProductModel.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\Migrations\\20250611224227_CreateProductModel.cs",
+              "RelativeToolTip": "LessonOnionArc.Persistence\\Migrations\\20250611224227_CreateProductModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:42:28.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Application\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Application\\ServiceRegistration.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Application\\ServiceRegistration.cs",
+              "RelativeToolTip": "LessonOnionArc.Application\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:25:37.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Persistence\\ConfigManager.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\ConfigManager.cs",
+              "RelativeToolTip": "LessonOnionArc.Persistence\\ConfigManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:13:25.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.API\\Program.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.API\\Program.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.API\\Program.cs",
+              "RelativeToolTip": "LessonOnionArc.API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T20:52:03.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductConfig.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\Configurations\\ProductConfiguration\\ProductConfig.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Persistence\\Configurations\\ProductConfiguration\\ProductConfig.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Persistence\\Configurations\\ProductConfiguration\\ProductConfig.cs",
+              "RelativeToolTip": "LessonOnionArc.Persistence\\Configurations\\ProductConfiguration\\ProductConfig.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:37:22.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.API\\appsettings.json",
+              "RelativeDocumentMoniker": "LessonOnionArc.API\\appsettings.json",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.API\\appsettings.json",
+              "RelativeToolTip": "LessonOnionArc.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T16:30:45.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductEntityException.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Domain\\Exceptions\\ProductEntityException.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Domain\\Exceptions\\ProductEntityException.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Domain\\Exceptions\\ProductEntityException.cs",
+              "RelativeToolTip": "LessonOnionArc.Domain\\Exceptions\\ProductEntityException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:00:01.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Domain\\Entities\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Domain\\Entities\\ProductEntity.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Domain\\Entities\\ProductEntity.cs",
+              "RelativeToolTip": "LessonOnionArc.Domain\\Entities\\ProductEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:53:08.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\LessonOnionArc\\LessonOnionArc.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "LessonOnionArc.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "D:\\LessonOnionArc\\LessonOnionArc.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "LessonOnionArc.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:52:16.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+D:\AB206-CFF\Code-Attempts\Cybor2\Cybor2.BL\bin\Debug\net8.0\Cybor2.BL.deps.json
+D:\AB206-CFF\Code-Attempts\Cybor2\Cybor2.BL\bin\Debug\net8.0\Cybor2.BL.dll
+D:\AB206-CFF\Code-Attempts\Cybor2\Cybor2.BL\bin\Debug\net8.0\Cybor2.BL.pdb
+D:\AB206-CFF\Code-Attempts\Cybor2\Cybor2.BL\bin\Debug\net8.0\Cybor2.DAL.dll
+D:\AB206-CFF\Code-Attempts\Cybor2\Cybor2.BL\bin\Debug\net8.0\Cybor2.DAL.pdb
+D:\AB206-CFF\Code-Attempts\Cybor2\Cybor2.BL\obj\Debug\net8.0\Cybor2.BL.csproj.AssemblyReference.cache
+D:\AB206-CFF\Code-Attempts\Cybor2\Cybor2.BL\obj\Debug\net8.0\Cybor2.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AB206-CFF\Code-Attempts\Cybor2\Cybor2.BL\obj\Debug\net8.0\Cybor2.BL.AssemblyInfoInputs.cache
+D:\AB206-CFF\Code-Attempts\Cybor2\Cybor2.BL\obj\Debug\net8.0\Cybor2.BL.AssemblyInfo.cs
+D:\AB206-CFF\Code-Attempts\Cybor2\Cybor2.BL\obj\Debug\net8.0\Cybor2.BL.csproj.CoreCompileInputs.cache
+D:\AB206-CFF\Code-Attempts\Cybor2\Cybor2.BL\obj\Debug\net8.0\Cybor2.BL.sourcelink.json
+D:\AB206-CFF\Code-Attempts\Cybor2\Cybor2.BL\obj\Debug\net8.0\Cybor2.BL.csproj.Up2Date
+D:\AB206-CFF\Code-Attempts\Cybor2\Cybor2.BL\obj\Debug\net8.0\Cybor2.BL.dll
+D:\AB206-CFF\Code-Attempts\Cybor2\Cybor2.BL\obj\Debug\net8.0\refint\Cybor2.BL.dll
+D:\AB206-CFF\Code-Attempts\Cybor2\Cybor2.BL\obj\Debug\net8.0\Cybor2.BL.pdb
+D:\AB206-CFF\Code-Attempts\Cybor2\Cybor2.BL\obj\Debug\net8.0\ref\Cybor2.BL.dll

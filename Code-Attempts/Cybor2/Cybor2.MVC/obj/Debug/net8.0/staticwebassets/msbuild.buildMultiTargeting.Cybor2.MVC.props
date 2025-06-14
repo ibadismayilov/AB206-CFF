@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cybor2.MVC.props" />
+</Project>

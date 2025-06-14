@@ -1,0 +1,15 @@
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\ListLesson\ListLesson\bin\Debug\net8.0\ListLesson.exe
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\ListLesson\ListLesson\bin\Debug\net8.0\ListLesson.deps.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\ListLesson\ListLesson\bin\Debug\net8.0\ListLesson.runtimeconfig.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\ListLesson\ListLesson\bin\Debug\net8.0\ListLesson.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\ListLesson\ListLesson\bin\Debug\net8.0\ListLesson.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\ListLesson\ListLesson\obj\Debug\net8.0\ListLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\ListLesson\ListLesson\obj\Debug\net8.0\ListLesson.AssemblyInfoInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\ListLesson\ListLesson\obj\Debug\net8.0\ListLesson.AssemblyInfo.cs
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\ListLesson\ListLesson\obj\Debug\net8.0\ListLesson.csproj.CoreCompileInputs.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\ListLesson\ListLesson\obj\Debug\net8.0\ListLesson.sourcelink.json
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\ListLesson\ListLesson\obj\Debug\net8.0\ListLesson.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\ListLesson\ListLesson\obj\Debug\net8.0\refint\ListLesson.dll
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\ListLesson\ListLesson\obj\Debug\net8.0\ListLesson.pdb
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\ListLesson\ListLesson\obj\Debug\net8.0\ListLesson.genruntimeconfig.cache
+C:\Users\ibadi\OneDrive\Desktop\AB206-CFF\Code-Attempts\ListLesson\ListLesson\obj\Debug\net8.0\ref\ListLesson.dll

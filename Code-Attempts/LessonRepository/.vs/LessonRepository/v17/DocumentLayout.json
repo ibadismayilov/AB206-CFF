@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EFA15A-1E94-432A-BB23-1C7CA7696E02}|LessonRepository.DAL\\LessonRepository.DAL.csproj|d:\\ab206-cff\\code-attempts\\lessonrepository\\lessonrepository.dal\\repositories\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EFA15A-1E94-432A-BB23-1C7CA7696E02}|LessonRepository.DAL\\LessonRepository.DAL.csproj|solutionrelative:lessonrepository.dal\\repositories\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EFA15A-1E94-432A-BB23-1C7CA7696E02}|LessonRepository.DAL\\LessonRepository.DAL.csproj|d:\\ab206-cff\\code-attempts\\lessonrepository\\lessonrepository.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EFA15A-1E94-432A-BB23-1C7CA7696E02}|LessonRepository.DAL\\LessonRepository.DAL.csproj|solutionrelative:lessonrepository.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CAFFAC-9680-4C1C-9520-64B7B45B4AE0}|LessonRepository.BL\\LessonRepository.BL.csproj|d:\\ab206-cff\\code-attempts\\lessonrepository\\lessonrepository.bl\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CAFFAC-9680-4C1C-9520-64B7B45B4AE0}|LessonRepository.BL\\LessonRepository.BL.csproj|solutionrelative:lessonrepository.bl\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CAFFAC-9680-4C1C-9520-64B7B45B4AE0}|LessonRepository.BL\\LessonRepository.BL.csproj|d:\\ab206-cff\\code-attempts\\lessonrepository\\lessonrepository.bl\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CAFFAC-9680-4C1C-9520-64B7B45B4AE0}|LessonRepository.BL\\LessonRepository.BL.csproj|solutionrelative:lessonrepository.bl\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EFA15A-1E94-432A-BB23-1C7CA7696E02}|LessonRepository.DAL\\LessonRepository.DAL.csproj|d:\\ab206-cff\\code-attempts\\lessonrepository\\lessonrepository.dal\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EFA15A-1E94-432A-BB23-1C7CA7696E02}|LessonRepository.DAL\\LessonRepository.DAL.csproj|solutionrelative:lessonrepository.dal\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EFA15A-1E94-432A-BB23-1C7CA7696E02}|LessonRepository.DAL\\LessonRepository.DAL.csproj|d:\\ab206-cff\\code-attempts\\lessonrepository\\lessonrepository.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EFA15A-1E94-432A-BB23-1C7CA7696E02}|LessonRepository.DAL\\LessonRepository.DAL.csproj|solutionrelative:lessonrepository.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EFA15A-1E94-432A-BB23-1C7CA7696E02}|LessonRepository.DAL\\LessonRepository.DAL.csproj|d:\\ab206-cff\\code-attempts\\lessonrepository\\lessonrepository.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EFA15A-1E94-432A-BB23-1C7CA7696E02}|LessonRepository.DAL\\LessonRepository.DAL.csproj|solutionrelative:lessonrepository.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74811457-FCD2-4C82-86F0-720F6D56A039}|LessonRepository.API\\LessonRepository.API.csproj|d:\\ab206-cff\\code-attempts\\lessonrepository\\lessonrepository.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74811457-FCD2-4C82-86F0-720F6D56A039}|LessonRepository.API\\LessonRepository.API.csproj|solutionrelative:lessonrepository.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74811457-FCD2-4C82-86F0-720F6D56A039}|LessonRepository.API\\LessonRepository.API.csproj|d:\\ab206-cff\\code-attempts\\lessonrepository\\lessonrepository.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74811457-FCD2-4C82-86F0-720F6D56A039}|LessonRepository.API\\LessonRepository.API.csproj|solutionrelative:lessonrepository.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74811457-FCD2-4C82-86F0-720F6D56A039}|LessonRepository.API\\LessonRepository.API.csproj|d:\\ab206-cff\\code-attempts\\lessonrepository\\lessonrepository.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74811457-FCD2-4C82-86F0-720F6D56A039}|LessonRepository.API\\LessonRepository.API.csproj|solutionrelative:lessonrepository.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.BL\\Services\\Concretes\\ProductService.cs",
+              "RelativeDocumentMoniker": "LessonRepository.BL\\Services\\Concretes\\ProductService.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.BL\\Services\\Concretes\\ProductService.cs",
+              "RelativeToolTip": "LessonRepository.BL\\Services\\Concretes\\ProductService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T23:14:32.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.BL\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "LessonRepository.BL\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.BL\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "LessonRepository.BL\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T23:14:01.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.DAL\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "LessonRepository.DAL\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.DAL\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "LessonRepository.DAL\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T23:07:43.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.DAL\\Repositories\\Concretes\\Repository.cs",
+              "RelativeDocumentMoniker": "LessonRepository.DAL\\Repositories\\Concretes\\Repository.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.DAL\\Repositories\\Concretes\\Repository.cs",
+              "RelativeToolTip": "LessonRepository.DAL\\Repositories\\Concretes\\Repository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAtwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:56:21.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "LessonRepository.DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "LessonRepository.DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:52:16.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.API\\appsettings.json",
+              "RelativeDocumentMoniker": "LessonRepository.API\\appsettings.json",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.API\\appsettings.json",
+              "RelativeToolTip": "LessonRepository.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T22:40:02.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LessonRepository.API\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LessonRepository.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:26:45.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.DAL\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "LessonRepository.DAL\\Entities\\Product.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.DAL\\Entities\\Product.cs",
+              "RelativeToolTip": "LessonRepository.DAL\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:03:12.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.API\\Program.cs",
+              "RelativeDocumentMoniker": "LessonRepository.API\\Program.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.API\\Program.cs",
+              "RelativeToolTip": "LessonRepository.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:55:30.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LessonRepository.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonRepository\\LessonRepository.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "LessonRepository.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:55:21.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

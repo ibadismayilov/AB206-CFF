@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|d:\\ab206-cff\\code-attempts\\lessoncrud\\lessoncrud\\views\\crud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|solutionrelative:lessoncrud\\views\\crud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|d:\\ab206-cff\\code-attempts\\lessoncrud\\lessoncrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|solutionrelative:lessoncrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|d:\\ab206-cff\\code-attempts\\lessoncrud\\lessoncrud\\contorllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|solutionrelative:lessoncrud\\contorllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|d:\\ab206-cff\\code-attempts\\lessoncrud\\lessoncrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|solutionrelative:lessoncrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|d:\\ab206-cff\\code-attempts\\lessoncrud\\lessoncrud\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|solutionrelative:lessoncrud\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|d:\\ab206-cff\\code-attempts\\lessoncrud\\lessoncrud\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|solutionrelative:lessoncrud\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|d:\\ab206-cff\\code-attempts\\lessoncrud\\lessoncrud\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|solutionrelative:lessoncrud\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|d:\\ab206-cff\\code-attempts\\lessoncrud\\lessoncrud\\contorllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|solutionrelative:lessoncrud\\contorllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|d:\\ab206-cff\\code-attempts\\lessoncrud\\lessoncrud\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|solutionrelative:lessoncrud\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|d:\\ab206-cff\\code-attempts\\lessoncrud\\lessoncrud\\views\\crud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|solutionrelative:lessoncrud\\views\\crud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|d:\\ab206-cff\\code-attempts\\lessoncrud\\lessoncrud\\migrations\\20250513203518_createemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|solutionrelative:lessoncrud\\migrations\\20250513203518_createemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|d:\\ab206-cff\\code-attempts\\lessoncrud\\lessoncrud\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|solutionrelative:lessoncrud\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|d:\\ab206-cff\\code-attempts\\lessoncrud\\lessoncrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CC4ED3-EAE1-419B-AA4C-D04CF770865A}|LessonCrud\\LessonCrud.csproj|solutionrelative:lessoncrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Views\\Crud\\Create.cshtml",
+              "RelativeDocumentMoniker": "LessonCrud\\Views\\Crud\\Create.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Views\\Crud\\Create.cshtml",
+              "RelativeToolTip": "LessonCrud\\Views\\Crud\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T21:39:51.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Views\\Crud\\Index.cshtml",
+              "RelativeDocumentMoniker": "LessonCrud\\Views\\Crud\\Index.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Views\\Crud\\Index.cshtml",
+              "RelativeToolTip": "LessonCrud\\Views\\Crud\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T21:39:10.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrudController.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Contorllers\\CrudController.cs",
+              "RelativeDocumentMoniker": "LessonCrud\\Contorllers\\CrudController.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Contorllers\\CrudController.cs",
+              "RelativeToolTip": "LessonCrud\\Contorllers\\CrudController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T21:38:49.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LessonCrud\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LessonCrud\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T21:21:02.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250513203518_CreateEmployeeModel.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Migrations\\20250513203518_CreateEmployeeModel.cs",
+              "RelativeDocumentMoniker": "LessonCrud\\Migrations\\20250513203518_CreateEmployeeModel.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Migrations\\20250513203518_CreateEmployeeModel.cs",
+              "RelativeToolTip": "LessonCrud\\Migrations\\20250513203518_CreateEmployeeModel.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:35:19.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "LessonCrud\\Models\\EmployeeModel.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "LessonCrud\\Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:30:42.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LessonCrud\\Contexts\\AppDbContext.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "LessonCrud\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:23:09.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "LessonCrud\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "LessonCrud\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:20:58.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LessonCrud\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LessonCrud\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T20:10:12.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LessonCrud\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LessonCrud\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:59:23.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Program.cs",
+              "RelativeDocumentMoniker": "LessonCrud\\Program.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Program.cs",
+              "RelativeToolTip": "LessonCrud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:51:51.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LessonCrud\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LessonCrud\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAF4AAAAAAAAAAAApwGkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:51:46.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Contorllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LessonCrud\\Contorllers\\HomeController.cs",
+              "ToolTip": "D:\\AB206-CFF\\Code-Attempts\\LessonCrud\\LessonCrud\\Contorllers\\HomeController.cs",
+              "RelativeToolTip": "LessonCrud\\Contorllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:51:24.183Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\HotelMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11AC7C0E-16F1-462A-A548-307DA2E5DC63}|HotelMvc\\HotelMvc.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\code-attempts\\hotelmvc\\hotelmvc\\views\\human\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11AC7C0E-16F1-462A-A548-307DA2E5DC63}|HotelMvc\\HotelMvc.csproj|solutionrelative:hotelmvc\\views\\human\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AC7C0E-16F1-462A-A548-307DA2E5DC63}|HotelMvc\\HotelMvc.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\code-attempts\\hotelmvc\\hotelmvc\\controllers\\humancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11AC7C0E-16F1-462A-A548-307DA2E5DC63}|HotelMvc\\HotelMvc.csproj|solutionrelative:hotelmvc\\controllers\\humancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AC7C0E-16F1-462A-A548-307DA2E5DC63}|HotelMvc\\HotelMvc.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\code-attempts\\hotelmvc\\hotelmvc\\models\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11AC7C0E-16F1-462A-A548-307DA2E5DC63}|HotelMvc\\HotelMvc.csproj|solutionrelative:hotelmvc\\models\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AC7C0E-16F1-462A-A548-307DA2E5DC63}|HotelMvc\\HotelMvc.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\code-attempts\\hotelmvc\\hotelmvc\\contexts\\humandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11AC7C0E-16F1-462A-A548-307DA2E5DC63}|HotelMvc\\HotelMvc.csproj|solutionrelative:hotelmvc\\contexts\\humandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AC7C0E-16F1-462A-A548-307DA2E5DC63}|HotelMvc\\HotelMvc.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\code-attempts\\hotelmvc\\hotelmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11AC7C0E-16F1-462A-A548-307DA2E5DC63}|HotelMvc\\HotelMvc.csproj|solutionrelative:hotelmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AC7C0E-16F1-462A-A548-307DA2E5DC63}|HotelMvc\\HotelMvc.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\code-attempts\\hotelmvc\\hotelmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11AC7C0E-16F1-462A-A548-307DA2E5DC63}|HotelMvc\\HotelMvc.csproj|solutionrelative:hotelmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AC7C0E-16F1-462A-A548-307DA2E5DC63}|HotelMvc\\HotelMvc.csproj|c:\\users\\ibadi\\onedrive\\desktop\\ab206-cff\\code-attempts\\hotelmvc\\hotelmvc\\migrations\\20250506084416_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11AC7C0E-16F1-462A-A548-307DA2E5DC63}|HotelMvc\\HotelMvc.csproj|solutionrelative:hotelmvc\\migrations\\20250506084416_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\HotelMvc\\HotelMvc\\Views\\Human\\Index.cshtml",
+              "RelativeDocumentMoniker": "HotelMvc\\Views\\Human\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\HotelMvc\\HotelMvc\\Views\\Human\\Index.cshtml",
+              "RelativeToolTip": "HotelMvc\\Views\\Human\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T08:49:18.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250506084416_Init.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\HotelMvc\\HotelMvc\\Migrations\\20250506084416_Init.cs",
+              "RelativeDocumentMoniker": "HotelMvc\\Migrations\\20250506084416_Init.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\HotelMvc\\HotelMvc\\Migrations\\20250506084416_Init.cs",
+              "RelativeToolTip": "HotelMvc\\Migrations\\20250506084416_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:44:16.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HumanDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\HotelMvc\\HotelMvc\\Contexts\\HumanDbContext.cs",
+              "RelativeDocumentMoniker": "HotelMvc\\Contexts\\HumanDbContext.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\HotelMvc\\HotelMvc\\Contexts\\HumanDbContext.cs",
+              "RelativeToolTip": "HotelMvc\\Contexts\\HumanDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:29:44.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\HotelMvc\\HotelMvc\\Models\\Human.cs",
+              "RelativeDocumentMoniker": "HotelMvc\\Models\\Human.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\HotelMvc\\HotelMvc\\Models\\Human.cs",
+              "RelativeToolTip": "HotelMvc\\Models\\Human.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:28:31.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\HotelMvc\\HotelMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HotelMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\HotelMvc\\HotelMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HotelMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T20:29:00.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HumanController.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\HotelMvc\\HotelMvc\\Controllers\\HumanController.cs",
+              "RelativeDocumentMoniker": "HotelMvc\\Controllers\\HumanController.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\HotelMvc\\HotelMvc\\Controllers\\HumanController.cs",
+              "RelativeToolTip": "HotelMvc\\Controllers\\HumanController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:45:37.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\HotelMvc\\HotelMvc\\Program.cs",
+              "RelativeDocumentMoniker": "HotelMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\Code-Attempts\\HotelMvc\\HotelMvc\\Program.cs",
+              "RelativeToolTip": "HotelMvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:42:25.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

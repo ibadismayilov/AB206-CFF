@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\HomeWork-2-ArrayToStringConverter\\ArrayToStringConverter\\ArrayToStringConverter.csproj",
+      "projectUniqueName": "D:\\AB206-CFF\\Tasks\\HomeWork-2-ArrayToStringConverter\\ArrayToStringConverter\\ArrayToStringConverter.csproj",
       "projectName": "ArrayToStringConverter",
-      "projectPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\HomeWork-2-ArrayToStringConverter\\ArrayToStringConverter\\ArrayToStringConverter.csproj",
+      "projectPath": "D:\\AB206-CFF\\Tasks\\HomeWork-2-ArrayToStringConverter\\ArrayToStringConverter\\ArrayToStringConverter.csproj",
       "packagesPath": "C:\\Users\\ibadi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\AB206-CFF\\HomeWork-2-ArrayToStringConverter\\ArrayToStringConverter\\obj\\",
+      "outputPath": "D:\\AB206-CFF\\Tasks\\HomeWork-2-ArrayToStringConverter\\ArrayToStringConverter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
