@@ -4012,11 +4012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibadi\\OneDrive\\Desktop\\FiorellaMvc\\FiorellaMvc\\FiorellaMvc\\FiorellaMvc.csproj",
+      "projectUniqueName": "D:\\AB206-CFF\\Tasks\\FiorellaMvc\\FiorellaMvc\\FiorellaMvc.csproj",
       "projectName": "FiorellaMvc",
-      "projectPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\FiorellaMvc\\FiorellaMvc\\FiorellaMvc\\FiorellaMvc.csproj",
+      "projectPath": "D:\\AB206-CFF\\Tasks\\FiorellaMvc\\FiorellaMvc\\FiorellaMvc.csproj",
       "packagesPath": "C:\\Users\\ibadi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibadi\\OneDrive\\Desktop\\FiorellaMvc\\FiorellaMvc\\FiorellaMvc\\obj\\",
+      "outputPath": "D:\\AB206-CFF\\Tasks\\FiorellaMvc\\FiorellaMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
